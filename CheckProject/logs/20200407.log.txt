@@ -1,0 +1,221 @@
+2020-04-14 19:27:23.2598 INFO 0410445c-0c76-4af2-b4f4-53fe8c8ba0e9: Session started
+2020-04-14 19:27:23.3460 INFO 0410445c-0c76-4af2-b4f4-53fe8c8ba0e9: Loaded 'SelectProduct.aspx'
+2020-04-14 19:27:23.6445 INFO 0410445c-0c76-4af2-b4f4-53fe8c8ba0e9: Ignored error in RemoveUnapprovedChecksFromInvoice
+2020-04-14 19:30:21.0794 ERROR 0410445c-0c76-4af2-b4f4-53fe8c8ba0e9: Error in: http://localhost:64322/OrderStart/SelectProduct.aspx
+Error Message:Login failed for user 'webcheck'.
+Stack Trace:   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at AdvLaser.AdvLaserDataAccess.ProductTypeDataAccess.GetProductTypeList(String aSQL) in C:\advlaser\WebCheck_4_0_1_0\AdvantageLaser\AdvantageLaserData\Data\BusObjects\DataAccess\ProductTypeDataAccess.cs:line 116
+   at CheckProject.OrderStart.SelectProduct.Page_Load(Object sender, EventArgs e) in C:\advlaser\WebCheck_4_0_1_0\AdvantageLaser\CheckProject\OrderStart\SelectProduct.aspx.cs:line 27
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at CheckProject.WebUtils.BasePage.OnLoad(EventArgs e) in C:\advlaser\WebCheck_4_0_1_0\AdvantageLaser\CheckProject\webutils\BasePage.cs:line 79
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) Login failed for user 'webcheck'.
+2020-04-14 19:30:21.2256 INFO 0410445c-0c76-4af2-b4f4-53fe8c8ba0e9: Session ended
+2020-04-14 19:30:29.1027 INFO 039269f7-9bc0-4f76-b0c3-6ecaf7ef1443: Session started
+2020-04-14 19:30:29.1976 INFO 039269f7-9bc0-4f76-b0c3-6ecaf7ef1443: Loaded 'SelectProduct.aspx'
+2020-04-14 19:55:41.1768 INFO 039269f7-9bc0-4f76-b0c3-6ecaf7ef1443: Session ended
+2020-04-15 07:46:51.3890 INFO d75a14a7-9cd1-4fc8-8be2-1bfc956fe5ab: Session started
+2020-04-15 07:46:51.6399 INFO d75a14a7-9cd1-4fc8-8be2-1bfc956fe5ab: Loaded 'SelectProduct.aspx'
+2020-04-15 07:48:00.6303 INFO d75a14a7-9cd1-4fc8-8be2-1bfc956fe5ab: Loading page 'ConfirmPreview'
+2020-04-15 07:48:00.8054 INFO d75a14a7-9cd1-4fc8-8be2-1bfc956fe5ab: Loading image with URL ImageBuilder.aspx?Line1=steve&Line2=&Line3=&Line4=&Line5=&bankname=gfsdfgsdfgsdfsdf&accountnumber=33333333&routingnumber=261071315&bankcsz=&bankphone=&bankfraction=&producttypekey=1
+2020-04-15 07:48:05.0809 INFO d75a14a7-9cd1-4fc8-8be2-1bfc956fe5ab: Loading page 'ConfirmPreview'
+2020-04-15 07:48:05.1856 INFO d75a14a7-9cd1-4fc8-8be2-1bfc956fe5ab: called btnContinue_OnClick 
+2020-04-15 07:49:15.0472 INFO d75a14a7-9cd1-4fc8-8be2-1bfc956fe5ab: Loaded 'ConfirmOrder.aspx'
+2020-04-15 07:49:18.4547 INFO d75a14a7-9cd1-4fc8-8be2-1bfc956fe5ab: Loaded 'ConfirmOrder.aspx'
+2020-04-15 07:50:17.4394 INFO d75a14a7-9cd1-4fc8-8be2-1bfc956fe5ab: Begin Admin Email
+2020-04-15 07:50:17.4518 INFO d75a14a7-9cd1-4fc8-8be2-1bfc956fe5ab: <b>Order #: </b>0<br /><br /><b>IP Address: </b>::1<br /><b>Company Name: </b>Test Company Name<br /><b>Customer Name: </b>Steve Houghton<br /><b>EMail address: </b>Steve@gmail.com<br /><b>Phone: </b>770-555-5555<br /><br /><b>Billing Address</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Shipping Address:</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Order details</b><br />Item: 250 Deposit Slips - QuickBooks Printable Deposit Slip - 250 Deposit Slips<br />Account: ******3333<br />Price: $25.00<br /><br /><br /><b>Sub-Total: </b>$25.00<br /><b>Shipping method: </b>FedEx Ground Shipping<br /><b>Shipping amount: </b>$0.00<br /><b>Order total: </b>$25.00<br /><br /><b>Payment method:</b><br />Charges will be billed<br /><br />
+2020-04-15 07:50:17.4518 INFO d75a14a7-9cd1-4fc8-8be2-1bfc956fe5ab: End Admin Email
+2020-04-15 07:50:17.4672 INFO d75a14a7-9cd1-4fc8-8be2-1bfc956fe5ab: Begin Customer Confirmation Email
+2020-04-15 07:50:17.4672 INFO d75a14a7-9cd1-4fc8-8be2-1bfc956fe5ab: <b>Thanks for Ordering with Advantage Laser Products!</b><br/>We Appreciate Your Business<br/><br/>Please allow 24 hours to process your order!<br/>If you have any questions or to check the status of your order call 1-800-722-2804<br/><br/><b>Order #: </b>0<br /><br /><b>Company Name: </b>Test Company Name<br /><b>Customer Name: </b>Steve Houghton<br /><b>EMail address: </b>Steve@gmail.com<br /><b>Phone: </b>770-555-5555<br /><br /><b>Billing Address</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Shipping Address:</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Order details</b><br />Item: 250 Deposit Slips - QuickBooks Printable Deposit Slip - 250 Deposit Slips<br />Account: ******3333<br />Price: $25.00<br /><br /><br /><b>Sub-Total: </b>$25.00<br /><b>Shipping method: </b>FedEx Ground Shipping<br /><b>Shipping amount: </b>$0.00<br /><b>Order total: </b>$25.00<br /><br /><b>Payment method:</b><br />Charges will be billed<br /><br />
+2020-04-15 07:50:17.4672 INFO d75a14a7-9cd1-4fc8-8be2-1bfc956fe5ab: Begin Customer Confirmation Email
+2020-04-15 07:50:50.9083 ERROR d75a14a7-9cd1-4fc8-8be2-1bfc956fe5ab: Error in: http://localhost:64322/OrderProcessing/ThankYou.aspx?InvoiceKey=0
+Error Message:Object reference not set to an instance of an object.
+Stack Trace:   at CheckProject.ThankYou.Page_Load(Object sender, EventArgs e) in C:\advlaser\WebCheck_4_0_1_0\AdvantageLaser\CheckProject\OrderProcessing\ThankYou.aspx.cs:line 22
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at CheckProject.WebUtils.BasePage.OnLoad(EventArgs e) in C:\advlaser\WebCheck_4_0_1_0\AdvantageLaser\CheckProject\webutils\BasePage.cs:line 79
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) Object reference not set to an instance of an object.
+2020-04-17 07:11:22.1595 INFO e3749507-be27-409a-8736-840f57280bd6: Session started
+2020-04-17 07:11:22.2710 INFO e3749507-be27-409a-8736-840f57280bd6: Loaded 'SelectProduct.aspx'
+2020-04-17 07:11:47.6527 INFO e3749507-be27-409a-8736-840f57280bd6: Loading page 'ConfirmPreview'
+2020-04-17 07:11:47.8240 INFO e3749507-be27-409a-8736-840f57280bd6: Loading image with URL ImageBuilder.aspx?Line1=3010+Highland+Dr+SE&Line2=&Line3=&Line4=&Line5=&bankname=gfsdfgsdfgsdfsdf&accountnumber=33333333&routingnumber=261071315&bankcsz=&bankphone=&bankfraction=&producttypekey=1
+2020-04-17 07:11:51.5068 INFO e3749507-be27-409a-8736-840f57280bd6: Loading page 'ConfirmPreview'
+2020-04-17 07:11:51.6324 INFO e3749507-be27-409a-8736-840f57280bd6: called btnContinue_OnClick 
+2020-04-17 07:12:09.9021 INFO e3749507-be27-409a-8736-840f57280bd6: Loaded 'ConfirmOrder.aspx'
+2020-04-17 07:12:12.3602 INFO e3749507-be27-409a-8736-840f57280bd6: Loaded 'ConfirmOrder.aspx'
+2020-04-17 07:12:51.3683 INFO e3749507-be27-409a-8736-840f57280bd6: Begin Admin Email
+2020-04-17 07:12:51.3837 INFO e3749507-be27-409a-8736-840f57280bd6: <b>Order #: </b>0<br /><br /><b>IP Address: </b>::1<br /><b>Company Name: </b>Test Company Name<br /><b>Customer Name: </b>Steve Houghton<br /><b>EMail address: </b>Steve@gmail.com<br /><b>Phone: </b>770-555-5555<br /><br /><b>Billing Address</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Shipping Address:</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Order details</b><br />Item: 250 Deposit Slips - QuickBooks Printable Deposit Slip - 250 Deposit Slips<br />Account: <br />Price: $25.00<br /><br /><br /><b>Sub-Total: </b>$25.00<br /><b>Shipping method: </b>FedEx Ground Shipping<br /><b>Shipping amount: </b>$14.61<br /><b>Order total: </b>$39.61<br /><br /><b>Payment method:</b><br />Charges will be billed<br /><br />
+2020-04-17 07:12:51.3975 INFO e3749507-be27-409a-8736-840f57280bd6: End Admin Email
+2020-04-17 07:12:51.4084 INFO e3749507-be27-409a-8736-840f57280bd6: Begin Customer Confirmation Email
+2020-04-17 07:12:51.4084 INFO e3749507-be27-409a-8736-840f57280bd6: <b>Thanks for Ordering with Advantage Laser Products!</b><br/>We Appreciate Your Business<br/><br/>Please allow 24 hours to process your order!<br/>If you have any questions or to check the status of your order call 1-800-722-2804<br/><br/><b>Order #: </b>0<br /><br /><b>Company Name: </b>Test Company Name<br /><b>Customer Name: </b>Steve Houghton<br /><b>EMail address: </b>Steve@gmail.com<br /><b>Phone: </b>770-555-5555<br /><br /><b>Billing Address</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Shipping Address:</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Order details</b><br />Item: 250 Deposit Slips - QuickBooks Printable Deposit Slip - 250 Deposit Slips<br />Account: <br />Price: $25.00<br /><br /><br /><b>Sub-Total: </b>$25.00<br /><b>Shipping method: </b>FedEx Ground Shipping<br /><b>Shipping amount: </b>$14.61<br /><b>Order total: </b>$39.61<br /><br /><b>Payment method:</b><br />Charges will be billed<br /><br />
+2020-04-17 07:12:51.4303 INFO e3749507-be27-409a-8736-840f57280bd6: Begin Customer Confirmation Email
+2020-04-17 07:16:20.0360 INFO e3749507-be27-409a-8736-840f57280bd6: Loaded 'SelectProduct.aspx'
+2020-04-17 07:16:33.4217 ERROR e3749507-be27-409a-8736-840f57280bd6: Error in: http://localhost:64322/OrderStart/SelectProduct.aspx
+Error Message:Unable to cast object of type 'System.String' to type 'AdvLaser.AdvLaserObjects.Invoice'.
+Stack Trace:   at CheckProject.WebUtils.BasePage.GetInvoiceFromSession(Boolean ignoreNullSession) in C:\advlaser\WebCheck_4_0_1_0\AdvantageLaser\CheckProject\webutils\BasePage.cs:line 137
+   at CheckProject.WebUtils.BasePage.RemoveUnapprovedChecksFromInvoice() in C:\advlaser\WebCheck_4_0_1_0\AdvantageLaser\CheckProject\webutils\BasePage.cs:line 2009
+   at CheckProject.OrderStart.SelectProduct.Page_Load(Object sender, EventArgs e) in C:\advlaser\WebCheck_4_0_1_0\AdvantageLaser\CheckProject\OrderStart\SelectProduct.aspx.cs:line 23
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at CheckProject.WebUtils.BasePage.OnLoad(EventArgs e) in C:\advlaser\WebCheck_4_0_1_0\AdvantageLaser\CheckProject\webutils\BasePage.cs:line 79
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) Unable to cast object of type 'System.String' to type 'AdvLaser.AdvLaserObjects.Invoice'.
+2020-04-17 07:16:41.1181 INFO e3749507-be27-409a-8736-840f57280bd6: Loaded 'SelectProduct.aspx'
+2020-04-17 07:17:02.7901 INFO e3749507-be27-409a-8736-840f57280bd6: Loading page 'ConfirmPreview'
+2020-04-17 07:17:02.9412 INFO e3749507-be27-409a-8736-840f57280bd6: Loading image with URL ImageBuilder.aspx?Line1=steve&Line2=&Line3=&Line4=&Line5=&bankname=gfsdfgsdfgsdfsdf&accountnumber=33333333&routingnumber=261071315&bankcsz=&bankphone=&bankfraction=&producttypekey=1
+2020-04-17 07:17:07.0674 INFO e3749507-be27-409a-8736-840f57280bd6: Loading page 'ConfirmPreview'
+2020-04-17 07:17:07.1753 INFO e3749507-be27-409a-8736-840f57280bd6: called btnContinue_OnClick 
+2020-04-17 07:17:23.3179 INFO e3749507-be27-409a-8736-840f57280bd6: Loaded 'ConfirmOrder.aspx'
+2020-04-17 07:17:25.7473 INFO e3749507-be27-409a-8736-840f57280bd6: Loaded 'ConfirmOrder.aspx'
+2020-04-17 07:17:31.9408 INFO e3749507-be27-409a-8736-840f57280bd6: Order placed with InvoiceKey: 15130
+2020-04-17 07:17:32.5494 INFO e3749507-be27-409a-8736-840f57280bd6: Begin Admin Email
+2020-04-17 07:17:32.5623 INFO e3749507-be27-409a-8736-840f57280bd6: <b>Order #: </b>15130<br /><br /><b>IP Address: </b>::1<br /><b>Company Name: </b>Test Company Name<br /><b>Customer Name: </b>Steve Houghton<br /><b>EMail address: </b>Steve@gmail.com<br /><b>Phone: </b>770-555-5555<br /><br /><b>Billing Address</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Shipping Address:</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Order details</b><br />Item: 250 Deposit Slips - QuickBooks Printable Deposit Slip - 250 Deposit Slips<br />Account: ******3333<br />Price: $25.00<br /><br /><br /><b>Sub-Total: </b>$25.00<br /><b>Shipping method: </b>FedEx Ground Shipping<br /><b>Shipping amount: </b>$14.61<br /><b>Order total: </b>$39.61<br /><br /><b>Payment method:</b><br />Charges will be billed<br /><br />
+2020-04-17 07:17:32.5623 INFO e3749507-be27-409a-8736-840f57280bd6: End Admin Email
+2020-04-17 07:17:32.5852 INFO e3749507-be27-409a-8736-840f57280bd6: Begin Customer Confirmation Email
+2020-04-17 07:17:32.5961 INFO e3749507-be27-409a-8736-840f57280bd6: <b>Thanks for Ordering with Advantage Laser Products!</b><br/>We Appreciate Your Business<br/><br/>Please allow 24 hours to process your order!<br/>If you have any questions or to check the status of your order call 1-800-722-2804<br/><br/><b>Order #: </b>15130<br /><br /><b>Company Name: </b>Test Company Name<br /><b>Customer Name: </b>Steve Houghton<br /><b>EMail address: </b>Steve@gmail.com<br /><b>Phone: </b>770-555-5555<br /><br /><b>Billing Address</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Shipping Address:</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Order details</b><br />Item: 250 Deposit Slips - QuickBooks Printable Deposit Slip - 250 Deposit Slips<br />Account: ******3333<br />Price: $25.00<br /><br /><br /><b>Sub-Total: </b>$25.00<br /><b>Shipping method: </b>FedEx Ground Shipping<br /><b>Shipping amount: </b>$14.61<br /><b>Order total: </b>$39.61<br /><br /><b>Payment method:</b><br />Charges will be billed<br /><br />
+2020-04-17 07:17:32.5961 INFO e3749507-be27-409a-8736-840f57280bd6: Begin Customer Confirmation Email
+2020-04-17 07:19:37.5945 ERROR e3749507-be27-409a-8736-840f57280bd6: Error in: http://localhost:64322/OrderProcessing/ThankYou.aspx?InvoiceKey=15130
+Error Message:DebitAcct
+Stack Trace:   at System.Data.ProviderBase.FieldNameLookup.GetOrdinal(String fieldName)
+   at System.Data.SqlClient.SqlDataReader.GetOrdinal(String name)
+   at System.Data.SqlClient.SqlDataReader.get_Item(String name)
+   at AdvLaser.AdvLaserDataAccess.InvoiceDataAccess.CreateInvoice(SqlDataReader returnData) in C:\advlaser\WebCheck_4_0_1_0\AdvantageLaser\AdvantageLaserData\Data\BusObjects\DataAccess\InvoiceDataAccess.cs:line 72
+   at AdvLaser.AdvLaserDataAccess.BaseDataAccess.ExecuteObjectReader(SqlCommand sqlCmd, GenerateObjectFromReader gofr) in C:\advlaser\WebCheck_4_0_1_0\AdvantageLaser\AdvantageLaserData\Data\BusObjects\DataAccess\BaseDataAccess.cs:line 187
+   at AdvLaser.AdvLaserDataAccess.InvoiceDataAccess.GetOne(Int32 aInvoiceKey) in C:\advlaser\WebCheck_4_0_1_0\AdvantageLaser\AdvantageLaserData\Data\BusObjects\DataAccess\InvoiceDataAccess.cs:line 43
+   at CheckProject.ThankYou.Page_Load(Object sender, EventArgs e) in C:\advlaser\WebCheck_4_0_1_0\AdvantageLaser\CheckProject\OrderProcessing\ThankYou.aspx.cs:line 20
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at CheckProject.WebUtils.BasePage.OnLoad(EventArgs e) in C:\advlaser\WebCheck_4_0_1_0\AdvantageLaser\CheckProject\webutils\BasePage.cs:line 79
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) DebitAcct
+2020-04-17 07:20:52.2289 INFO e3749507-be27-409a-8736-840f57280bd6: Loaded 'SelectProduct.aspx'
+2020-04-17 07:21:13.3236 INFO e3749507-be27-409a-8736-840f57280bd6: Loading page 'ConfirmPreview'
+2020-04-17 07:21:13.7574 INFO e3749507-be27-409a-8736-840f57280bd6: Loading image with URL ImageBuilder.aspx?Line1=steve&Line2=&Line3=&Line4=&Line5=&bankname=bank+1&accountnumber=33333333&routingnumber=261071315&bankcsz=&bankphone=&bankfraction=&producttypekey=1
+2020-04-17 07:21:17.6314 INFO e3749507-be27-409a-8736-840f57280bd6: Loading page 'ConfirmPreview'
+2020-04-17 07:21:17.7361 INFO e3749507-be27-409a-8736-840f57280bd6: called btnContinue_OnClick 
+2020-04-17 07:21:31.2129 INFO e3749507-be27-409a-8736-840f57280bd6: Loaded 'ConfirmOrder.aspx'
+2020-04-17 07:21:33.8625 INFO e3749507-be27-409a-8736-840f57280bd6: Loaded 'ConfirmOrder.aspx'
+2020-04-17 07:21:35.3597 INFO e3749507-be27-409a-8736-840f57280bd6: Order placed with InvoiceKey: 15131
+2020-04-17 07:21:35.9750 INFO e3749507-be27-409a-8736-840f57280bd6: Begin Admin Email
+2020-04-17 07:21:35.9988 INFO e3749507-be27-409a-8736-840f57280bd6: <b>Order #: </b>15131<br /><br /><b>IP Address: </b>::1<br /><b>Company Name: </b>Test Company Name<br /><b>Customer Name: </b>Steve Houghton<br /><b>EMail address: </b>Steve@gmail.com<br /><b>Phone: </b>770-555-5555<br /><br /><b>Billing Address</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Shipping Address:</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Order details</b><br />Item: 250 Deposit Slips - QuickBooks Printable Deposit Slip - 250 Deposit Slips<br />Account: ******3333<br />Price: $25.00<br /><br /><br /><b>Sub-Total: </b>$25.00<br /><b>Shipping method: </b>FedEx Ground Shipping<br /><b>Shipping amount: </b>$14.61<br /><b>Order total: </b>$39.61<br /><br /><b>Payment method:</b><br />Charges will be billed<br /><br />
+2020-04-17 07:21:36.0236 INFO e3749507-be27-409a-8736-840f57280bd6: End Admin Email
+2020-04-17 07:21:36.0375 INFO e3749507-be27-409a-8736-840f57280bd6: Begin Customer Confirmation Email
+2020-04-17 07:21:36.0519 INFO e3749507-be27-409a-8736-840f57280bd6: <b>Thanks for Ordering with Advantage Laser Products!</b><br/>We Appreciate Your Business<br/><br/>Please allow 24 hours to process your order!<br/>If you have any questions or to check the status of your order call 1-800-722-2804<br/><br/><b>Order #: </b>15131<br /><br /><b>Company Name: </b>Test Company Name<br /><b>Customer Name: </b>Steve Houghton<br /><b>EMail address: </b>Steve@gmail.com<br /><b>Phone: </b>770-555-5555<br /><br /><b>Billing Address</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Shipping Address:</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Order details</b><br />Item: 250 Deposit Slips - QuickBooks Printable Deposit Slip - 250 Deposit Slips<br />Account: ******3333<br />Price: $25.00<br /><br /><br /><b>Sub-Total: </b>$25.00<br /><b>Shipping method: </b>FedEx Ground Shipping<br /><b>Shipping amount: </b>$14.61<br /><b>Order total: </b>$39.61<br /><br /><b>Payment method:</b><br />Charges will be billed<br /><br />
+2020-04-17 07:21:36.0613 INFO e3749507-be27-409a-8736-840f57280bd6: Begin Customer Confirmation Email
+2020-04-17 07:22:42.9236 ERROR e3749507-be27-409a-8736-840f57280bd6: Error in: http://localhost:64322/OrderProcessing/ThankYou.aspx?InvoiceKey=15131
+Error Message:Unable to cast object of type 'System.DBNull' to type 'System.Byte[]'.
+Stack Trace:   at AdvLaser.AdvLaserDataAccess.InvoiceDataAccess.CreateInvoice(SqlDataReader returnData) in C:\advlaser\WebCheck_4_0_1_0\AdvantageLaser\AdvantageLaserData\Data\BusObjects\DataAccess\InvoiceDataAccess.cs:line 72
+   at AdvLaser.AdvLaserDataAccess.BaseDataAccess.ExecuteObjectReader(SqlCommand sqlCmd, GenerateObjectFromReader gofr) in C:\advlaser\WebCheck_4_0_1_0\AdvantageLaser\AdvantageLaserData\Data\BusObjects\DataAccess\BaseDataAccess.cs:line 187
+   at AdvLaser.AdvLaserDataAccess.InvoiceDataAccess.GetOne(Int32 aInvoiceKey) in C:\advlaser\WebCheck_4_0_1_0\AdvantageLaser\AdvantageLaserData\Data\BusObjects\DataAccess\InvoiceDataAccess.cs:line 43
+   at CheckProject.ThankYou.Page_Load(Object sender, EventArgs e) in C:\advlaser\WebCheck_4_0_1_0\AdvantageLaser\CheckProject\OrderProcessing\ThankYou.aspx.cs:line 20
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at CheckProject.WebUtils.BasePage.OnLoad(EventArgs e) in C:\advlaser\WebCheck_4_0_1_0\AdvantageLaser\CheckProject\webutils\BasePage.cs:line 79
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) Unable to cast object of type 'System.DBNull' to type 'System.Byte[]'.
+2020-04-17 07:32:32.5763 INFO e3749507-be27-409a-8736-840f57280bd6: Session ended
+2020-04-17 07:37:50.2096 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Session started
+2020-04-17 07:37:50.3192 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Loaded 'SelectProduct.aspx'
+2020-04-17 07:38:11.4751 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Loading page 'ConfirmPreview'
+2020-04-17 07:38:11.6364 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Loading image with URL ImageBuilder.aspx?Line1=steve&Line2=&Line3=&Line4=&Line5=&bankname=bank+1&accountnumber=33333333&routingnumber=261071315&bankcsz=&bankphone=&bankfraction=&producttypekey=1
+2020-04-17 07:38:15.0111 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Loading page 'ConfirmPreview'
+2020-04-17 07:38:15.1152 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: called btnContinue_OnClick 
+2020-04-17 07:38:32.3254 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Loaded 'ConfirmOrder.aspx'
+2020-04-17 07:38:34.9222 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Loaded 'ConfirmOrder.aspx'
+2020-04-17 07:38:36.4155 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Order placed with InvoiceKey: 15132
+2020-04-17 07:38:37.0903 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Begin Admin Email
+2020-04-17 07:38:37.1026 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: <b>Order #: </b>15132<br /><br /><b>IP Address: </b>::1<br /><b>Company Name: </b>Test Company Name<br /><b>Customer Name: </b>Steve Houghton<br /><b>EMail address: </b>Steve@gmail.com<br /><b>Phone: </b>770-555-5555<br /><br /><b>Billing Address</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Shipping Address:</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Order details</b><br />Item: 250 Deposit Slips - QuickBooks Printable Deposit Slip - 250 Deposit Slips<br />Account: ******3333<br />Price: $25.00<br /><br /><br /><b>Sub-Total: </b>$25.00<br /><b>Shipping method: </b>FedEx Ground Shipping<br /><b>Shipping amount: </b>$14.61<br /><b>Order total: </b>$39.61<br /><br /><b>Payment method:</b><br />Charges will be billed<br /><br />
+2020-04-17 07:38:37.1145 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: End Admin Email
+2020-04-17 07:38:37.1255 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Begin Customer Confirmation Email
+2020-04-17 07:38:37.1255 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: <b>Thanks for Ordering with Advantage Laser Products!</b><br/>We Appreciate Your Business<br/><br/>Please allow 24 hours to process your order!<br/>If you have any questions or to check the status of your order call 1-800-722-2804<br/><br/><b>Order #: </b>15132<br /><br /><b>Company Name: </b>Test Company Name<br /><b>Customer Name: </b>Steve Houghton<br /><b>EMail address: </b>Steve@gmail.com<br /><b>Phone: </b>770-555-5555<br /><br /><b>Billing Address</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Shipping Address:</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Order details</b><br />Item: 250 Deposit Slips - QuickBooks Printable Deposit Slip - 250 Deposit Slips<br />Account: ******3333<br />Price: $25.00<br /><br /><br /><b>Sub-Total: </b>$25.00<br /><b>Shipping method: </b>FedEx Ground Shipping<br /><b>Shipping amount: </b>$14.61<br /><b>Order total: </b>$39.61<br /><br /><b>Payment method:</b><br />Charges will be billed<br /><br />
+2020-04-17 07:38:37.1478 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Begin Customer Confirmation Email
+2020-04-17 07:41:28.3715 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Loaded 'SelectProduct.aspx'
+2020-04-17 07:41:48.8687 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Loading page 'ConfirmPreview'
+2020-04-17 07:41:49.0330 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Loading image with URL ImageBuilder.aspx?Line1=3010+Highland+Dr+SE&Line2=&Line3=&Line4=&Line5=&bankname=gfsdfgsdfgsdfsdf&accountnumber=33333333&routingnumber=261071315&bankcsz=&bankphone=&bankfraction=&producttypekey=12
+2020-04-17 07:41:52.4949 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Loading page 'ConfirmPreview'
+2020-04-17 07:41:52.6105 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: called btnContinue_OnClick 
+2020-04-17 07:42:11.2651 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Loaded 'ConfirmOrder.aspx'
+2020-04-17 07:42:13.5343 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Loaded 'ConfirmOrder.aspx'
+2020-04-17 07:42:14.8856 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Order placed with InvoiceKey: 15133
+2020-04-17 07:42:15.4944 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Begin Admin Email
+2020-04-17 07:42:15.5182 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: <b>Order #: </b>15133<br /><br /><b>IP Address: </b>::1<br /><b>Company Name: </b>Test Company Name<br /><b>Customer Name: </b>Steve Houghton<br /><b>EMail address: </b>Steve@gmail.com<br /><b>Phone: </b>770-555-5555<br /><br /><b>Billing Address</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Shipping Address:</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Order details</b><br />Item: Deposit Slip Book - 4 Books (50 slips per book)<br />Account: ******3333<br />Price: $48.00<br /><br /><br /><b>Sub-Total: </b>$48.00<br /><b>Shipping method: </b>FedEx Ground Shipping<br /><b>Shipping amount: </b>$14.61<br /><b>Order total: </b>$62.61<br /><br /><b>Payment method:</b><br />Charges will be billed<br /><br />
+2020-04-17 07:42:15.5411 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: End Admin Email
+2020-04-17 07:42:15.5534 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Begin Customer Confirmation Email
+2020-04-17 07:42:15.5644 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: <b>Thanks for Ordering with Advantage Laser Products!</b><br/>We Appreciate Your Business<br/><br/>Please allow 24 hours to process your order!<br/>If you have any questions or to check the status of your order call 1-800-722-2804<br/><br/><b>Order #: </b>15133<br /><br /><b>Company Name: </b>Test Company Name<br /><b>Customer Name: </b>Steve Houghton<br /><b>EMail address: </b>Steve@gmail.com<br /><b>Phone: </b>770-555-5555<br /><br /><b>Billing Address</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Shipping Address:</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Order details</b><br />Item: Deposit Slip Book - 4 Books (50 slips per book)<br />Account: ******3333<br />Price: $48.00<br /><br /><br /><b>Sub-Total: </b>$48.00<br /><b>Shipping method: </b>FedEx Ground Shipping<br /><b>Shipping amount: </b>$14.61<br /><b>Order total: </b>$62.61<br /><br /><b>Payment method:</b><br />Charges will be billed<br /><br />
+2020-04-17 07:42:15.5644 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Begin Customer Confirmation Email
+2020-04-17 07:45:10.9648 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Loaded 'SelectProduct.aspx'
+2020-04-17 07:45:18.3657 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Loading page 'ConfirmPreview'
+2020-04-17 07:45:18.6110 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Loading image with URL CheckImageBuilder.aspx?ProductKey=20&AccountNumber=1000837737
+2020-04-17 07:45:18.6848 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Loading CheckImageBuilder.aspx
+2020-04-17 07:45:18.8044 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Using base image:../images/checks/QBVoucher/Background-blue.jpg
+2020-04-17 07:45:18.8190 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Graphics object created from image
+2020-04-17 07:45:18.8332 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Started saving graphic object
+2020-04-17 07:45:18.8505 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Bitmap saved to memorystream
+2020-04-17 07:45:18.8649 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Buffer size: 33557
+2020-04-17 07:45:23.8922 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Loading image with URL FullCheckImageBuilder.aspx?ProductKey=20&AccountNumber=1000837737
+2020-04-17 07:45:23.9308 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Loading FullCheckImageBuilder.aspx
+2020-04-17 07:45:24.0356 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Using base image:../images/checks/ADPManualPayroll/507-BL.jpg
+2020-04-17 07:45:24.0356 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Graphics object created from image
+2020-04-17 07:45:24.0530 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Started saving graphic object
+2020-04-17 07:45:24.0613 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Bitmap saved to memorystream
+2020-04-17 07:45:24.0788 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Buffer size: 39004
+2020-04-17 07:45:27.5803 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Loading image with URL FullCheckImageBuilder.aspx?ProductKey=20&AccountNumber=1000837737
+2020-04-17 07:45:27.7329 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Using base image:../images/checks/ADPManualPayroll/507-BL.jpg
+2020-04-17 07:45:27.7329 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Graphics object created from image
+2020-04-17 07:45:27.7562 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Started saving graphic object
+2020-04-17 07:45:27.7671 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Saving preview image to: C:\advlaser\preview\053140111-1000837737.jpg
+2020-04-17 07:45:27.8345 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Loading FullCheckImageBuilder.aspx
+2020-04-17 07:45:27.9413 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Using base image:../images/checks/ADPManualPayroll/507-BL.jpg
+2020-04-17 07:45:27.9542 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Graphics object created from image
+2020-04-17 07:45:27.9676 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Started saving graphic object
+2020-04-17 07:45:27.9904 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Bitmap saved to memorystream
+2020-04-17 07:45:28.0017 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Buffer size: 39004
+2020-04-17 07:45:40.3183 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Loaded 'ConfirmOrder.aspx'
+2020-04-17 07:45:58.4293 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Loaded 'ConfirmOrder.aspx'
+2020-04-17 07:46:02.3889 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Order placed with InvoiceKey: 15134
+2020-04-17 07:46:03.2650 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Begin Admin Email
+2020-04-17 07:46:03.2888 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: <b>Order #: </b>15134<br /><br /><b>IP Address: </b>::1<br /><b>Company Name: </b>Test Company Name<br /><b>Customer Name: </b>Steve Houghton<br /><b>EMail address: </b>Steve@gmail.com<br /><b>Phone: </b>770-555-5555<br /><br /><b>Billing Address</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Shipping Address:</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Order details</b><br />Item: CPCHK507BL - ADP Manual Payroll Check - 250 Preprinted Checks (Blue)<br />Account: ******7737<br />Price: $40.00<br /><br /><br /><b>Sub-Total: </b>$40.00<br /><b>Shipping method: </b>FedEx Ground Shipping<br /><b>Shipping amount: </b>$14.61<br /><b>Order total: </b>$54.61<br /><br /><b>Payment method:</b><br />Charges will be billed<br /><br />
+2020-04-17 07:46:03.3065 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: End Admin Email
+2020-04-17 07:46:03.3161 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Begin Customer Confirmation Email
+2020-04-17 07:46:03.3161 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: <b>Thanks for Ordering with Advantage Laser Products!</b><br/>We Appreciate Your Business<br/><br/>Please allow 24 hours to process your order!<br/>If you have any questions or to check the status of your order call 1-800-722-2804<br/><br/><b>Order #: </b>15134<br /><br /><b>Company Name: </b>Test Company Name<br /><b>Customer Name: </b>Steve Houghton<br /><b>EMail address: </b>Steve@gmail.com<br /><b>Phone: </b>770-555-5555<br /><br /><b>Billing Address</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Shipping Address:</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Order details</b><br />Item: CPCHK507BL - ADP Manual Payroll Check - 250 Preprinted Checks (Blue)<br />Account: ******7737<br />Price: $40.00<br /><br /><br /><b>Sub-Total: </b>$40.00<br /><b>Shipping method: </b>FedEx Ground Shipping<br /><b>Shipping amount: </b>$14.61<br /><b>Order total: </b>$54.61<br /><br /><b>Payment method:</b><br />Charges will be billed<br /><br />
+2020-04-17 07:46:03.3316 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Begin Customer Confirmation Email
+2020-04-17 07:49:19.5250 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Loaded 'SelectProduct.aspx'
+2020-04-17 07:49:37.9316 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Loading page 'ConfirmPreview'
+2020-04-17 07:49:38.0716 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Loading image with URL ImageBuilder.aspx?Line1=steve&Line2=&Line3=&Line4=&Line5=&bankname=gfsdfgsdfgsdfsdf&accountnumber=33333333&routingnumber=261071315&bankcsz=&bankphone=&bankfraction=&producttypekey=1
+2020-04-17 07:49:46.3978 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Loading page 'ConfirmPreview'
+2020-04-17 07:49:46.5145 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: called btnContinue_OnClick 
+2020-04-17 07:50:04.2329 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Loaded 'ConfirmOrder.aspx'
+2020-04-17 07:50:08.8277 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Loaded 'ConfirmOrder.aspx'
+2020-04-17 07:50:10.5755 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Order placed with InvoiceKey: 15135
+2020-04-17 07:50:11.1817 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Begin Admin Email
+2020-04-17 07:50:11.2051 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: <b>Order #: </b>15135<br /><br /><b>IP Address: </b>::1<br /><b>Company Name: </b>Test Company Name<br /><b>Customer Name: </b>Steve Houghton<br /><b>EMail address: </b>Steve@gmail.com<br /><b>Phone: </b>770-555-5555<br /><br /><b>Billing Address</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Shipping Address:</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Order details</b><br />Item: 250 Deposit Slips - QuickBooks Printable Deposit Slip - 250 Deposit Slips<br />Account: ******3333<br />Price: $25.00<br /><br /><br /><b>Sub-Total: </b>$25.00<br /><b>Shipping method: </b>FedEx Ground Shipping<br /><b>Shipping amount: </b>$14.61<br /><b>Order total: </b>$39.61<br /><br /><b>Payment method:</b><br />Account ******3333 will be debited<br /><br />
+2020-04-17 07:50:11.2275 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: End Admin Email
+2020-04-17 07:50:11.2467 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Begin Customer Confirmation Email
+2020-04-17 07:50:11.2591 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: <b>Thanks for Ordering with Advantage Laser Products!</b><br/>We Appreciate Your Business<br/><br/>Please allow 24 hours to process your order!<br/>If you have any questions or to check the status of your order call 1-800-722-2804<br/><br/><b>Order #: </b>15135<br /><br /><b>Company Name: </b>Test Company Name<br /><b>Customer Name: </b>Steve Houghton<br /><b>EMail address: </b>Steve@gmail.com<br /><b>Phone: </b>770-555-5555<br /><br /><b>Billing Address</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Shipping Address:</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Order details</b><br />Item: 250 Deposit Slips - QuickBooks Printable Deposit Slip - 250 Deposit Slips<br />Account: ******3333<br />Price: $25.00<br /><br /><br /><b>Sub-Total: </b>$25.00<br /><b>Shipping method: </b>FedEx Ground Shipping<br /><b>Shipping amount: </b>$14.61<br /><b>Order total: </b>$39.61<br /><br /><b>Payment method:</b><br />Account ******3333 will be debited<br /><br />
+2020-04-17 07:50:11.2707 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Begin Customer Confirmation Email
+2020-04-19 07:18:27.8291 INFO 133fbba4-b970-4203-a31a-a7f11ef319fc: Session ended
+2020-04-19 07:32:25.7328 INFO 3bcc3238-7161-483e-ac28-9618e5df7075: Session started
+2020-04-19 07:32:35.9237 INFO 3bcc3238-7161-483e-ac28-9618e5df7075: Loaded 'SelectProduct.aspx'
+2020-04-19 07:35:48.7322 INFO 3bcc3238-7161-483e-ac28-9618e5df7075: Session ended
+2020-04-19 07:51:57.2551 INFO 0a2befd7-aa00-4899-ae64-54e49e67b8a6: Session started
+2020-04-19 07:53:20.7203 INFO 0a2befd7-aa00-4899-ae64-54e49e67b8a6: Session ended
+2020-04-19 07:53:43.4723 INFO 39fce6fb-c570-416c-b0db-84da015d31b8: Session started
+2020-04-19 07:54:34.8256 INFO 39fce6fb-c570-416c-b0db-84da015d31b8: Session ended
+2020-04-19 07:54:38.8527 INFO 8bd09446-926b-473c-a698-230243b4d247: Session started
+2020-04-19 07:57:56.5001 INFO 8bd09446-926b-473c-a698-230243b4d247: Session ended
+2020-04-19 07:58:00.6434 INFO 1f03240c-62de-418a-be86-4d26f018353b: Session started
+2020-04-21 19:44:23.9774 INFO dc946b89-3a84-4a7f-a157-ed2a4951085d: Session started
+2020-04-21 19:44:24.3803 INFO dc946b89-3a84-4a7f-a157-ed2a4951085d: Loaded 'SelectProduct.aspx'
+2020-04-21 19:44:48.6366 INFO dc946b89-3a84-4a7f-a157-ed2a4951085d: Loading page 'ConfirmPreview'
+2020-04-21 19:44:48.8126 INFO dc946b89-3a84-4a7f-a157-ed2a4951085d: Loading image with URL ImageBuilder.aspx?Line1=dfgdfg&Line2=&Line3=&Line4=&Line5=&bankname=gfsdfgsdfgsdfsdf&accountnumber=54564564&routingnumber=261071315&bankcsz=&bankphone=&bankfraction=&producttypekey=1
+2020-04-21 19:44:52.6543 INFO dc946b89-3a84-4a7f-a157-ed2a4951085d: Loading page 'ConfirmPreview'
+2020-04-21 19:44:52.7662 INFO dc946b89-3a84-4a7f-a157-ed2a4951085d: called btnContinue_OnClick 

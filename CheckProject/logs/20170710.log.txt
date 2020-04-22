@@ -1,0 +1,6 @@
+2017-07-02 10:00:11.1801 INFO 0788fd8e-bbb2-4a4d-8414-42f8c8a61932: Loaded 'ConfirmOrder.aspx'
+2017-07-02 10:00:15.1724 INFO 0788fd8e-bbb2-4a4d-8414-42f8c8a61932: Loaded 'ConfirmOrder.aspx'
+2017-07-02 10:00:54.1296 INFO 0788fd8e-bbb2-4a4d-8414-42f8c8a61932: Loaded 'ConfirmOrder.aspx'
+2017-07-02 10:04:45.5188 INFO 0788fd8e-bbb2-4a4d-8414-42f8c8a61932: Loaded 'ConfirmOrder.aspx'
+2017-07-02 10:25:00.9313 INFO 0788fd8e-bbb2-4a4d-8414-42f8c8a61932: Session ended
+2017-07-04 22:18:40.7852 INFO 8070a27c-61b4-4c62-af7e-97d037cd47bf: Session ended

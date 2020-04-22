@@ -1,0 +1,2 @@
+2020-04-17 00:25:54.3494 INFO 4e09791e-5eee-45f9-aea3-2694967994b5: Session ended
+2020-04-21 00:17:34.4979 INFO ded0073c-fa73-4bb9-9da6-7afb509b1c06: Session ended

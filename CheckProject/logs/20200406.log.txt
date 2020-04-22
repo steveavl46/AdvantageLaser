@@ -1,0 +1,55 @@
+2020-04-16 06:14:44.2843 INFO 8f1dbd2d-f910-4a3c-aeab-4928540e3901: Session started
+2020-04-16 06:14:44.3905 INFO 8f1dbd2d-f910-4a3c-aeab-4928540e3901: Loaded 'SelectProduct.aspx'
+2020-04-16 06:15:14.9281 INFO 8f1dbd2d-f910-4a3c-aeab-4928540e3901: Loading page 'ConfirmPreview'
+2020-04-16 06:15:15.0885 INFO 8f1dbd2d-f910-4a3c-aeab-4928540e3901: Loading image with URL ImageBuilder.aspx?Line1=steve&Line2=&Line3=&Line4=&Line5=&bankname=gfsdfgsdfgsdfsdf&accountnumber=33333333&routingnumber=261071315&bankcsz=&bankphone=&bankfraction=&producttypekey=1
+2020-04-16 06:15:19.2978 INFO 8f1dbd2d-f910-4a3c-aeab-4928540e3901: Loading page 'ConfirmPreview'
+2020-04-16 06:15:19.4142 INFO 8f1dbd2d-f910-4a3c-aeab-4928540e3901: called btnContinue_OnClick 
+2020-04-16 06:16:37.8045 INFO 8f1dbd2d-f910-4a3c-aeab-4928540e3901: Loaded 'ConfirmOrder.aspx'
+2020-04-16 06:16:40.7770 INFO 8f1dbd2d-f910-4a3c-aeab-4928540e3901: Loaded 'ConfirmOrder.aspx'
+2020-04-16 06:16:45.8476 INFO 8f1dbd2d-f910-4a3c-aeab-4928540e3901: Begin Admin Email
+2020-04-16 06:16:45.8476 INFO 8f1dbd2d-f910-4a3c-aeab-4928540e3901: <b>Order #: </b>0<br /><br /><b>IP Address: </b>::1<br /><b>Company Name: </b>Test Company Name<br /><b>Customer Name: </b>Steve Houghton<br /><b>EMail address: </b>Steve@gmail.com<br /><b>Phone: </b>770-555-5555<br /><br /><b>Billing Address</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Shipping Address:</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Order details</b><br />Item: 250 Deposit Slips - QuickBooks Printable Deposit Slip - 250 Deposit Slips<br />Account: ******3333<br />Price: $25.00<br /><br /><br /><b>Sub-Total: </b>$25.00<br /><b>Shipping method: </b>FedEx Ground Shipping<br /><b>Shipping amount: </b>$14.61<br /><b>Order total: </b>$39.61<br /><br /><b>Payment method:</b><br />Paid by Visa  ******0063<br /><br />
+2020-04-16 06:16:45.8652 INFO 8f1dbd2d-f910-4a3c-aeab-4928540e3901: End Admin Email
+2020-04-16 06:16:45.8749 INFO 8f1dbd2d-f910-4a3c-aeab-4928540e3901: Begin Customer Confirmation Email
+2020-04-16 06:16:45.8749 INFO 8f1dbd2d-f910-4a3c-aeab-4928540e3901: <b>Thanks for Ordering with Advantage Laser Products!</b><br/>We Appreciate Your Business<br/><br/>Please allow 24 hours to process your order!<br/>If you have any questions or to check the status of your order call 1-800-722-2804<br/><br/><b>Order #: </b>0<br /><br /><b>Company Name: </b>Test Company Name<br /><b>Customer Name: </b>Steve Houghton<br /><b>EMail address: </b>Steve@gmail.com<br /><b>Phone: </b>770-555-5555<br /><br /><b>Billing Address</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Shipping Address:</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Order details</b><br />Item: 250 Deposit Slips - QuickBooks Printable Deposit Slip - 250 Deposit Slips<br />Account: ******3333<br />Price: $25.00<br /><br /><br /><b>Sub-Total: </b>$25.00<br /><b>Shipping method: </b>FedEx Ground Shipping<br /><b>Shipping amount: </b>$14.61<br /><b>Order total: </b>$39.61<br /><br /><b>Payment method:</b><br />Paid by Visa  ******0063<br /><br />
+2020-04-16 06:16:45.8940 INFO 8f1dbd2d-f910-4a3c-aeab-4928540e3901: Begin Customer Confirmation Email
+2020-04-16 06:16:53.0317 ERROR 8f1dbd2d-f910-4a3c-aeab-4928540e3901: Error in: http://localhost:64322/OrderProcessing/ThankYou.aspx?InvoiceKey=0
+Error Message:Object reference not set to an instance of an object.
+Stack Trace:   at CheckProject.ThankYou.Page_Load(Object sender, EventArgs e) in C:\advlaser\WebCheck_4_0_1_0\AdvantageLaser\CheckProject\OrderProcessing\ThankYou.aspx.cs:line 22
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at CheckProject.WebUtils.BasePage.OnLoad(EventArgs e) in C:\advlaser\WebCheck_4_0_1_0\AdvantageLaser\CheckProject\webutils\BasePage.cs:line 79
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) Object reference not set to an instance of an object.
+2020-04-16 06:28:18.6390 INFO b1eb69ae-5c22-4604-b0e3-8a420060ed7c: Session started
+2020-04-16 06:28:18.6526 INFO b1eb69ae-5c22-4604-b0e3-8a420060ed7c: Loaded 'SelectProduct.aspx'
+2020-04-16 06:28:40.3078 INFO b1eb69ae-5c22-4604-b0e3-8a420060ed7c: Loading page 'ConfirmPreview'
+2020-04-16 06:28:40.4420 INFO b1eb69ae-5c22-4604-b0e3-8a420060ed7c: Loading image with URL ImageBuilder.aspx?Line1=steve&Line2=&Line3=&Line4=&Line5=&bankname=gfsdfgsdfgsdfsdf&accountnumber=33333333&routingnumber=261071315&bankcsz=&bankphone=&bankfraction=&producttypekey=1
+2020-04-16 06:28:44.4165 INFO b1eb69ae-5c22-4604-b0e3-8a420060ed7c: Loading page 'ConfirmPreview'
+2020-04-16 06:28:44.5289 INFO b1eb69ae-5c22-4604-b0e3-8a420060ed7c: called btnContinue_OnClick 
+2020-04-16 06:29:42.2141 INFO b1eb69ae-5c22-4604-b0e3-8a420060ed7c: Loaded 'ConfirmOrder.aspx'
+2020-04-16 06:29:45.6772 INFO b1eb69ae-5c22-4604-b0e3-8a420060ed7c: Loaded 'ConfirmOrder.aspx'
+2020-04-16 06:35:16.0081 INFO b1eb69ae-5c22-4604-b0e3-8a420060ed7c: Begin Admin Email
+2020-04-16 06:35:16.0284 INFO b1eb69ae-5c22-4604-b0e3-8a420060ed7c: <b>Order #: </b>0<br /><br /><b>IP Address: </b>::1<br /><b>Company Name: </b>Test Company Name<br /><b>Customer Name: </b>Steve Houghton<br /><b>EMail address: </b>Steve@gmail.com<br /><b>Phone: </b>770-555-5555<br /><br /><b>Billing Address</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Shipping Address:</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Order details</b><br />Item: 250 Deposit Slips - QuickBooks Printable Deposit Slip - 250 Deposit Slips<br />Account: ******3333<br />Price: $25.00<br /><br /><br /><b>Sub-Total: </b>$25.00<br /><b>Shipping method: </b>FedEx Ground Shipping<br /><b>Shipping amount: </b>$14.61<br /><b>Order total: </b>$39.61<br /><br /><b>Payment method:</b><br />Paid by Visa  ******0063<br /><br />
+2020-04-16 06:35:16.0514 INFO b1eb69ae-5c22-4604-b0e3-8a420060ed7c: End Admin Email
+2020-04-16 06:35:16.0613 INFO b1eb69ae-5c22-4604-b0e3-8a420060ed7c: Begin Customer Confirmation Email
+2020-04-16 06:35:16.0613 INFO b1eb69ae-5c22-4604-b0e3-8a420060ed7c: <b>Thanks for Ordering with Advantage Laser Products!</b><br/>We Appreciate Your Business<br/><br/>Please allow 24 hours to process your order!<br/>If you have any questions or to check the status of your order call 1-800-722-2804<br/><br/><b>Order #: </b>0<br /><br /><b>Company Name: </b>Test Company Name<br /><b>Customer Name: </b>Steve Houghton<br /><b>EMail address: </b>Steve@gmail.com<br /><b>Phone: </b>770-555-5555<br /><br /><b>Billing Address</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Shipping Address:</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Order details</b><br />Item: 250 Deposit Slips - QuickBooks Printable Deposit Slip - 250 Deposit Slips<br />Account: ******3333<br />Price: $25.00<br /><br /><br /><b>Sub-Total: </b>$25.00<br /><b>Shipping method: </b>FedEx Ground Shipping<br /><b>Shipping amount: </b>$14.61<br /><b>Order total: </b>$39.61<br /><br /><b>Payment method:</b><br />Paid by Visa  ******0063<br /><br />
+2020-04-16 06:35:16.0815 INFO b1eb69ae-5c22-4604-b0e3-8a420060ed7c: Begin Customer Confirmation Email
+2020-04-16 18:51:41.2397 INFO c0344c55-ca1b-4c4f-b75f-2867aecee699: Session ended
+2020-04-16 18:51:41.2397 INFO dd0eef8f-1901-414a-b913-0c22d396beea: Session ended
+2020-04-17 06:10:01.6321 INFO a223de9a-00c1-486f-af05-b1a03b2c8059: Session started
+2020-04-17 06:10:01.7597 INFO a223de9a-00c1-486f-af05-b1a03b2c8059: Loaded 'SelectProduct.aspx'
+2020-04-17 06:10:24.8524 INFO a223de9a-00c1-486f-af05-b1a03b2c8059: Loading page 'ConfirmPreview'
+2020-04-17 06:10:25.0152 INFO a223de9a-00c1-486f-af05-b1a03b2c8059: Loading image with URL ImageBuilder.aspx?Line1=3010+Highland+Dr+SE&Line2=&Line3=&Line4=&Line5=&bankname=gfsdfgsdfgsdfsdf&accountnumber=33333333&routingnumber=261071315&bankcsz=&bankphone=&bankfraction=&producttypekey=1
+2020-04-17 06:10:28.5536 INFO a223de9a-00c1-486f-af05-b1a03b2c8059: Loading page 'ConfirmPreview'
+2020-04-17 06:10:28.6726 INFO a223de9a-00c1-486f-af05-b1a03b2c8059: called btnContinue_OnClick 
+2020-04-17 06:10:43.5671 INFO a223de9a-00c1-486f-af05-b1a03b2c8059: Loaded 'ConfirmOrder.aspx'
+2020-04-17 06:10:46.3528 INFO a223de9a-00c1-486f-af05-b1a03b2c8059: Loaded 'ConfirmOrder.aspx'
+2020-04-17 06:10:51.3824 INFO a223de9a-00c1-486f-af05-b1a03b2c8059: Order placed with InvoiceKey: 15129
+2020-04-17 06:10:52.0114 INFO a223de9a-00c1-486f-af05-b1a03b2c8059: Begin Admin Email
+2020-04-17 06:10:52.0208 INFO a223de9a-00c1-486f-af05-b1a03b2c8059: <b>Order #: </b>15129<br /><br /><b>IP Address: </b>::1<br /><b>Company Name: </b>Test Company Name<br /><b>Customer Name: </b>Steve Houghton<br /><b>EMail address: </b>Steve@gmail.com<br /><b>Phone: </b>770-555-5555<br /><br /><b>Billing Address</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Shipping Address:</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Order details</b><br />Item: 250 Deposit Slips - QuickBooks Printable Deposit Slip - 250 Deposit Slips<br />Account: ******3333<br />Price: $25.00<br /><br /><br /><b>Sub-Total: </b>$25.00<br /><b>Shipping method: </b>FedEx Ground Shipping<br /><b>Shipping amount: </b>$14.61<br /><b>Order total: </b>$39.61<br /><br /><b>Payment method:</b><br />Charges will be billed<br /><br />
+2020-04-17 06:10:52.0298 INFO a223de9a-00c1-486f-af05-b1a03b2c8059: End Admin Email
+2020-04-17 06:10:52.0298 INFO a223de9a-00c1-486f-af05-b1a03b2c8059: Begin Customer Confirmation Email
+2020-04-17 06:10:52.0506 INFO a223de9a-00c1-486f-af05-b1a03b2c8059: <b>Thanks for Ordering with Advantage Laser Products!</b><br/>We Appreciate Your Business<br/><br/>Please allow 24 hours to process your order!<br/>If you have any questions or to check the status of your order call 1-800-722-2804<br/><br/><b>Order #: </b>15129<br /><br /><b>Company Name: </b>Test Company Name<br /><b>Customer Name: </b>Steve Houghton<br /><b>EMail address: </b>Steve@gmail.com<br /><b>Phone: </b>770-555-5555<br /><br /><b>Billing Address</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Shipping Address:</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Order details</b><br />Item: 250 Deposit Slips - QuickBooks Printable Deposit Slip - 250 Deposit Slips<br />Account: ******3333<br />Price: $25.00<br /><br /><br /><b>Sub-Total: </b>$25.00<br /><b>Shipping method: </b>FedEx Ground Shipping<br /><b>Shipping amount: </b>$14.61<br /><b>Order total: </b>$39.61<br /><br /><b>Payment method:</b><br />Charges will be billed<br /><br />
+2020-04-17 06:10:52.0610 INFO a223de9a-00c1-486f-af05-b1a03b2c8059: Begin Customer Confirmation Email
+2020-04-17 06:12:29.1234 INFO a223de9a-00c1-486f-af05-b1a03b2c8059: Session ended
+2020-04-18 06:55:56.0766 INFO e10a96a1-30b9-4073-bdfc-f4ce5a082f6b: Session ended

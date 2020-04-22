@@ -1,0 +1,81 @@
+2017-07-01 06:00:03.0043 INFO 0d9f60a5-fcf4-46a5-bf03-409d01875438: Session started
+2017-07-01 06:01:06.5724 INFO 0d9f60a5-fcf4-46a5-bf03-409d01875438: Session ended
+2017-07-01 06:01:25.2477 INFO 1d944bfd-f3a1-4307-8c2f-8c8299d10ff2: Session started
+2017-07-01 06:14:49.7421 INFO 1d944bfd-f3a1-4307-8c2f-8c8299d10ff2: Session ended
+2017-07-01 06:15:12.5031 INFO 80be95c3-0fa4-4700-8916-2e88870af241: Session started
+2017-07-01 06:18:47.9674 ERROR 80be95c3-0fa4-4700-8916-2e88870af241: Error in: http://localhost:64322/coupons/AddEditCoupon.aspx
+Error Message:Object reference not set to an instance of an object.
+Stack Trace:   at CheckProject.coupons.AddEditCoupon.btnSave_Click(Object sender, EventArgs e) in c:\AdvantageLaser\CheckProject\coupons\AddEditCoupon.aspx.cs:line 71
+   at System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   at System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) Object reference not set to an instance of an object.
+2017-07-01 06:19:59.1692 INFO 80be95c3-0fa4-4700-8916-2e88870af241: Session ended
+2017-07-01 06:20:19.3215 INFO 7b4c463d-5808-491c-af62-de0be136a3be: Session started
+2017-07-01 06:22:04.6501 ERROR 7b4c463d-5808-491c-af62-de0be136a3be: Error in: http://localhost:64322/coupons/AddEditCoupon.aspx
+Error Message:Object reference not set to an instance of an object.
+Stack Trace:   at CheckProject.coupons.AddEditCoupon.btnSave_Click(Object sender, EventArgs e) in c:\AdvantageLaser\CheckProject\coupons\AddEditCoupon.aspx.cs:line 72
+   at System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   at System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) Object reference not set to an instance of an object.
+2017-07-01 06:22:20.1665 INFO d913b515-2d21-4e2d-81f0-a4df0895ec6d: Session started
+2017-07-01 06:23:05.1522 ERROR d913b515-2d21-4e2d-81f0-a4df0895ec6d: Error in: http://localhost:64322/coupons/AddEditCoupon.aspx?CouponKey=4
+Error Message:Object reference not set to an instance of an object.
+Stack Trace:   at CheckProject.coupons.AddEditCoupon.btnSave_Click(Object sender, EventArgs e) in c:\AdvantageLaser\CheckProject\coupons\AddEditCoupon.aspx.cs:line 72
+   at System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   at System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) Object reference not set to an instance of an object.
+2017-07-01 06:23:33.1469 INFO 7b4c463d-5808-491c-af62-de0be136a3be: Session ended
+2017-07-01 06:23:33.1937 INFO d913b515-2d21-4e2d-81f0-a4df0895ec6d: Session ended
+2017-07-01 06:23:50.0313 INFO f7ddd6df-c1e8-40e4-9a2b-a3b2df62f38c: Session started
+2017-07-01 06:29:38.4519 ERROR f7ddd6df-c1e8-40e4-9a2b-a3b2df62f38c: Error in: http://localhost:64322/coupons/AddEditCoupon.aspx?CouponKey=4
+Error Message:String was not recognized as a valid DateTime.
+Stack Trace:   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at CheckProject.coupons.AddEditCoupon.btnSave_Click(Object sender, EventArgs e) in c:\AdvantageLaser\CheckProject\coupons\AddEditCoupon.aspx.cs:line 84
+   at System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   at System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) String was not recognized as a valid DateTime.
+2017-07-01 06:56:40.5352 INFO 81e38a2f-64f3-4909-88a5-75c375aac3a2: Session started
+2017-07-01 06:58:36.9987 ERROR 81e38a2f-64f3-4909-88a5-75c375aac3a2: Error in: http://localhost:64322/coupons/AddEditCoupon.aspx?CouponKey=4
+Error Message:String was not recognized as a valid DateTime.
+Stack Trace:   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at CheckProject.coupons.AddEditCoupon.btnSave_Click(Object sender, EventArgs e) in c:\AdvantageLaser\CheckProject\coupons\AddEditCoupon.aspx.cs:line 84
+   at System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   at System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) String was not recognized as a valid DateTime.
+2017-07-01 06:59:54.3127 INFO 81e38a2f-64f3-4909-88a5-75c375aac3a2: Session ended
+2017-07-10 18:07:46.5081 INFO 591b258f-d0cf-47b4-b4a6-3b279b1847ef: Session started
+2017-07-10 18:07:47.3391 INFO 591b258f-d0cf-47b4-b4a6-3b279b1847ef: Loaded 'SelectProduct.aspx'
+2017-07-10 18:11:51.5361 INFO 7201c658-6734-4c3d-a6dc-6270a0bc0f72: Session started
+2017-07-10 18:11:51.6311 INFO 7201c658-6734-4c3d-a6dc-6270a0bc0f72: Loaded 'SelectProduct.aspx'
+2017-07-10 18:11:58.4995 INFO 7201c658-6734-4c3d-a6dc-6270a0bc0f72: Loaded 'SelectProduct.aspx'
+2017-07-10 18:12:03.3528 INFO 7201c658-6734-4c3d-a6dc-6270a0bc0f72: Loaded 'SelectProduct.aspx'
+2017-07-10 18:12:53.3146 INFO 7201c658-6734-4c3d-a6dc-6270a0bc0f72: Loaded 'SelectProduct.aspx'
+2017-07-10 18:13:30.0257 INFO 7201c658-6734-4c3d-a6dc-6270a0bc0f72: Loaded 'SelectProduct.aspx'
+2017-07-10 18:28:26.5000 INFO 591b258f-d0cf-47b4-b4a6-3b279b1847ef: Session ended
+2017-07-10 18:33:46.6633 INFO 7201c658-6734-4c3d-a6dc-6270a0bc0f72: Session ended
+2017-07-11 18:48:28.7022 INFO ea9f38cd-61a6-4f5c-91ff-455f18d0b456: Session started
+2017-07-11 18:48:28.7862 INFO ea9f38cd-61a6-4f5c-91ff-455f18d0b456: Loaded 'SelectProduct.aspx'
+2017-07-11 18:50:41.2398 INFO a5393241-20d2-4922-b844-cc9ea3986ca6: Session started
+2017-07-11 18:50:41.2458 INFO a5393241-20d2-4922-b844-cc9ea3986ca6: Loaded 'SelectProduct.aspx'
+2017-07-11 18:51:47.2566 INFO a5393241-20d2-4922-b844-cc9ea3986ca6: Loaded 'SelectProduct.aspx'
+2017-07-11 18:52:23.2136 INFO a5393241-20d2-4922-b844-cc9ea3986ca6: Loading page 'ConfirmPreview'
+2017-07-11 18:52:23.2486 INFO a5393241-20d2-4922-b844-cc9ea3986ca6: Loading image with URL ImageBuilder.aspx?Line1=test&Line2=&Line3=&Line4=&Line5=&bankname=dfgdf&accountnumber=55555&routingnumber=061000052&bankcsz=&bankphone=&bankfraction=
+2017-07-11 18:52:27.6539 INFO a5393241-20d2-4922-b844-cc9ea3986ca6: Loading page 'ConfirmPreview'
+2017-07-11 18:52:27.6809 INFO a5393241-20d2-4922-b844-cc9ea3986ca6: called btnContinue_OnClick 

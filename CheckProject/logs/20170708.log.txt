@@ -1,0 +1,401 @@
+2017-07-01 08:10:41.1914 INFO 40fd7fb6-37c5-4c9e-8bfa-533526d5ff01: Session ended
+2017-07-01 08:56:25.8354 INFO 8e3b35b4-058a-472b-ab46-f6a6c07e5a2d: Session started
+2017-07-01 20:00:55.9035 INFO 11d7935b-d30b-4dcd-bb76-67cc1ad62bef: Session ended
+2017-07-01 20:01:02.1993 INFO 5db496c5-59c1-473e-91b8-83f14eed7d63: Session started
+2017-07-01 20:01:02.2773 INFO 5db496c5-59c1-473e-91b8-83f14eed7d63: Loaded 'SelectProduct.aspx'
+2017-07-01 20:01:50.5994 INFO 5db496c5-59c1-473e-91b8-83f14eed7d63: Session ended
+2017-07-01 20:01:57.1703 INFO 67da8cf6-ad75-4c45-8030-98402e7fd3e0: Session started
+2017-07-01 20:01:57.2483 INFO 67da8cf6-ad75-4c45-8030-98402e7fd3e0: Loaded 'SelectProduct.aspx'
+2017-07-01 20:02:06.5044 INFO 67da8cf6-ad75-4c45-8030-98402e7fd3e0: Loading page 'ConfirmPreview'
+2017-07-01 20:02:06.5200 INFO 67da8cf6-ad75-4c45-8030-98402e7fd3e0: Loading image with URL CheckImageBuilder.aspx?ProductKey=20&AccountNumber=1000837737
+2017-07-01 20:02:06.6292 INFO 67da8cf6-ad75-4c45-8030-98402e7fd3e0: Loading CheckImageBuilder.aspx
+2017-07-01 20:02:06.6448 INFO 67da8cf6-ad75-4c45-8030-98402e7fd3e0: Using base image:../images/checks/QBVoucher/Background-blue.jpg
+2017-07-01 20:02:06.6448 INFO 67da8cf6-ad75-4c45-8030-98402e7fd3e0: Graphics object created from image
+2017-07-01 20:02:06.6604 INFO 67da8cf6-ad75-4c45-8030-98402e7fd3e0: Started saving graphic object
+2017-07-01 20:02:06.6760 INFO 67da8cf6-ad75-4c45-8030-98402e7fd3e0: Bitmap saved to memorystream
+2017-07-01 20:02:06.6760 INFO 67da8cf6-ad75-4c45-8030-98402e7fd3e0: Buffer size: 33559
+2017-07-01 20:02:08.4346 INFO 67da8cf6-ad75-4c45-8030-98402e7fd3e0: Loading image with URL FullCheckImageBuilder.aspx?ProductKey=20&AccountNumber=1000837737
+2017-07-01 20:02:08.5126 INFO 67da8cf6-ad75-4c45-8030-98402e7fd3e0: Loading FullCheckImageBuilder.aspx
+2017-07-01 20:02:08.5438 INFO 67da8cf6-ad75-4c45-8030-98402e7fd3e0: Using base image:../images/checks/ADPManualPayroll/507-BL.jpg
+2017-07-01 20:02:08.5438 INFO 67da8cf6-ad75-4c45-8030-98402e7fd3e0: Graphics object created from image
+2017-07-01 20:02:08.5438 INFO 67da8cf6-ad75-4c45-8030-98402e7fd3e0: Started saving graphic object
+2017-07-01 20:02:08.5906 INFO 67da8cf6-ad75-4c45-8030-98402e7fd3e0: Bitmap saved to memorystream
+2017-07-01 20:02:08.5906 INFO 67da8cf6-ad75-4c45-8030-98402e7fd3e0: Buffer size: 39013
+2017-07-01 20:02:10.4883 INFO 67da8cf6-ad75-4c45-8030-98402e7fd3e0: Loading image with URL FullCheckImageBuilder.aspx?ProductKey=20&AccountNumber=1000837737
+2017-07-01 20:02:10.5195 INFO 67da8cf6-ad75-4c45-8030-98402e7fd3e0: Using base image:../images/checks/ADPManualPayroll/507-BL.jpg
+2017-07-01 20:02:10.5195 INFO 67da8cf6-ad75-4c45-8030-98402e7fd3e0: Graphics object created from image
+2017-07-01 20:02:10.5351 INFO 67da8cf6-ad75-4c45-8030-98402e7fd3e0: Started saving graphic object
+2017-07-01 20:02:10.5351 INFO 67da8cf6-ad75-4c45-8030-98402e7fd3e0: Saving preview image to: \\shoughtonhome\webpreviews\053140111-1000837737.jpg
+2017-07-01 20:02:10.6131 INFO 67da8cf6-ad75-4c45-8030-98402e7fd3e0: Loading FullCheckImageBuilder.aspx
+2017-07-01 20:02:10.6599 INFO 67da8cf6-ad75-4c45-8030-98402e7fd3e0: Using base image:../images/checks/ADPManualPayroll/507-BL.jpg
+2017-07-01 20:02:10.6755 INFO 67da8cf6-ad75-4c45-8030-98402e7fd3e0: Graphics object created from image
+2017-07-01 20:02:10.6755 INFO 67da8cf6-ad75-4c45-8030-98402e7fd3e0: Started saving graphic object
+2017-07-01 20:02:10.7067 INFO 67da8cf6-ad75-4c45-8030-98402e7fd3e0: Bitmap saved to memorystream
+2017-07-01 20:02:10.7067 INFO 67da8cf6-ad75-4c45-8030-98402e7fd3e0: Buffer size: 39013
+2017-07-01 20:02:10.8571 INFO 67da8cf6-ad75-4c45-8030-98402e7fd3e0: Loading page 'ConfirmPreview'
+2017-07-01 20:02:10.9507 INFO 67da8cf6-ad75-4c45-8030-98402e7fd3e0: Loading image with URL CheckImageBuilder.aspx?ProductKey=20&AccountNumber=1000837737
+2017-07-01 20:02:11.0911 INFO 67da8cf6-ad75-4c45-8030-98402e7fd3e0: Loading CheckImageBuilder.aspx
+2017-07-01 20:02:11.1223 INFO 67da8cf6-ad75-4c45-8030-98402e7fd3e0: Using base image:../images/checks/QBVoucher/Background-blue.jpg
+2017-07-01 20:02:11.1223 INFO 67da8cf6-ad75-4c45-8030-98402e7fd3e0: Graphics object created from image
+2017-07-01 20:02:11.1877 INFO 67da8cf6-ad75-4c45-8030-98402e7fd3e0: Started saving graphic object
+2017-07-01 20:02:11.2103 INFO 67da8cf6-ad75-4c45-8030-98402e7fd3e0: Bitmap saved to memorystream
+2017-07-01 20:02:11.2259 INFO 67da8cf6-ad75-4c45-8030-98402e7fd3e0: Buffer size: 33559
+2017-07-01 20:02:12.4538 INFO 67da8cf6-ad75-4c45-8030-98402e7fd3e0: Loading page 'ConfirmPreview'
+2017-07-01 20:02:12.4694 INFO 67da8cf6-ad75-4c45-8030-98402e7fd3e0: Loading image with URL CheckImageBuilder.aspx?ProductKey=20&AccountNumber=1000837737
+2017-07-01 20:02:12.4694 INFO 67da8cf6-ad75-4c45-8030-98402e7fd3e0: called btnContinue_OnClick 
+2017-07-01 20:02:23.0658 INFO 67da8cf6-ad75-4c45-8030-98402e7fd3e0: Loaded 'ConfirmOrder.aspx'
+2017-07-01 20:02:27.5411 INFO 67da8cf6-ad75-4c45-8030-98402e7fd3e0: Loaded 'ConfirmOrder.aspx'
+2017-07-01 20:02:42.1264 INFO 67da8cf6-ad75-4c45-8030-98402e7fd3e0: Loaded 'ConfirmOrder.aspx'
+2017-07-01 20:02:45.0054 INFO 67da8cf6-ad75-4c45-8030-98402e7fd3e0: Loaded 'ConfirmOrder.aspx'
+2017-07-01 20:02:58.0184 INFO 67da8cf6-ad75-4c45-8030-98402e7fd3e0: Loaded 'ConfirmOrder.aspx'
+2017-07-01 20:23:13.0863 INFO 67da8cf6-ad75-4c45-8030-98402e7fd3e0: Session ended
+2017-07-02 20:13:43.1507 INFO 48d35b64-f45d-444e-aa56-45afa345ca8e: Session started
+2017-07-02 20:16:03.5291 INFO 48d35b64-f45d-444e-aa56-45afa345ca8e: Session ended
+2017-07-02 20:16:09.6139 INFO c4184204-549f-4c3e-957c-6f34b179d3cd: Session started
+2017-07-02 20:16:09.6919 INFO c4184204-549f-4c3e-957c-6f34b179d3cd: Loaded 'SelectProduct.aspx'
+2017-07-02 20:16:15.3438 INFO c4184204-549f-4c3e-957c-6f34b179d3cd: Loading page 'ConfirmPreview'
+2017-07-02 20:16:15.3750 INFO c4184204-549f-4c3e-957c-6f34b179d3cd: Loading image with URL CheckImageBuilder.aspx?ProductKey=38&AccountNumber=1000837737
+2017-07-02 20:16:15.4530 INFO c4184204-549f-4c3e-957c-6f34b179d3cd: Loading CheckImageBuilder.aspx
+2017-07-02 20:16:15.4998 INFO c4184204-549f-4c3e-957c-6f34b179d3cd: Using base image:../images/checks/EliteAccountsPayable/Background-blue.jpg
+2017-07-02 20:16:15.4998 INFO c4184204-549f-4c3e-957c-6f34b179d3cd: Graphics object created from image
+2017-07-02 20:16:15.5934 INFO c4184204-549f-4c3e-957c-6f34b179d3cd: Started saving graphic object
+2017-07-02 20:16:15.7026 INFO c4184204-549f-4c3e-957c-6f34b179d3cd: Bitmap saved to memorystream
+2017-07-02 20:16:15.7026 INFO c4184204-549f-4c3e-957c-6f34b179d3cd: Buffer size: 36623
+2017-07-02 20:16:18.6782 INFO c4184204-549f-4c3e-957c-6f34b179d3cd: Loading image with URL FullCheckImageBuilder.aspx?ProductKey=38&AccountNumber=1000837737
+2017-07-02 20:16:18.7874 INFO c4184204-549f-4c3e-957c-6f34b179d3cd: Loading FullCheckImageBuilder.aspx
+2017-07-02 20:16:18.8030 INFO c4184204-549f-4c3e-957c-6f34b179d3cd: Using base image:../images/checks/EliteAccountsPayable/Elite-blue.jpg
+2017-07-02 20:16:18.8186 INFO c4184204-549f-4c3e-957c-6f34b179d3cd: Graphics object created from image
+2017-07-02 20:16:18.8342 INFO c4184204-549f-4c3e-957c-6f34b179d3cd: Started saving graphic object
+2017-07-02 20:16:18.8498 INFO c4184204-549f-4c3e-957c-6f34b179d3cd: Bitmap saved to memorystream
+2017-07-02 20:16:18.8498 INFO c4184204-549f-4c3e-957c-6f34b179d3cd: Buffer size: 53409
+2017-07-02 20:16:20.3905 INFO c4184204-549f-4c3e-957c-6f34b179d3cd: Loading image with URL FullCheckImageBuilder.aspx?ProductKey=38&AccountNumber=1000837737
+2017-07-02 20:16:20.4217 INFO c4184204-549f-4c3e-957c-6f34b179d3cd: Using base image:../images/checks/EliteAccountsPayable/Elite-blue.jpg
+2017-07-02 20:16:20.4217 INFO c4184204-549f-4c3e-957c-6f34b179d3cd: Graphics object created from image
+2017-07-02 20:16:20.4373 INFO c4184204-549f-4c3e-957c-6f34b179d3cd: Started saving graphic object
+2017-07-02 20:16:20.4373 INFO c4184204-549f-4c3e-957c-6f34b179d3cd: Saving preview image to: \\shoughtonhome\webpreviews\053140111-1000837737.jpg
+2017-07-02 20:16:20.5153 INFO c4184204-549f-4c3e-957c-6f34b179d3cd: Loading FullCheckImageBuilder.aspx
+2017-07-02 20:16:20.5621 INFO c4184204-549f-4c3e-957c-6f34b179d3cd: Using base image:../images/checks/EliteAccountsPayable/Elite-blue.jpg
+2017-07-02 20:16:20.5777 INFO c4184204-549f-4c3e-957c-6f34b179d3cd: Graphics object created from image
+2017-07-02 20:16:20.5933 INFO c4184204-549f-4c3e-957c-6f34b179d3cd: Started saving graphic object
+2017-07-02 20:16:20.6245 INFO c4184204-549f-4c3e-957c-6f34b179d3cd: Bitmap saved to memorystream
+2017-07-02 20:16:20.6245 INFO c4184204-549f-4c3e-957c-6f34b179d3cd: Buffer size: 53409
+2017-07-02 20:16:20.7337 INFO c4184204-549f-4c3e-957c-6f34b179d3cd: Loading page 'ConfirmPreview'
+2017-07-02 20:16:20.7961 INFO c4184204-549f-4c3e-957c-6f34b179d3cd: Loading image with URL CheckImageBuilder.aspx?ProductKey=38&AccountNumber=1000837737
+2017-07-02 20:16:20.9053 INFO c4184204-549f-4c3e-957c-6f34b179d3cd: Loading CheckImageBuilder.aspx
+2017-07-02 20:16:20.9209 INFO c4184204-549f-4c3e-957c-6f34b179d3cd: Using base image:../images/checks/EliteAccountsPayable/Background-blue.jpg
+2017-07-02 20:16:20.9209 INFO c4184204-549f-4c3e-957c-6f34b179d3cd: Graphics object created from image
+2017-07-02 20:16:20.9521 INFO c4184204-549f-4c3e-957c-6f34b179d3cd: Started saving graphic object
+2017-07-02 20:16:20.9521 INFO c4184204-549f-4c3e-957c-6f34b179d3cd: Bitmap saved to memorystream
+2017-07-02 20:16:20.9677 INFO c4184204-549f-4c3e-957c-6f34b179d3cd: Buffer size: 36623
+2017-07-02 20:16:22.3124 INFO c4184204-549f-4c3e-957c-6f34b179d3cd: Loading page 'ConfirmPreview'
+2017-07-02 20:16:22.3124 INFO c4184204-549f-4c3e-957c-6f34b179d3cd: Loading image with URL CheckImageBuilder.aspx?ProductKey=38&AccountNumber=1000837737
+2017-07-02 20:16:22.3355 INFO c4184204-549f-4c3e-957c-6f34b179d3cd: called btnContinue_OnClick 
+2017-07-02 20:16:38.0095 INFO c4184204-549f-4c3e-957c-6f34b179d3cd: Loaded 'ConfirmOrder.aspx'
+2017-07-02 20:16:54.4688 INFO c4184204-549f-4c3e-957c-6f34b179d3cd: Loaded 'ConfirmOrder.aspx'
+2017-07-02 20:25:15.4531 INFO c4184204-549f-4c3e-957c-6f34b179d3cd: Session ended
+2017-07-02 20:38:41.6940 INFO e422a9ec-33f9-425f-8c8b-acb19e3b5b87: Session started
+2017-07-02 20:38:41.7720 INFO e422a9ec-33f9-425f-8c8b-acb19e3b5b87: Loaded 'SelectProduct.aspx'
+2017-07-02 20:38:49.7562 INFO e422a9ec-33f9-425f-8c8b-acb19e3b5b87: Loading page 'ConfirmPreview'
+2017-07-02 20:38:49.7874 INFO e422a9ec-33f9-425f-8c8b-acb19e3b5b87: Loading image with URL CheckImageBuilder.aspx?ProductKey=14&AccountNumber=1000837737
+2017-07-02 20:38:49.8966 INFO e422a9ec-33f9-425f-8c8b-acb19e3b5b87: Loading CheckImageBuilder.aspx
+2017-07-02 20:38:50.0526 INFO e422a9ec-33f9-425f-8c8b-acb19e3b5b87: Using base image:../images/checks/Peachtree/Background-blue.jpg
+2017-07-02 20:38:50.0682 INFO e422a9ec-33f9-425f-8c8b-acb19e3b5b87: Graphics object created from image
+2017-07-02 20:38:50.0838 INFO e422a9ec-33f9-425f-8c8b-acb19e3b5b87: Started saving graphic object
+2017-07-02 20:38:50.0994 INFO e422a9ec-33f9-425f-8c8b-acb19e3b5b87: Bitmap saved to memorystream
+2017-07-02 20:38:50.0994 INFO e422a9ec-33f9-425f-8c8b-acb19e3b5b87: Buffer size: 36609
+2017-07-02 20:38:52.1660 INFO e422a9ec-33f9-425f-8c8b-acb19e3b5b87: Loading image with URL FullCheckImageBuilder.aspx?ProductKey=14&AccountNumber=1000837737
+2017-07-02 20:38:52.2440 INFO e422a9ec-33f9-425f-8c8b-acb19e3b5b87: Loading FullCheckImageBuilder.aspx
+2017-07-02 20:38:52.3064 INFO e422a9ec-33f9-425f-8c8b-acb19e3b5b87: Using base image:../images/checks/Peachtree/509-bl.jpg
+2017-07-02 20:38:52.3376 INFO e422a9ec-33f9-425f-8c8b-acb19e3b5b87: Graphics object created from image
+2017-07-02 20:38:52.3532 INFO e422a9ec-33f9-425f-8c8b-acb19e3b5b87: Started saving graphic object
+2017-07-02 20:38:52.4936 INFO e422a9ec-33f9-425f-8c8b-acb19e3b5b87: Bitmap saved to memorystream
+2017-07-02 20:38:52.4936 INFO e422a9ec-33f9-425f-8c8b-acb19e3b5b87: Buffer size: 56011
+2017-07-02 20:38:54.9537 INFO e422a9ec-33f9-425f-8c8b-acb19e3b5b87: Loading image with URL FullCheckImageBuilder.aspx?ProductKey=14&AccountNumber=1000837737
+2017-07-02 20:38:54.9849 INFO e422a9ec-33f9-425f-8c8b-acb19e3b5b87: Using base image:../images/checks/Peachtree/509-bl.jpg
+2017-07-02 20:38:54.9849 INFO e422a9ec-33f9-425f-8c8b-acb19e3b5b87: Graphics object created from image
+2017-07-02 20:38:55.0005 INFO e422a9ec-33f9-425f-8c8b-acb19e3b5b87: Started saving graphic object
+2017-07-02 20:38:55.0005 INFO e422a9ec-33f9-425f-8c8b-acb19e3b5b87: Saving preview image to: \\shoughtonhome\webpreviews\053140111-1000837737.jpg
+2017-07-02 20:38:55.1791 INFO e422a9ec-33f9-425f-8c8b-acb19e3b5b87: Loading FullCheckImageBuilder.aspx
+2017-07-02 20:38:55.2259 INFO e422a9ec-33f9-425f-8c8b-acb19e3b5b87: Using base image:../images/checks/Peachtree/509-bl.jpg
+2017-07-02 20:38:55.2259 INFO e422a9ec-33f9-425f-8c8b-acb19e3b5b87: Graphics object created from image
+2017-07-02 20:38:55.2415 INFO e422a9ec-33f9-425f-8c8b-acb19e3b5b87: Started saving graphic object
+2017-07-02 20:38:55.2571 INFO e422a9ec-33f9-425f-8c8b-acb19e3b5b87: Bitmap saved to memorystream
+2017-07-02 20:38:55.2727 INFO e422a9ec-33f9-425f-8c8b-acb19e3b5b87: Buffer size: 56011
+2017-07-02 20:38:55.3039 INFO e422a9ec-33f9-425f-8c8b-acb19e3b5b87: Loading page 'ConfirmPreview'
+2017-07-02 20:38:55.3663 INFO e422a9ec-33f9-425f-8c8b-acb19e3b5b87: Loading image with URL CheckImageBuilder.aspx?ProductKey=14&AccountNumber=1000837737
+2017-07-02 20:38:55.5373 INFO e422a9ec-33f9-425f-8c8b-acb19e3b5b87: Loading CheckImageBuilder.aspx
+2017-07-02 20:38:55.5841 INFO e422a9ec-33f9-425f-8c8b-acb19e3b5b87: Using base image:../images/checks/Peachtree/Background-blue.jpg
+2017-07-02 20:38:55.6777 INFO e422a9ec-33f9-425f-8c8b-acb19e3b5b87: Graphics object created from image
+2017-07-02 20:38:55.6933 INFO e422a9ec-33f9-425f-8c8b-acb19e3b5b87: Started saving graphic object
+2017-07-02 20:38:55.7089 INFO e422a9ec-33f9-425f-8c8b-acb19e3b5b87: Bitmap saved to memorystream
+2017-07-02 20:38:55.7245 INFO e422a9ec-33f9-425f-8c8b-acb19e3b5b87: Buffer size: 36609
+2017-07-02 20:38:57.0513 INFO e422a9ec-33f9-425f-8c8b-acb19e3b5b87: Loading page 'ConfirmPreview'
+2017-07-02 20:38:57.0688 INFO e422a9ec-33f9-425f-8c8b-acb19e3b5b87: Loading image with URL CheckImageBuilder.aspx?ProductKey=14&AccountNumber=1000837737
+2017-07-02 20:38:57.0844 INFO e422a9ec-33f9-425f-8c8b-acb19e3b5b87: called btnContinue_OnClick 
+2017-07-02 20:45:57.6394 INFO e422a9ec-33f9-425f-8c8b-acb19e3b5b87: Session ended
+2017-07-03 08:51:15.7875 INFO 75dab001-1842-4bfc-ac2b-4045039f0719: Session started
+2017-07-03 08:58:59.0104 INFO 75dab001-1842-4bfc-ac2b-4045039f0719: Session ended
+2017-07-03 08:59:07.9489 INFO 570c6ea6-a5b3-4fc6-9af9-460c8a92dc44: Session started
+2017-07-04 20:05:05.0188 INFO 3e23d54b-a412-489a-aec6-57321b4fa021: Session ended
+2017-07-04 20:47:28.0282 INFO e922ccb4-7336-4250-90db-f57037d6f4fc: Session started
+2017-07-04 20:47:28.1092 INFO e922ccb4-7336-4250-90db-f57037d6f4fc: Loaded 'SelectProduct.aspx'
+2017-07-04 20:47:34.2936 INFO e922ccb4-7336-4250-90db-f57037d6f4fc: Loading page 'ConfirmPreview'
+2017-07-04 20:47:34.3236 INFO e922ccb4-7336-4250-90db-f57037d6f4fc: Loading image with URL CheckImageBuilder.aspx?ProductKey=20&AccountNumber=1000837737
+2017-07-04 20:47:34.4516 INFO e922ccb4-7336-4250-90db-f57037d6f4fc: Loading CheckImageBuilder.aspx
+2017-07-04 20:47:34.6776 INFO e922ccb4-7336-4250-90db-f57037d6f4fc: Using base image:../images/checks/QBVoucher/Background-blue.jpg
+2017-07-04 20:47:34.6856 INFO e922ccb4-7336-4250-90db-f57037d6f4fc: Graphics object created from image
+2017-07-04 20:47:34.6856 INFO e922ccb4-7336-4250-90db-f57037d6f4fc: Started saving graphic object
+2017-07-04 20:47:34.7036 INFO e922ccb4-7336-4250-90db-f57037d6f4fc: Bitmap saved to memorystream
+2017-07-04 20:47:34.7186 INFO e922ccb4-7336-4250-90db-f57037d6f4fc: Buffer size: 33559
+2017-07-04 20:47:36.5687 INFO e922ccb4-7336-4250-90db-f57037d6f4fc: Loading image with URL FullCheckImageBuilder.aspx?ProductKey=20&AccountNumber=1000837737
+2017-07-04 20:47:36.6827 INFO e922ccb4-7336-4250-90db-f57037d6f4fc: Loading FullCheckImageBuilder.aspx
+2017-07-04 20:47:36.7047 INFO e922ccb4-7336-4250-90db-f57037d6f4fc: Using base image:../images/checks/ADPManualPayroll/507-BL.jpg
+2017-07-04 20:47:36.7437 INFO e922ccb4-7336-4250-90db-f57037d6f4fc: Graphics object created from image
+2017-07-04 20:47:36.7437 INFO e922ccb4-7336-4250-90db-f57037d6f4fc: Started saving graphic object
+2017-07-04 20:47:36.7587 INFO e922ccb4-7336-4250-90db-f57037d6f4fc: Bitmap saved to memorystream
+2017-07-04 20:47:36.7817 INFO e922ccb4-7336-4250-90db-f57037d6f4fc: Buffer size: 39013
+2017-07-04 20:47:38.2558 INFO e922ccb4-7336-4250-90db-f57037d6f4fc: Loading image with URL FullCheckImageBuilder.aspx?ProductKey=20&AccountNumber=1000837737
+2017-07-04 20:47:38.2828 INFO e922ccb4-7336-4250-90db-f57037d6f4fc: Using base image:../images/checks/ADPManualPayroll/507-BL.jpg
+2017-07-04 20:47:38.2888 INFO e922ccb4-7336-4250-90db-f57037d6f4fc: Graphics object created from image
+2017-07-04 20:47:38.2888 INFO e922ccb4-7336-4250-90db-f57037d6f4fc: Started saving graphic object
+2017-07-04 20:47:38.3008 INFO e922ccb4-7336-4250-90db-f57037d6f4fc: Saving preview image to: \\shoughtonhome\webpreviews\053140111-1000837737.jpg
+2017-07-04 20:47:38.3958 INFO e922ccb4-7336-4250-90db-f57037d6f4fc: Loading FullCheckImageBuilder.aspx
+2017-07-04 20:47:38.4388 INFO e922ccb4-7336-4250-90db-f57037d6f4fc: Using base image:../images/checks/ADPManualPayroll/507-BL.jpg
+2017-07-04 20:47:38.4608 INFO e922ccb4-7336-4250-90db-f57037d6f4fc: Graphics object created from image
+2017-07-04 20:47:38.4728 INFO e922ccb4-7336-4250-90db-f57037d6f4fc: Started saving graphic object
+2017-07-04 20:47:38.4938 INFO e922ccb4-7336-4250-90db-f57037d6f4fc: Bitmap saved to memorystream
+2017-07-04 20:47:38.4938 INFO e922ccb4-7336-4250-90db-f57037d6f4fc: Buffer size: 39013
+2017-07-04 20:47:38.5688 INFO e922ccb4-7336-4250-90db-f57037d6f4fc: Loading page 'ConfirmPreview'
+2017-07-04 20:47:38.7098 INFO e922ccb4-7336-4250-90db-f57037d6f4fc: Loading image with URL CheckImageBuilder.aspx?ProductKey=20&AccountNumber=1000837737
+2017-07-04 20:47:38.7958 INFO e922ccb4-7336-4250-90db-f57037d6f4fc: Loading CheckImageBuilder.aspx
+2017-07-04 20:47:38.8438 INFO e922ccb4-7336-4250-90db-f57037d6f4fc: Using base image:../images/checks/QBVoucher/Background-blue.jpg
+2017-07-04 20:47:38.9098 INFO e922ccb4-7336-4250-90db-f57037d6f4fc: Graphics object created from image
+2017-07-04 20:47:38.9098 INFO e922ccb4-7336-4250-90db-f57037d6f4fc: Started saving graphic object
+2017-07-04 20:47:38.9408 INFO e922ccb4-7336-4250-90db-f57037d6f4fc: Bitmap saved to memorystream
+2017-07-04 20:47:38.9408 INFO e922ccb4-7336-4250-90db-f57037d6f4fc: Buffer size: 33559
+2017-07-04 20:47:40.4389 INFO e922ccb4-7336-4250-90db-f57037d6f4fc: Loading page 'ConfirmPreview'
+2017-07-04 20:47:40.4569 INFO e922ccb4-7336-4250-90db-f57037d6f4fc: Loading image with URL CheckImageBuilder.aspx?ProductKey=20&AccountNumber=1000837737
+2017-07-04 20:47:40.4569 INFO e922ccb4-7336-4250-90db-f57037d6f4fc: called btnContinue_OnClick 
+2017-07-04 20:47:55.9238 INFO e922ccb4-7336-4250-90db-f57037d6f4fc: Loaded 'ConfirmOrder.aspx'
+2017-07-04 20:47:59.5500 INFO e922ccb4-7336-4250-90db-f57037d6f4fc: Loaded 'ConfirmOrder.aspx'
+2017-07-04 20:48:02.2062 INFO e922ccb4-7336-4250-90db-f57037d6f4fc: Begin Admin Email
+2017-07-04 20:48:02.2062 INFO e922ccb4-7336-4250-90db-f57037d6f4fc: <b>Order #: </b>0<br /><br /><b>IP Address: </b>::1<br /><b>Company Name: </b>Test Company Name<br /><b>Customer Name: </b>Steve Houghton<br /><b>EMail address: </b>Steve@gmail.com<br /><b>Phone: </b>770-555-5555<br /><br /><b>Billing Address</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Shipping Address:</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Order details</b><br />Item: CPCHK507BL - ADP Manual Payroll Check - 250 Preprinted Checks (Blue)<br />Account: ******7737<br />Price: $40.00<br /><br /><br /><b>Sub-Total: </b>$40.00<br /><b>Shipping method: </b>FedEx Ground Shipping<br /><b>Shipping amount: </b>$11.61<br /><b>Order total: </b>$51.61<br /><br /><b>Payment method:</b><br />Charges will be billed<br /><br />
+2017-07-04 20:48:02.2252 INFO e922ccb4-7336-4250-90db-f57037d6f4fc: End Admin Email
+2017-07-04 20:48:02.2342 INFO e922ccb4-7336-4250-90db-f57037d6f4fc: Begin Customer Confirmation Email
+2017-07-04 20:48:02.2342 INFO e922ccb4-7336-4250-90db-f57037d6f4fc: <b>Thanks for Ordering with Advantage Laser Products!</b><br/>We Appreciate Your Business<br/><br/>Please allow 24 hours to process your order!<br/>If you have any questions or to check the status of your order call 1-800-722-2804<br/><br/><b>Order #: </b>0<br /><br /><b>Company Name: </b>Test Company Name<br /><b>Customer Name: </b>Steve Houghton<br /><b>EMail address: </b>Steve@gmail.com<br /><b>Phone: </b>770-555-5555<br /><br /><b>Billing Address</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Shipping Address:</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Order details</b><br />Item: CPCHK507BL - ADP Manual Payroll Check - 250 Preprinted Checks (Blue)<br />Account: ******7737<br />Price: $40.00<br /><br /><br /><b>Sub-Total: </b>$40.00<br /><b>Shipping method: </b>FedEx Ground Shipping<br /><b>Shipping amount: </b>$11.61<br /><b>Order total: </b>$51.61<br /><br /><b>Payment method:</b><br />Charges will be billed<br /><br />
+2017-07-04 20:48:02.2492 INFO e922ccb4-7336-4250-90db-f57037d6f4fc: Begin Customer Confirmation Email
+2017-07-04 20:48:28.5867 ERROR e922ccb4-7336-4250-90db-f57037d6f4fc: Error in: http://localhost:64322/OrderProcessing/ThankYou.aspx?InvoiceKey=0
+Error Message:Object reference not set to an instance of an object.
+Stack Trace:   at CheckProject.ThankYou.Page_Load(Object sender, EventArgs e) in c:\AdvantageLaser\CheckProject\OrderProcessing\ThankYou.aspx.cs:line 22
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at CheckProject.WebUtils.BasePage.OnLoad(EventArgs e) in c:\AdvantageLaser\CheckProject\webutils\BasePage.cs:line 79
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) Object reference not set to an instance of an object.
+2017-07-04 20:52:13.8886 INFO ab1c3e43-a83b-4c10-b38e-55125d48c4db: Session started
+2017-07-04 20:52:13.8946 INFO ab1c3e43-a83b-4c10-b38e-55125d48c4db: Loaded 'SelectProduct.aspx'
+2017-07-04 20:52:46.7525 INFO 68dca18c-b82c-4b74-8231-2a8546757542: Session started
+2017-07-04 20:52:46.8695 INFO 68dca18c-b82c-4b74-8231-2a8546757542: Loaded 'SelectProduct.aspx'
+2017-07-04 20:53:17.7852 INFO 68dca18c-b82c-4b74-8231-2a8546757542: Loaded 'ConfirmOrder.aspx'
+2017-07-04 20:53:25.7997 INFO 68dca18c-b82c-4b74-8231-2a8546757542: Loaded 'ConfirmOrder.aspx'
+2017-07-04 20:54:13.0894 INFO 68dca18c-b82c-4b74-8231-2a8546757542: Begin Admin Email
+2017-07-04 20:54:13.0954 INFO 68dca18c-b82c-4b74-8231-2a8546757542: <b>Order #: </b>0<br /><br /><b>IP Address: </b>::1<br /><b>Company Name: </b>Test Company Name<br /><b>Customer Name: </b>Steve Houghton<br /><b>EMail address: </b>Steve@gmail.com<br /><b>Phone: </b>770-555-5555<br /><br /><b>Billing Address</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Shipping Address:</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Order details</b><br />Item: 1000 Self-Seal Envelopes CP31-603-SS<br />Price: $65.00<br /><br /><br /><b>Sub-Total: </b>$65.00<br /><b>Shipping method: </b>FedEx Ground Shipping<br /><b>Shipping amount: </b>$16.59<br /><b>Order total: </b>$81.59<br /><br /><b>Payment method:</b><br />Charges will be billed<br /><br />
+2017-07-04 20:54:13.0954 INFO 68dca18c-b82c-4b74-8231-2a8546757542: End Admin Email
+2017-07-04 20:54:13.0954 INFO 68dca18c-b82c-4b74-8231-2a8546757542: Begin Customer Confirmation Email
+2017-07-04 20:54:13.1124 INFO 68dca18c-b82c-4b74-8231-2a8546757542: <b>Thanks for Ordering with Advantage Laser Products!</b><br/>We Appreciate Your Business<br/><br/>Please allow 24 hours to process your order!<br/>If you have any questions or to check the status of your order call 1-800-722-2804<br/><br/><b>Order #: </b>0<br /><br /><b>Company Name: </b>Test Company Name<br /><b>Customer Name: </b>Steve Houghton<br /><b>EMail address: </b>Steve@gmail.com<br /><b>Phone: </b>770-555-5555<br /><br /><b>Billing Address</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Shipping Address:</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Order details</b><br />Item: 1000 Self-Seal Envelopes CP31-603-SS<br />Price: $65.00<br /><br /><br /><b>Sub-Total: </b>$65.00<br /><b>Shipping method: </b>FedEx Ground Shipping<br /><b>Shipping amount: </b>$16.59<br /><b>Order total: </b>$81.59<br /><br /><b>Payment method:</b><br />Charges will be billed<br /><br />
+2017-07-04 20:54:13.1124 INFO 68dca18c-b82c-4b74-8231-2a8546757542: Begin Customer Confirmation Email
+2017-07-04 20:54:15.1115 ERROR 68dca18c-b82c-4b74-8231-2a8546757542: Error in: http://localhost:64322/OrderProcessing/ThankYou.aspx?InvoiceKey=0
+Error Message:Object reference not set to an instance of an object.
+Stack Trace:   at CheckProject.ThankYou.Page_Load(Object sender, EventArgs e) in c:\AdvantageLaser\CheckProject\OrderProcessing\ThankYou.aspx.cs:line 22
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at CheckProject.WebUtils.BasePage.OnLoad(EventArgs e) in c:\AdvantageLaser\CheckProject\webutils\BasePage.cs:line 79
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) Object reference not set to an instance of an object.
+2017-07-04 20:55:09.7266 INFO c160a8ba-2c70-43ee-8c41-388f851f5cf4: Session started
+2017-07-04 20:55:09.7266 INFO c160a8ba-2c70-43ee-8c41-388f851f5cf4: Loaded 'SelectProduct.aspx'
+2017-07-04 20:55:24.1905 INFO c160a8ba-2c70-43ee-8c41-388f851f5cf4: Loaded 'SelectProduct.aspx'
+2017-07-05 20:32:53.5965 INFO a3e66f4d-48d2-4ac6-bcf3-70c19965d413: Session started
+2017-07-05 20:32:53.6335 INFO a3e66f4d-48d2-4ac6-bcf3-70c19965d413: Loaded 'SelectProduct.aspx'
+2017-07-05 20:33:11.6965 INFO a3e66f4d-48d2-4ac6-bcf3-70c19965d413: Loading page 'ConfirmPreview'
+2017-07-05 20:33:11.7025 INFO a3e66f4d-48d2-4ac6-bcf3-70c19965d413: Loading image with URL CheckImageBuilder.aspx?ProductKey=23&AccountNumber=1000837737
+2017-07-05 20:33:11.8895 INFO a3e66f4d-48d2-4ac6-bcf3-70c19965d413: Loading CheckImageBuilder.aspx
+2017-07-05 20:33:11.9835 INFO a3e66f4d-48d2-4ac6-bcf3-70c19965d413: Using base image:../images/checks/QBVoucher/Background-blue.jpg
+2017-07-05 20:33:11.9835 INFO a3e66f4d-48d2-4ac6-bcf3-70c19965d413: Graphics object created from image
+2017-07-05 20:33:11.9965 INFO a3e66f4d-48d2-4ac6-bcf3-70c19965d413: Started saving graphic object
+2017-07-05 20:33:12.0125 INFO a3e66f4d-48d2-4ac6-bcf3-70c19965d413: Bitmap saved to memorystream
+2017-07-05 20:33:12.0265 INFO a3e66f4d-48d2-4ac6-bcf3-70c19965d413: Buffer size: 33559
+2017-07-05 20:33:18.4839 INFO a3e66f4d-48d2-4ac6-bcf3-70c19965d413: Loading image with URL FullCheckImageBuilder.aspx?ProductKey=23&AccountNumber=1000837737
+2017-07-05 20:33:18.6329 INFO a3e66f4d-48d2-4ac6-bcf3-70c19965d413: Loading FullCheckImageBuilder.aspx
+2017-07-05 20:33:18.7889 INFO a3e66f4d-48d2-4ac6-bcf3-70c19965d413: Using base image:../images/checks/ADPManualPayroll/507-BL.jpg
+2017-07-05 20:33:18.8119 INFO a3e66f4d-48d2-4ac6-bcf3-70c19965d413: Graphics object created from image
+2017-07-05 20:33:18.8399 INFO a3e66f4d-48d2-4ac6-bcf3-70c19965d413: Started saving graphic object
+2017-07-05 20:33:18.8749 INFO a3e66f4d-48d2-4ac6-bcf3-70c19965d413: Bitmap saved to memorystream
+2017-07-05 20:33:18.8869 INFO a3e66f4d-48d2-4ac6-bcf3-70c19965d413: Buffer size: 39013
+2017-07-05 20:33:21.8861 INFO a3e66f4d-48d2-4ac6-bcf3-70c19965d413: Loading image with URL FullCheckImageBuilder.aspx?ProductKey=23&AccountNumber=1000837737
+2017-07-05 20:33:21.9121 INFO a3e66f4d-48d2-4ac6-bcf3-70c19965d413: Using base image:../images/checks/ADPManualPayroll/507-BL.jpg
+2017-07-05 20:33:21.9181 INFO a3e66f4d-48d2-4ac6-bcf3-70c19965d413: Graphics object created from image
+2017-07-05 20:33:21.9181 INFO a3e66f4d-48d2-4ac6-bcf3-70c19965d413: Started saving graphic object
+2017-07-05 20:33:21.9181 INFO a3e66f4d-48d2-4ac6-bcf3-70c19965d413: Saving preview image to: \\shoughtonhome\webpreviews\053140111-1000837737.jpg
+2017-07-05 20:33:22.1081 INFO a3e66f4d-48d2-4ac6-bcf3-70c19965d413: Loading FullCheckImageBuilder.aspx
+2017-07-05 20:33:22.1311 INFO a3e66f4d-48d2-4ac6-bcf3-70c19965d413: Using base image:../images/checks/ADPManualPayroll/507-BL.jpg
+2017-07-05 20:33:22.1451 INFO a3e66f4d-48d2-4ac6-bcf3-70c19965d413: Graphics object created from image
+2017-07-05 20:33:22.1531 INFO a3e66f4d-48d2-4ac6-bcf3-70c19965d413: Started saving graphic object
+2017-07-05 20:33:22.1791 INFO a3e66f4d-48d2-4ac6-bcf3-70c19965d413: Bitmap saved to memorystream
+2017-07-05 20:33:22.1861 INFO a3e66f4d-48d2-4ac6-bcf3-70c19965d413: Buffer size: 39013
+2017-07-05 20:41:13.4590 INFO a3e66f4d-48d2-4ac6-bcf3-70c19965d413: Session ended
+2017-07-05 20:42:24.8191 INFO 9ab227fb-e311-4129-8a33-39c46daeec82: Session started
+2017-07-05 20:42:25.1231 INFO 9ab227fb-e311-4129-8a33-39c46daeec82: Loaded 'SelectProduct.aspx'
+2017-07-05 20:42:35.9558 INFO 9ab227fb-e311-4129-8a33-39c46daeec82: Loading page 'ConfirmPreview'
+2017-07-05 20:42:35.9768 INFO 9ab227fb-e311-4129-8a33-39c46daeec82: Loading image with URL CheckImageBuilder.aspx?ProductKey=24&AccountNumber=1000837737
+2017-07-05 20:42:36.1278 INFO 9ab227fb-e311-4129-8a33-39c46daeec82: Loading CheckImageBuilder.aspx
+2017-07-05 20:42:36.2498 INFO 9ab227fb-e311-4129-8a33-39c46daeec82: Using base image:../images/checks/QBVoucher/Background-blue.jpg
+2017-07-05 20:42:36.2678 INFO 9ab227fb-e311-4129-8a33-39c46daeec82: Graphics object created from image
+2017-07-05 20:42:36.3978 INFO 9ab227fb-e311-4129-8a33-39c46daeec82: Started saving graphic object
+2017-07-05 20:42:36.4158 INFO 9ab227fb-e311-4129-8a33-39c46daeec82: Bitmap saved to memorystream
+2017-07-05 20:42:36.4268 INFO 9ab227fb-e311-4129-8a33-39c46daeec82: Buffer size: 33559
+2017-07-05 20:42:39.2830 INFO 9ab227fb-e311-4129-8a33-39c46daeec82: Loading image with URL FullCheckImageBuilder.aspx?ProductKey=24&AccountNumber=1000837737
+2017-07-05 20:42:39.3640 INFO 9ab227fb-e311-4129-8a33-39c46daeec82: Loading FullCheckImageBuilder.aspx
+2017-07-05 20:42:39.3830 INFO 9ab227fb-e311-4129-8a33-39c46daeec82: Using base image:../images/checks/ADPManualPayroll/507-BL.jpg
+2017-07-05 20:42:39.3970 INFO 9ab227fb-e311-4129-8a33-39c46daeec82: Graphics object created from image
+2017-07-05 20:42:39.4060 INFO 9ab227fb-e311-4129-8a33-39c46daeec82: Started saving graphic object
+2017-07-05 20:42:39.4410 INFO 9ab227fb-e311-4129-8a33-39c46daeec82: Bitmap saved to memorystream
+2017-07-05 20:42:39.4410 INFO 9ab227fb-e311-4129-8a33-39c46daeec82: Buffer size: 39013
+2017-07-05 20:42:41.3971 INFO 9ab227fb-e311-4129-8a33-39c46daeec82: Loading image with URL FullCheckImageBuilder.aspx?ProductKey=24&AccountNumber=1000837737
+2017-07-05 20:42:41.4181 INFO 9ab227fb-e311-4129-8a33-39c46daeec82: Using base image:../images/checks/ADPManualPayroll/507-BL.jpg
+2017-07-05 20:42:41.4181 INFO 9ab227fb-e311-4129-8a33-39c46daeec82: Graphics object created from image
+2017-07-05 20:42:41.4181 INFO 9ab227fb-e311-4129-8a33-39c46daeec82: Started saving graphic object
+2017-07-05 20:42:41.4361 INFO 9ab227fb-e311-4129-8a33-39c46daeec82: Saving preview image to: \\shoughtonhome\webpreviews\053140111-1000837737.jpg
+2017-07-05 20:42:41.5211 INFO 9ab227fb-e311-4129-8a33-39c46daeec82: Loading FullCheckImageBuilder.aspx
+2017-07-05 20:42:41.5641 INFO 9ab227fb-e311-4129-8a33-39c46daeec82: Using base image:../images/checks/ADPManualPayroll/507-BL.jpg
+2017-07-05 20:42:41.5771 INFO 9ab227fb-e311-4129-8a33-39c46daeec82: Graphics object created from image
+2017-07-05 20:42:41.5891 INFO 9ab227fb-e311-4129-8a33-39c46daeec82: Started saving graphic object
+2017-07-05 20:42:41.6111 INFO 9ab227fb-e311-4129-8a33-39c46daeec82: Bitmap saved to memorystream
+2017-07-05 20:42:41.6201 INFO 9ab227fb-e311-4129-8a33-39c46daeec82: Buffer size: 39013
+2017-07-05 20:42:50.3256 INFO 9ab227fb-e311-4129-8a33-39c46daeec82: Loading image with URL FullCheckImageBuilder.aspx?ProductKey=24&AccountNumber=1000837737
+2017-07-05 20:42:50.5036 INFO 9ab227fb-e311-4129-8a33-39c46daeec82: Loading FullCheckImageBuilder.aspx
+2017-07-05 20:42:50.8296 INFO 9ab227fb-e311-4129-8a33-39c46daeec82: Using base image:../images/checks/ADPManualPayroll/507-BL.jpg
+2017-07-05 20:42:50.8766 INFO 9ab227fb-e311-4129-8a33-39c46daeec82: Graphics object created from image
+2017-07-05 20:42:50.9106 INFO 9ab227fb-e311-4129-8a33-39c46daeec82: Started saving graphic object
+2017-07-05 20:42:50.9376 INFO 9ab227fb-e311-4129-8a33-39c46daeec82: Bitmap saved to memorystream
+2017-07-05 20:42:50.9376 INFO 9ab227fb-e311-4129-8a33-39c46daeec82: Buffer size: 39013
+2017-07-05 20:42:54.8848 INFO 9ab227fb-e311-4129-8a33-39c46daeec82: Loading image with URL FullCheckImageBuilder.aspx?ProductKey=24&AccountNumber=1000837737
+2017-07-05 20:42:54.9048 INFO 9ab227fb-e311-4129-8a33-39c46daeec82: Using base image:../images/checks/ADPManualPayroll/507-BL.jpg
+2017-07-05 20:42:54.9108 INFO 9ab227fb-e311-4129-8a33-39c46daeec82: Graphics object created from image
+2017-07-05 20:42:54.9108 INFO 9ab227fb-e311-4129-8a33-39c46daeec82: Started saving graphic object
+2017-07-05 20:42:54.9298 INFO 9ab227fb-e311-4129-8a33-39c46daeec82: Saving preview image to: \\shoughtonhome\webpreviews\053140111-1000837737.jpg
+2017-07-05 20:42:55.0049 INFO 9ab227fb-e311-4129-8a33-39c46daeec82: Loading FullCheckImageBuilder.aspx
+2017-07-05 20:42:55.0729 INFO 9ab227fb-e311-4129-8a33-39c46daeec82: Using base image:../images/checks/ADPManualPayroll/507-BL.jpg
+2017-07-05 20:42:55.0729 INFO 9ab227fb-e311-4129-8a33-39c46daeec82: Graphics object created from image
+2017-07-05 20:42:55.0859 INFO 9ab227fb-e311-4129-8a33-39c46daeec82: Started saving graphic object
+2017-07-05 20:42:55.1089 INFO 9ab227fb-e311-4129-8a33-39c46daeec82: Bitmap saved to memorystream
+2017-07-05 20:42:55.1169 INFO 9ab227fb-e311-4129-8a33-39c46daeec82: Buffer size: 39013
+2017-07-05 20:46:53.2505 INFO 436324d4-41ad-47ff-b09a-64b537644ff2: Session started
+2017-07-05 20:46:53.2505 INFO 436324d4-41ad-47ff-b09a-64b537644ff2: Loaded 'SelectProduct.aspx'
+2017-07-05 20:50:24.4896 INFO 436324d4-41ad-47ff-b09a-64b537644ff2: Loaded 'SelectProduct.aspx'
+2017-07-05 20:50:30.8289 INFO 436324d4-41ad-47ff-b09a-64b537644ff2: Loading page 'ConfirmPreview'
+2017-07-05 20:50:30.8419 INFO 436324d4-41ad-47ff-b09a-64b537644ff2: Loading image with URL CheckImageBuilder.aspx?ProductKey=23&AccountNumber=1000837737
+2017-07-05 20:50:30.9409 INFO 436324d4-41ad-47ff-b09a-64b537644ff2: Loading CheckImageBuilder.aspx
+2017-07-05 20:50:31.1199 INFO 436324d4-41ad-47ff-b09a-64b537644ff2: Using base image:../images/checks/QBVoucher/Background-blue.jpg
+2017-07-05 20:50:31.1339 INFO 436324d4-41ad-47ff-b09a-64b537644ff2: Graphics object created from image
+2017-07-05 20:50:31.1339 INFO 436324d4-41ad-47ff-b09a-64b537644ff2: Started saving graphic object
+2017-07-05 20:50:31.1519 INFO 436324d4-41ad-47ff-b09a-64b537644ff2: Bitmap saved to memorystream
+2017-07-05 20:50:31.1519 INFO 436324d4-41ad-47ff-b09a-64b537644ff2: Buffer size: 33559
+2017-07-05 20:50:34.1411 INFO 436324d4-41ad-47ff-b09a-64b537644ff2: Loading image with URL FullCheckImageBuilder.aspx?ProductKey=23&AccountNumber=1000837737
+2017-07-05 20:50:34.3281 INFO 436324d4-41ad-47ff-b09a-64b537644ff2: Loading FullCheckImageBuilder.aspx
+2017-07-05 20:50:34.3581 INFO 436324d4-41ad-47ff-b09a-64b537644ff2: Using base image:../images/checks/ADPManualPayroll/507-BL.jpg
+2017-07-05 20:50:34.3691 INFO 436324d4-41ad-47ff-b09a-64b537644ff2: Graphics object created from image
+2017-07-05 20:50:34.3691 INFO 436324d4-41ad-47ff-b09a-64b537644ff2: Started saving graphic object
+2017-07-05 20:50:34.4041 INFO 436324d4-41ad-47ff-b09a-64b537644ff2: Bitmap saved to memorystream
+2017-07-05 20:50:34.4111 INFO 436324d4-41ad-47ff-b09a-64b537644ff2: Buffer size: 39013
+2017-07-05 20:50:36.0132 INFO 436324d4-41ad-47ff-b09a-64b537644ff2: Loading image with URL FullCheckImageBuilder.aspx?ProductKey=23&AccountNumber=1000837737
+2017-07-05 20:50:36.0412 INFO 436324d4-41ad-47ff-b09a-64b537644ff2: Using base image:../images/checks/ADPManualPayroll/507-BL.jpg
+2017-07-05 20:50:36.0492 INFO 436324d4-41ad-47ff-b09a-64b537644ff2: Graphics object created from image
+2017-07-05 20:50:36.0492 INFO 436324d4-41ad-47ff-b09a-64b537644ff2: Started saving graphic object
+2017-07-05 20:50:36.0642 INFO 436324d4-41ad-47ff-b09a-64b537644ff2: Saving preview image to: \\shoughtonhome\webpreviews\053140111-1000837737.jpg
+2017-07-05 20:50:36.2902 INFO 436324d4-41ad-47ff-b09a-64b537644ff2: Loading FullCheckImageBuilder.aspx
+2017-07-05 20:50:36.4432 INFO 436324d4-41ad-47ff-b09a-64b537644ff2: Using base image:../images/checks/ADPManualPayroll/507-BL.jpg
+2017-07-05 20:50:36.4552 INFO 436324d4-41ad-47ff-b09a-64b537644ff2: Graphics object created from image
+2017-07-05 20:50:36.4552 INFO 436324d4-41ad-47ff-b09a-64b537644ff2: Started saving graphic object
+2017-07-05 20:50:36.4722 INFO 436324d4-41ad-47ff-b09a-64b537644ff2: Bitmap saved to memorystream
+2017-07-05 20:50:36.5122 INFO 436324d4-41ad-47ff-b09a-64b537644ff2: Buffer size: 39013
+2017-07-05 20:53:13.7582 INFO 9ab227fb-e311-4129-8a33-39c46daeec82: Session ended
+2017-07-05 20:53:13.7582 INFO 436324d4-41ad-47ff-b09a-64b537644ff2: Session ended
+2017-07-05 20:53:23.3538 INFO d5910232-412f-4b8c-8e24-0deb4aaacd17: Session started
+2017-07-05 20:53:23.4308 INFO d5910232-412f-4b8c-8e24-0deb4aaacd17: Loaded 'SelectProduct.aspx'
+2017-07-05 20:53:59.7919 INFO d5910232-412f-4b8c-8e24-0deb4aaacd17: Loading page 'ConfirmPreview'
+2017-07-05 20:53:59.8319 INFO d5910232-412f-4b8c-8e24-0deb4aaacd17: Loading image with URL CheckImageBuilder.aspx?ProductKey=41&AccountNumber=1000837737
+2017-07-05 20:53:59.9259 INFO d5910232-412f-4b8c-8e24-0deb4aaacd17: Loading CheckImageBuilder.aspx
+2017-07-05 20:54:00.0719 INFO d5910232-412f-4b8c-8e24-0deb4aaacd17: Using base image:../images/checks/EliteAccountsPayable/Background-blue.jpg
+2017-07-05 20:54:00.0869 INFO d5910232-412f-4b8c-8e24-0deb4aaacd17: Graphics object created from image
+2017-07-05 20:54:00.1049 INFO d5910232-412f-4b8c-8e24-0deb4aaacd17: Started saving graphic object
+2017-07-05 20:54:00.1169 INFO d5910232-412f-4b8c-8e24-0deb4aaacd17: Bitmap saved to memorystream
+2017-07-05 20:54:00.1169 INFO d5910232-412f-4b8c-8e24-0deb4aaacd17: Buffer size: 36623
+2017-07-05 20:54:03.4981 INFO d5910232-412f-4b8c-8e24-0deb4aaacd17: Loading image with URL FullCheckImageBuilder.aspx?ProductKey=41&AccountNumber=1000837737
+2017-07-05 20:54:03.6091 INFO d5910232-412f-4b8c-8e24-0deb4aaacd17: Loading FullCheckImageBuilder.aspx
+2017-07-05 20:54:03.6821 INFO d5910232-412f-4b8c-8e24-0deb4aaacd17: Using base image:../images/checks/EliteAccountsPayable/Elite-blue.jpg
+2017-07-05 20:54:03.6901 INFO d5910232-412f-4b8c-8e24-0deb4aaacd17: Graphics object created from image
+2017-07-05 20:54:03.7011 INFO d5910232-412f-4b8c-8e24-0deb4aaacd17: Started saving graphic object
+2017-07-05 20:54:03.7221 INFO d5910232-412f-4b8c-8e24-0deb4aaacd17: Bitmap saved to memorystream
+2017-07-05 20:54:03.7221 INFO d5910232-412f-4b8c-8e24-0deb4aaacd17: Buffer size: 53409
+2017-07-05 20:54:05.8082 INFO d5910232-412f-4b8c-8e24-0deb4aaacd17: Loading image with URL FullCheckImageBuilder.aspx?ProductKey=41&AccountNumber=1000837737
+2017-07-05 20:54:05.8232 INFO d5910232-412f-4b8c-8e24-0deb4aaacd17: Using base image:../images/checks/EliteAccountsPayable/Elite-blue.jpg
+2017-07-05 20:54:05.8432 INFO d5910232-412f-4b8c-8e24-0deb4aaacd17: Graphics object created from image
+2017-07-05 20:54:05.8432 INFO d5910232-412f-4b8c-8e24-0deb4aaacd17: Started saving graphic object
+2017-07-05 20:54:05.8562 INFO d5910232-412f-4b8c-8e24-0deb4aaacd17: Saving preview image to: \\shoughtonhome\webpreviews\053140111-1000837737.jpg
+2017-07-05 20:54:05.9392 INFO d5910232-412f-4b8c-8e24-0deb4aaacd17: Loading FullCheckImageBuilder.aspx
+2017-07-05 20:54:05.9832 INFO d5910232-412f-4b8c-8e24-0deb4aaacd17: Using base image:../images/checks/EliteAccountsPayable/Elite-blue.jpg
+2017-07-05 20:54:06.0012 INFO d5910232-412f-4b8c-8e24-0deb4aaacd17: Graphics object created from image
+2017-07-05 20:54:06.0102 INFO d5910232-412f-4b8c-8e24-0deb4aaacd17: Started saving graphic object
+2017-07-05 20:54:06.0312 INFO d5910232-412f-4b8c-8e24-0deb4aaacd17: Bitmap saved to memorystream
+2017-07-05 20:54:06.0312 INFO d5910232-412f-4b8c-8e24-0deb4aaacd17: Buffer size: 53409
+2017-07-10 20:20:25.7303 INFO 864b35fc-eb0f-4477-b5cd-703f7b4106ba: Session started
+2017-07-10 20:20:46.2525 INFO 864b35fc-eb0f-4477-b5cd-703f7b4106ba: Loaded 'SelectProduct.aspx'
+2017-07-10 20:28:22.7776 INFO 864b35fc-eb0f-4477-b5cd-703f7b4106ba: Session ended
+2017-07-10 20:33:27.3230 INFO 0e39ab36-7318-47b1-bc80-e6910ee4350a: Session started
+2017-07-10 20:33:27.4020 INFO 0e39ab36-7318-47b1-bc80-e6910ee4350a: Loaded 'SelectProduct.aspx'
+2017-07-10 20:33:52.2365 ERROR 0e39ab36-7318-47b1-bc80-e6910ee4350a: Error in: http://localhost:64322/OrderStart/SelectProduct.aspx
+Error Message:EnvelopeCompatibilityKey
+Stack Trace:   at System.Data.ProviderBase.FieldNameLookup.GetOrdinal(String fieldName)
+   at System.Data.SqlClient.SqlDataReader.GetOrdinal(String name)
+   at System.Data.SqlClient.SqlDataReader.get_Item(String name)
+   at AdvLaser.AdvLaserDataAccess.ProductTypeDataAccess.GetProductTypeList(String aSQL) in c:\AdvantageLaser\AdvantageLaserData\Data\BusObjects\DataAccess\ProductTypeDataAccess.cs:line 128
+   at CheckProject.OrderStart.SelectProduct.Page_Load(Object sender, EventArgs e) in c:\AdvantageLaser\CheckProject\OrderStart\SelectProduct.aspx.cs:line 27
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at CheckProject.WebUtils.BasePage.OnLoad(EventArgs e) in c:\AdvantageLaser\CheckProject\webutils\BasePage.cs:line 79
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) EnvelopeCompatibilityKey
+2017-07-10 20:34:24.2373 INFO 0e39ab36-7318-47b1-bc80-e6910ee4350a: Session ended
+2017-07-10 20:34:35.5489 INFO fd1099f3-37a8-4d1f-a54e-c6d1ab3a1e63: Session started
+2017-07-10 20:34:35.6460 INFO fd1099f3-37a8-4d1f-a54e-c6d1ab3a1e63: Loaded 'SelectProduct.aspx'
+2017-07-10 20:37:53.2583 ERROR fd1099f3-37a8-4d1f-a54e-c6d1ab3a1e63: Error in: http://localhost:64322/OrderStart/SelectProduct.aspx
+Error Message:EnvelopeCompatibilityKey
+Stack Trace:   at System.Data.ProviderBase.FieldNameLookup.GetOrdinal(String fieldName)
+   at System.Data.SqlClient.SqlDataReader.GetOrdinal(String name)
+   at System.Data.SqlClient.SqlDataReader.get_Item(String name)
+   at AdvLaser.AdvLaserDataAccess.ProductTypeDataAccess.GetProductTypeList(String aSQL) in c:\AdvantageLaser\AdvantageLaserData\Data\BusObjects\DataAccess\ProductTypeDataAccess.cs:line 128
+   at CheckProject.OrderStart.SelectProduct.Page_Load(Object sender, EventArgs e) in c:\AdvantageLaser\CheckProject\OrderStart\SelectProduct.aspx.cs:line 27
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at CheckProject.WebUtils.BasePage.OnLoad(EventArgs e) in c:\AdvantageLaser\CheckProject\webutils\BasePage.cs:line 79
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) EnvelopeCompatibilityKey
+2017-07-10 20:37:57.0095 INFO a540f791-a6d0-4770-8874-f8e8d06a0079: Session started
+2017-07-10 20:37:57.0095 INFO a540f791-a6d0-4770-8874-f8e8d06a0079: Loaded 'SelectProduct.aspx'
+2017-07-10 20:43:56.3090 INFO 95c013b2-f9ff-4cb7-8c54-bf673f463339: Session started
+2017-07-10 20:43:56.3090 INFO 95c013b2-f9ff-4cb7-8c54-bf673f463339: Loaded 'SelectProduct.aspx'
+2017-07-10 20:58:13.0800 INFO a540f791-a6d0-4770-8874-f8e8d06a0079: Session ended
+2017-07-10 20:58:13.0800 INFO fd1099f3-37a8-4d1f-a54e-c6d1ab3a1e63: Session ended
+2017-07-10 20:58:45.5829 INFO 95c013b2-f9ff-4cb7-8c54-bf673f463339: Session ended
+2017-07-10 20:58:55.0094 INFO 9ac42bae-8b2d-4a88-ad59-e22075236919: Session started
+2017-07-10 20:58:55.0884 INFO 9ac42bae-8b2d-4a88-ad59-e22075236919: Loaded 'SelectProduct.aspx'
+2017-07-10 20:59:28.4443 ERROR 9ac42bae-8b2d-4a88-ad59-e22075236919: Error in: http://localhost:64322/envelopes/orderenvelopes.aspx
+Error Message:Object reference not set to an instance of an object.
+Stack Trace:   at AdvLaser.AdvLaserObjects.Invoice.HasCheck() in c:\AdvantageLaser\AdvantageLaserData\Data\BusObjects\Invoice.cs:line 695
+   at CheckProject.envelopes.orderenvelopes.Page_Load(Object sender, EventArgs e) in c:\AdvantageLaser\CheckProject\envelopes\orderenvelopes.aspx.cs:line 23
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at CheckProject.WebUtils.BasePage.OnLoad(EventArgs e) in c:\AdvantageLaser\CheckProject\webutils\BasePage.cs:line 79
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) Object reference not set to an instance of an object.

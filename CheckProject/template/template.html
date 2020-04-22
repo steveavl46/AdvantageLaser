@@ -1,0 +1,107 @@
+﻿
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <title></title>
+    <link rel="stylesheet" href="../styles/checkproject.css" type="text/css">
+    <style>
+    .outerdiv
+        {
+        border-style:solid;
+        border-color:#ffcc99;
+        border-width:5px;
+        height:400px;
+        width:695px;
+        }
+        .selectedTab
+        {
+        background-color:#ffcc99;
+        font-weight:bold;
+        text-align:center;
+        }
+        .unselectedTab
+        {
+        background-color:#ffffcc;
+        font-weight:bold;
+        text-align:center;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+    <table width="100%">
+<tr>
+<td align="center">
+
+<div class="holderdiv">
+<!--
+<b class="b1"></b><b class="b2"></b><b class="b3"></b><b class="b4"></b>    
+-->
+<img src="../images/chkprint-header-2.jpg" />
+<div class="contentb">        
+<table width="100%" >		   
+		   <tr>
+		   <td class="progresscell1_on">Deposit Slip Info</td>
+		   <td>|</td>
+		   <td class="progresscell2_off">Bank Account Info</td>
+		   <td>|</td>
+		   <td class="progresscell3_off">Preview</td>
+		   <td>|</td>
+		   <td class="progresscell4_off">Quantity</td>
+		   <td>|</td>
+		   <td class="progresscell5_off">Order</td>
+		   <td>|</td>
+		   <td class="progresscell6_off">Confirm</td>
+		   </tr>
+	</table>    
+</div>
+
+<b class="b4"></b><b class="b3"></b><b class="b2"></b><b class="b1"></b>
+
+</div>
+</td>
+</tr>
+<tr>
+<td align="center">
+<div class="holderdiv">
+  <b class="b1"></b><b class="b2"></b><b class="b3"></b><b class="b4"></b>    
+
+<div class="contentb1">        
+<div >
+<!-------------------------->
+    <div style="border-color:Black;border-width:1px;border-style:solid;width:705px;">
+        <table cellpadding="0" cellspacing="0">
+            <tr>
+                <td>
+                    <span id="lblPending" runat="server" class="selectedTab" style="display:block;width:200px" width="269px" height="40px">Test On</span>
+                </td>
+                <td>
+                    <span id="Span1" runat="server" class="unselectedTab" style="display:block;width:200px" width="269px" height="40px">Test Off</span>
+                </td>
+            </tr>
+        </table>
+        <div class="outerdiv">
+        
+        </div>
+    </div>
+
+<!-------------------------->
+</div>    
+</div>
+
+<b class="b4"></b><b class="b3"></b><b class="b2"></b><b class="b1"></b>
+</div>
+</td>
+</tr>
+<tr>
+    <td style="text-align:center">
+        Previous | Next
+    </td>
+</tr>
+</table>
+    </div>
+    </form>
+</body>
+</html>

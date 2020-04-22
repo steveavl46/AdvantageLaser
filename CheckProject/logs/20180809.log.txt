@@ -1,0 +1,164 @@
+2018-08-01 21:00:20.4770 ERROR 104e8f32-c46f-4db1-aad8-3152b00cd1aa: Error in: http://localhost:64322/orderprocessing/confirmorder.aspx
+Error Message:Object reference not set to an instance of an object.
+Stack Trace:   at AdvLaser.AdvLaserObjects.Invoice.CalculateShipping() in c:\AdvantageLaser\AdvantageLaserData\Data\BusObjects\Invoice.cs:line 337
+   at CheckProject.OrderProcessing.ConfirmOrder.displayInvoiceItems(Invoice aInvoice) in c:\AdvantageLaser\CheckProject\OrderProcessing\ConfirmOrder.aspx.cs:line 372
+   at CheckProject.OrderProcessing.ConfirmOrder.Page_Load(Object sender, EventArgs e) in c:\AdvantageLaser\CheckProject\OrderProcessing\ConfirmOrder.aspx.cs:line 27
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at CheckProject.WebUtils.BasePage.OnLoad(EventArgs e) in c:\AdvantageLaser\CheckProject\webutils\BasePage.cs:line 79
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) Object reference not set to an instance of an object.
+2018-08-01 21:00:23.1898 INFO 104e8f32-c46f-4db1-aad8-3152b00cd1aa: Loaded 'SelectProduct.aspx'
+2018-08-01 21:00:25.7293 INFO 104e8f32-c46f-4db1-aad8-3152b00cd1aa: Loaded 'ConfirmOrder.aspx'
+2018-08-01 21:01:00.5406 ERROR 104e8f32-c46f-4db1-aad8-3152b00cd1aa: Error in: http://localhost:64322/orderprocessing/confirmorder.aspx
+Error Message:Object reference not set to an instance of an object.
+Stack Trace:   at AdvLaser.AdvLaserObjects.Invoice.CalculateShipping() in c:\AdvantageLaser\AdvantageLaserData\Data\BusObjects\Invoice.cs:line 337
+   at CheckProject.OrderProcessing.ConfirmOrder.displayInvoiceItems(Invoice aInvoice) in c:\AdvantageLaser\CheckProject\OrderProcessing\ConfirmOrder.aspx.cs:line 372
+   at CheckProject.OrderProcessing.ConfirmOrder.Page_Load(Object sender, EventArgs e) in c:\AdvantageLaser\CheckProject\OrderProcessing\ConfirmOrder.aspx.cs:line 27
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at CheckProject.WebUtils.BasePage.OnLoad(EventArgs e) in c:\AdvantageLaser\CheckProject\webutils\BasePage.cs:line 79
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) Object reference not set to an instance of an object.
+2018-08-01 21:01:03.4638 INFO 104e8f32-c46f-4db1-aad8-3152b00cd1aa: Loaded 'SelectProduct.aspx'
+2018-08-01 21:01:05.2098 INFO 104e8f32-c46f-4db1-aad8-3152b00cd1aa: Loaded 'ConfirmOrder.aspx'
+2018-08-01 21:04:28.5768 ERROR 104e8f32-c46f-4db1-aad8-3152b00cd1aa: Error in: http://localhost:64322/orderprocessing/confirmorder.aspx
+Error Message:Object reference not set to an instance of an object.
+Stack Trace:   at AdvLaser.AdvLaserObjects.Invoice.CalculateShipping() in c:\AdvantageLaser\AdvantageLaserData\Data\BusObjects\Invoice.cs:line 337
+   at CheckProject.OrderProcessing.ConfirmOrder.displayInvoiceItems(Invoice aInvoice) in c:\AdvantageLaser\CheckProject\OrderProcessing\ConfirmOrder.aspx.cs:line 372
+   at CheckProject.OrderProcessing.ConfirmOrder.Page_Load(Object sender, EventArgs e) in c:\AdvantageLaser\CheckProject\OrderProcessing\ConfirmOrder.aspx.cs:line 27
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at CheckProject.WebUtils.BasePage.OnLoad(EventArgs e) in c:\AdvantageLaser\CheckProject\webutils\BasePage.cs:line 79
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) Object reference not set to an instance of an object.
+2018-08-01 21:08:29.9611 INFO 104e8f32-c46f-4db1-aad8-3152b00cd1aa: Session ended
+2018-08-01 21:08:35.2572 INFO 3e739bbf-44ed-433a-8bb2-9bdf6569d7c6: Session started
+2018-08-01 21:08:35.3352 INFO 3e739bbf-44ed-433a-8bb2-9bdf6569d7c6: Loaded 'SelectProduct.aspx'
+2018-08-01 21:08:55.4202 INFO 3e739bbf-44ed-433a-8bb2-9bdf6569d7c6: Session ended
+2018-08-01 21:09:00.6527 INFO 1f43c2df-eec3-4e91-9d6f-effbca749dcb: Session started
+2018-08-01 21:09:00.7463 INFO 1f43c2df-eec3-4e91-9d6f-effbca749dcb: Loaded 'SelectProduct.aspx'
+2018-08-01 21:09:04.0378 INFO 1f43c2df-eec3-4e91-9d6f-effbca749dcb: Loaded 'ConfirmOrder.aspx'
+2018-08-01 21:09:13.6272 ERROR 1f43c2df-eec3-4e91-9d6f-effbca749dcb: Error in: http://localhost:64322/orderprocessing/confirmorder.aspx
+Error Message:Object reference not set to an instance of an object.
+Stack Trace:   at AdvLaser.AdvLaserObjects.Invoice.CalculateShipping() in c:\AdvantageLaser\AdvantageLaserData\Data\BusObjects\Invoice.cs:line 337
+   at CheckProject.OrderProcessing.ConfirmOrder.displayInvoiceItems(Invoice aInvoice) in c:\AdvantageLaser\CheckProject\OrderProcessing\ConfirmOrder.aspx.cs:line 380
+   at CheckProject.OrderProcessing.ConfirmOrder.Page_Load(Object sender, EventArgs e) in c:\AdvantageLaser\CheckProject\OrderProcessing\ConfirmOrder.aspx.cs:line 37
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at CheckProject.WebUtils.BasePage.OnLoad(EventArgs e) in c:\AdvantageLaser\CheckProject\webutils\BasePage.cs:line 79
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) Object reference not set to an instance of an object.
+2018-08-01 21:09:15.6592 INFO 1f43c2df-eec3-4e91-9d6f-effbca749dcb: Loaded 'SelectProduct.aspx'
+2018-08-01 21:09:19.2931 INFO 1f43c2df-eec3-4e91-9d6f-effbca749dcb: Loaded 'ConfirmOrder.aspx'
+2018-08-01 21:09:40.3619 ERROR 1f43c2df-eec3-4e91-9d6f-effbca749dcb: Error in: http://localhost:64322/orderprocessing/confirmorder.aspx
+Error Message:Object reference not set to an instance of an object.
+Stack Trace:   at AdvLaser.AdvLaserObjects.Invoice.CalculateShipping() in c:\AdvantageLaser\AdvantageLaserData\Data\BusObjects\Invoice.cs:line 337
+   at CheckProject.OrderProcessing.ConfirmOrder.displayInvoiceItems(Invoice aInvoice) in c:\AdvantageLaser\CheckProject\OrderProcessing\ConfirmOrder.aspx.cs:line 380
+   at CheckProject.OrderProcessing.ConfirmOrder.Page_Load(Object sender, EventArgs e) in c:\AdvantageLaser\CheckProject\OrderProcessing\ConfirmOrder.aspx.cs:line 37
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at CheckProject.WebUtils.BasePage.OnLoad(EventArgs e) in c:\AdvantageLaser\CheckProject\webutils\BasePage.cs:line 79
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) Object reference not set to an instance of an object.
+2018-08-01 21:09:57.4506 INFO 1f43c2df-eec3-4e91-9d6f-effbca749dcb: Session ended
+2018-08-01 21:10:02.3768 INFO ceea1274-50a7-4a45-8018-565b422db345: Session started
+2018-08-01 21:10:02.4548 INFO ceea1274-50a7-4a45-8018-565b422db345: Loaded 'SelectProduct.aspx'
+2018-08-01 21:10:07.7445 INFO ceea1274-50a7-4a45-8018-565b422db345: Loaded 'ConfirmOrder.aspx'
+2018-08-01 21:10:41.2534 INFO 7ee3ac64-934d-43fa-917a-a365f3c38212: Session started
+2018-08-01 21:10:41.3626 INFO 7ee3ac64-934d-43fa-917a-a365f3c38212: Loaded 'SelectProduct.aspx'
+2018-08-01 21:10:44.2107 INFO 7ee3ac64-934d-43fa-917a-a365f3c38212: Loaded 'ConfirmOrder.aspx'
+2018-08-01 21:11:08.2255 INFO 7ee3ac64-934d-43fa-917a-a365f3c38212: Loaded 'ConfirmOrder.aspx'
+2018-08-01 21:12:41.3203 ERROR 7ee3ac64-934d-43fa-917a-a365f3c38212: Error in: http://localhost:64322/orderprocessing/confirmorder.aspx
+Error Message:Object reference not set to an instance of an object.
+Stack Trace:   at AdvLaser.AdvLaserObjects.Invoice.CalculateShipping() in c:\AdvantageLaser\AdvantageLaserData\Data\BusObjects\Invoice.cs:line 337
+   at CheckProject.OrderProcessing.ConfirmOrder.displayInvoiceItems(Invoice aInvoice) in c:\AdvantageLaser\CheckProject\OrderProcessing\ConfirmOrder.aspx.cs:line 381
+   at CheckProject.OrderProcessing.ConfirmOrder.Page_Load(Object sender, EventArgs e) in c:\AdvantageLaser\CheckProject\OrderProcessing\ConfirmOrder.aspx.cs:line 38
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at CheckProject.WebUtils.BasePage.OnLoad(EventArgs e) in c:\AdvantageLaser\CheckProject\webutils\BasePage.cs:line 79
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) Object reference not set to an instance of an object.
+2018-08-01 21:13:26.8567 INFO 7ee3ac64-934d-43fa-917a-a365f3c38212: Session ended
+2018-08-01 21:13:31.8956 INFO afdf7590-fdfd-470c-b21f-4b7f649f4373: Session started
+2018-08-01 21:13:31.9746 INFO afdf7590-fdfd-470c-b21f-4b7f649f4373: Loaded 'SelectProduct.aspx'
+2018-08-01 21:13:34.6074 INFO afdf7590-fdfd-470c-b21f-4b7f649f4373: Loaded 'ConfirmOrder.aspx'
+2018-08-01 21:13:53.5265 ERROR afdf7590-fdfd-470c-b21f-4b7f649f4373: Error in: http://localhost:64322/orderprocessing/confirmorder.aspx
+Error Message:Object reference not set to an instance of an object.
+Stack Trace:   at AdvLaser.AdvLaserObjects.Invoice.CalculateShipping() in c:\AdvantageLaser\AdvantageLaserData\Data\BusObjects\Invoice.cs:line 337
+   at CheckProject.OrderProcessing.ConfirmOrder.displayInvoiceItems(Invoice aInvoice) in c:\AdvantageLaser\CheckProject\OrderProcessing\ConfirmOrder.aspx.cs:line 381
+   at CheckProject.OrderProcessing.ConfirmOrder.Page_Load(Object sender, EventArgs e) in c:\AdvantageLaser\CheckProject\OrderProcessing\ConfirmOrder.aspx.cs:line 38
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at CheckProject.WebUtils.BasePage.OnLoad(EventArgs e) in c:\AdvantageLaser\CheckProject\webutils\BasePage.cs:line 79
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) Object reference not set to an instance of an object.
+2018-08-01 21:14:20.4503 INFO afdf7590-fdfd-470c-b21f-4b7f649f4373: Session ended
+2018-08-01 21:14:33.5859 INFO 2d70326e-4cea-4f1c-857b-484fc368dcd2: Session started
+2018-08-01 21:14:33.6639 INFO 2d70326e-4cea-4f1c-857b-484fc368dcd2: Loaded 'SelectProduct.aspx'
+2018-08-01 21:14:36.3445 INFO 2d70326e-4cea-4f1c-857b-484fc368dcd2: Loaded 'ConfirmOrder.aspx'
+2018-08-01 21:14:56.9969 ERROR 2d70326e-4cea-4f1c-857b-484fc368dcd2: Error in: http://localhost:64322/orderprocessing/confirmorder.aspx
+Error Message:Object reference not set to an instance of an object.
+Stack Trace:   at AdvLaser.AdvLaserObjects.Invoice.CalculateShipping() in c:\AdvantageLaser\AdvantageLaserData\Data\BusObjects\Invoice.cs:line 356
+   at CheckProject.OrderProcessing.ConfirmOrder.displayInvoiceItems(Invoice aInvoice) in c:\AdvantageLaser\CheckProject\OrderProcessing\ConfirmOrder.aspx.cs:line 381
+   at CheckProject.OrderProcessing.ConfirmOrder.Page_Load(Object sender, EventArgs e) in c:\AdvantageLaser\CheckProject\OrderProcessing\ConfirmOrder.aspx.cs:line 38
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at CheckProject.WebUtils.BasePage.OnLoad(EventArgs e) in c:\AdvantageLaser\CheckProject\webutils\BasePage.cs:line 79
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) Object reference not set to an instance of an object.
+2018-08-01 21:19:11.2850 INFO 2d70326e-4cea-4f1c-857b-484fc368dcd2: Session ended
+2018-08-01 21:19:16.4308 INFO 08dfa84c-88cb-4cf1-b80d-706b6499146c: Session started
+2018-08-01 21:19:16.5088 INFO 08dfa84c-88cb-4cf1-b80d-706b6499146c: Loaded 'SelectProduct.aspx'
+2018-08-01 21:19:19.8087 INFO 08dfa84c-88cb-4cf1-b80d-706b6499146c: Loaded 'ConfirmOrder.aspx'
+2018-08-01 21:19:40.8667 INFO 08dfa84c-88cb-4cf1-b80d-706b6499146c: Loaded 'ConfirmOrder.aspx'
+2018-08-01 21:19:47.6445 INFO 08dfa84c-88cb-4cf1-b80d-706b6499146c: Loaded 'ConfirmOrder.aspx'
+2018-08-01 21:20:25.4018 ERROR 08dfa84c-88cb-4cf1-b80d-706b6499146c: Error in: http://localhost:64322/orderprocessing/confirmorder.aspx
+Error Message:Object reference not set to an instance of an object.
+Stack Trace:   at AdvLaser.AdvLaserObjects.Invoice.CalculateShipping() in c:\AdvantageLaser\AdvantageLaserData\Data\BusObjects\Invoice.cs:line 366
+   at CheckProject.OrderProcessing.ConfirmOrder.displayInvoiceItems(Invoice aInvoice) in c:\AdvantageLaser\CheckProject\OrderProcessing\ConfirmOrder.aspx.cs:line 389
+   at CheckProject.OrderProcessing.ConfirmOrder.Page_Load(Object sender, EventArgs e) in c:\AdvantageLaser\CheckProject\OrderProcessing\ConfirmOrder.aspx.cs:line 46
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at CheckProject.WebUtils.BasePage.OnLoad(EventArgs e) in c:\AdvantageLaser\CheckProject\webutils\BasePage.cs:line 79
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) Object reference not set to an instance of an object.
+2018-08-01 21:21:08.1771 INFO 08dfa84c-88cb-4cf1-b80d-706b6499146c: Session ended
+2018-08-01 21:21:17.4067 INFO ec9d5c2e-b811-4a85-84c8-835c07fbb50d: Session started
+2018-08-01 21:21:17.4847 INFO ec9d5c2e-b811-4a85-84c8-835c07fbb50d: Loaded 'SelectProduct.aspx'
+2018-08-01 21:21:24.5337 INFO ec9d5c2e-b811-4a85-84c8-835c07fbb50d: Loaded 'ConfirmOrder.aspx'
+2018-08-01 21:24:04.6147 ERROR ec9d5c2e-b811-4a85-84c8-835c07fbb50d: Error in: http://localhost:64322/orderprocessing/confirmorder.aspx
+Error Message:Object reference not set to an instance of an object.
+Stack Trace:   at AdvLaser.AdvLaserObjects.Invoice.CalculateShipping() in c:\AdvantageLaser\AdvantageLaserData\Data\BusObjects\Invoice.cs:line 370
+   at CheckProject.OrderProcessing.ConfirmOrder.displayInvoiceItems(Invoice aInvoice) in c:\AdvantageLaser\CheckProject\OrderProcessing\ConfirmOrder.aspx.cs:line 389
+   at CheckProject.OrderProcessing.ConfirmOrder.Page_Load(Object sender, EventArgs e) in c:\AdvantageLaser\CheckProject\OrderProcessing\ConfirmOrder.aspx.cs:line 46
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at CheckProject.WebUtils.BasePage.OnLoad(EventArgs e) in c:\AdvantageLaser\CheckProject\webutils\BasePage.cs:line 79
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) Object reference not set to an instance of an object.
+2018-08-01 21:24:25.9608 INFO ec9d5c2e-b811-4a85-84c8-835c07fbb50d: Session ended
+2018-08-01 21:24:41.5067 INFO a07803e7-11ba-4535-91e6-dca699fd6d9e: Session started
+2018-08-01 21:24:41.5847 INFO a07803e7-11ba-4535-91e6-dca699fd6d9e: Loaded 'SelectProduct.aspx'
+2018-08-01 21:24:48.3090 INFO a07803e7-11ba-4535-91e6-dca699fd6d9e: Loaded 'ConfirmOrder.aspx'
+2018-08-01 21:25:49.8530 ERROR a07803e7-11ba-4535-91e6-dca699fd6d9e: Error in: http://localhost:64322/orderprocessing/confirmorder.aspx
+Error Message:Object reference not set to an instance of an object.
+Stack Trace:   at CheckProject.WebUtils.WebUtils.GetExpediteSubTypeDescriptionForConfirmation(ExpediteSubType subType) in c:\AdvantageLaser\CheckProject\webutils\Utils.cs:line 374
+   at CheckProject.OrderProcessing.ConfirmOrder.Page_Load(Object sender, EventArgs e) in c:\AdvantageLaser\CheckProject\OrderProcessing\ConfirmOrder.aspx.cs:line 138
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at CheckProject.WebUtils.BasePage.OnLoad(EventArgs e) in c:\AdvantageLaser\CheckProject\webutils\BasePage.cs:line 79
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) Object reference not set to an instance of an object.
+2018-08-01 21:26:16.4696 INFO a07803e7-11ba-4535-91e6-dca699fd6d9e: Session ended
+2018-08-01 21:26:21.9339 INFO 64852134-6288-420f-8f74-2fb5b2a7fff2: Session started
+2018-08-01 21:26:22.0119 INFO 64852134-6288-420f-8f74-2fb5b2a7fff2: Loaded 'SelectProduct.aspx'
+2018-08-01 21:26:29.7591 INFO 64852134-6288-420f-8f74-2fb5b2a7fff2: Loaded 'ConfirmOrder.aspx'
+2018-08-01 21:28:44.7857 INFO 8dec99ff-dc71-4a64-b8e1-e054ca170a6b: Session started
+2018-08-01 21:28:44.8013 INFO 8dec99ff-dc71-4a64-b8e1-e054ca170a6b: Loaded 'SelectProduct.aspx'
+2018-08-01 21:28:46.1866 INFO 8dec99ff-dc71-4a64-b8e1-e054ca170a6b: Loaded 'ConfirmOrder.aspx'
+2018-08-01 21:29:28.9555 INFO 8dec99ff-dc71-4a64-b8e1-e054ca170a6b: Loaded 'ConfirmOrder.aspx'
+2018-08-01 21:29:39.4267 INFO 8dec99ff-dc71-4a64-b8e1-e054ca170a6b: Loaded 'ConfirmOrder.aspx'
+2018-08-01 21:29:46.7868 INFO 8dec99ff-dc71-4a64-b8e1-e054ca170a6b: Loaded 'ConfirmOrder.aspx'
+2018-08-01 21:46:42.0043 INFO 64852134-6288-420f-8f74-2fb5b2a7fff2: Session ended
+2018-08-01 21:50:02.1229 INFO 8dec99ff-dc71-4a64-b8e1-e054ca170a6b: Session ended

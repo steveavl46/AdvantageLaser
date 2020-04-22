@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A8FBDE69-5039-4F01-A4D5-EDC0C1A8E9B8}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AdvantageLaserData</RootNamespace>
+    <AssemblyName>AdvantageLaserData</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="NLog, Version=1.0.0.505, Culture=neutral, PublicKeyToken=5120e14c03d0593c, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Data\BusObjects\Address.cs" />
+    <Compile Include="Data\BusObjects\AddressCollection.cs" />
+    <Compile Include="Data\BusObjects\AddressType.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Data\BusObjects\BaseBusinessObject.cs" />
+    <Compile Include="Data\BusObjects\CheckColor.cs" />
+    <Compile Include="Data\BusObjects\CheckDetail.cs" />
+    <Compile Include="Data\BusObjects\CheckFeatureOption.cs" />
+    <Compile Include="Data\BusObjects\CheckOrder.cs" />
+    <Compile Include="Data\BusObjects\Coupon.cs" />
+    <Compile Include="Data\BusObjects\CouponCollection.cs" />
+    <Compile Include="Data\BusObjects\CouponDisplay.cs" />
+    <Compile Include="Data\BusObjects\CouponProductCategoryCollection.cs" />
+    <Compile Include="Data\BusObjects\CreditCard.cs" />
+    <Compile Include="Data\BusObjects\CreditCardType.cs" />
+    <Compile Include="Data\BusObjects\Customer.cs" />
+    <Compile Include="Data\BusObjects\DataAccess\AddressCollectionDataAccess.cs" />
+    <Compile Include="Data\BusObjects\DataAccess\AddressDataAccess.cs" />
+    <Compile Include="Data\BusObjects\DataAccess\AddressTypeDataAccess.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Data\BusObjects\DataAccess\BaseDataAccess.cs" />
+    <Compile Include="Data\BusObjects\DataAccess\CheckColorDataAccess.cs" />
+    <Compile Include="Data\BusObjects\DataAccess\CheckDetailDataAccess.cs" />
+    <Compile Include="Data\BusObjects\DataAccess\CheckFeatureOptionDataAccess.cs" />
+    <Compile Include="Data\BusObjects\DataAccess\CheckOrderDataAccess.cs" />
+    <Compile Include="Data\BusObjects\DataAccess\CouponCollectionDataAccess.cs" />
+    <Compile Include="Data\BusObjects\DataAccess\CouponDataAccess.cs" />
+    <Compile Include="Data\BusObjects\DataAccess\CouponProductCategoryCollectionDataAccess.cs" />
+    <Compile Include="Data\BusObjects\DataAccess\CreditCardDataAccess.cs" />
+    <Compile Include="Data\BusObjects\DataAccess\CreditCardTypeDataAccess.cs" />
+    <Compile Include="Data\BusObjects\DataAccess\CustomerDataAccess.cs" />
+    <Compile Include="Data\BusObjects\DataAccess\DepositBookDataAccess.cs" />
+    <Compile Include="Data\BusObjects\DataAccess\DepositSlipDataAccess.cs" />
+    <Compile Include="Data\BusObjects\DataAccess\DepositStampDataAccess.cs" />
+    <Compile Include="Data\BusObjects\DataAccess\ExpediteSubTypeDataAccess.cs" />
+    <Compile Include="Data\BusObjects\DataAccess\ExpediteTypeDataAccess.cs" />
+    <Compile Include="Data\BusObjects\DataAccess\InvoiceDataAccess.cs" />
+    <Compile Include="Data\BusObjects\DataAccess\InvoiceItemCollectionDataAccess.cs" />
+    <Compile Include="Data\BusObjects\DataAccess\InvoiceItemDataAccess.cs" />
+    <Compile Include="Data\BusObjects\DataAccess\LogoLocationDataAccess.cs" />
+    <Compile Include="Data\BusObjects\DataAccess\ProductCategoryCouponCategoryXref.cs" />
+    <Compile Include="Data\BusObjects\DataAccess\ProductCategoryDataAccess.cs" />
+    <Compile Include="Data\BusObjects\DataAccess\ProductDataAccess.cs" />
+    <Compile Include="Data\BusObjects\DataAccess\ProductTypeDataAccess.cs" />
+    <Compile Include="Data\BusObjects\DataAccess\ShippingRateGroupDataAccess.cs" />
+    <Compile Include="Data\BusObjects\DataAccess\ShippingRateTypeDataAccess.cs" />
+    <Compile Include="Data\BusObjects\DataAccess\ShippingTypeDataAccess.cs" />
+    <Compile Include="Data\BusObjects\DataAccess\ShippingZoneDataAccess.cs" />
+    <Compile Include="Data\BusObjects\DataAccess\ShippingZoneRateDataAccess.cs" />
+    <Compile Include="Data\BusObjects\DataAccess\StateDataAccess.cs" />
+    <Compile Include="Data\BusObjects\DataAccess\TypeFaceDataAccess.cs" />
+    <Compile Include="Data\BusObjects\DepositBook.cs" />
+    <Compile Include="Data\BusObjects\DepositSlip.cs" />
+    <Compile Include="Data\BusObjects\DepositStamp.cs" />
+    <Compile Include="Data\BusObjects\ExpediteSubType.cs" />
+    <Compile Include="Data\BusObjects\ExpediteType.cs" />
+    <Compile Include="Data\BusObjects\Invoice.cs" />
+    <Compile Include="Data\BusObjects\InvoiceItem.cs" />
+    <Compile Include="Data\BusObjects\InvoiceItemCollection.cs" />
+    <Compile Include="Data\BusObjects\LogoLocation.cs" />
+    <Compile Include="Data\BusObjects\Product.cs" />
+    <Compile Include="Data\BusObjects\ProductCategory.cs" />
+    <Compile Include="Data\BusObjects\ProductType.cs" />
+    <Compile Include="Data\BusObjects\ShippingRateGroup.cs" />
+    <Compile Include="Data\BusObjects\ShippingRateType.cs" />
+    <Compile Include="Data\BusObjects\ShippingType.cs" />
+    <Compile Include="Data\BusObjects\ShippingZone.cs" />
+    <Compile Include="Data\BusObjects\ShippingZoneRate.cs" />
+    <Compile Include="Data\BusObjects\State.cs" />
+    <Compile Include="Data\BusObjects\TypeFace.cs" />
+    <Compile Include="Data\DataUtils\DataUtils.cs" />
+    <Compile Include="Logging\Logger.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Utils\Config\ConfigHandler.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Sql\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

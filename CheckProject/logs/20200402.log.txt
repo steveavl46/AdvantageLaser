@@ -1,0 +1,38 @@
+2020-04-16 14:58:45.9565 INFO 24018a50-0640-41f9-b417-85eba9c48371: Session started
+2020-04-16 14:58:46.0323 INFO 24018a50-0640-41f9-b417-85eba9c48371: Loaded 'SelectProduct.aspx'
+2020-04-16 14:58:54.8878 INFO 24018a50-0640-41f9-b417-85eba9c48371: Loading page 'ConfirmPreview'
+2020-04-16 14:58:55.1202 INFO 24018a50-0640-41f9-b417-85eba9c48371: Loading image with URL CheckImageBuilder.aspx?ProductKey=20&AccountNumber=1000837737
+2020-04-16 14:58:55.1718 INFO 24018a50-0640-41f9-b417-85eba9c48371: Loading CheckImageBuilder.aspx
+2020-04-16 14:58:55.2824 INFO 24018a50-0640-41f9-b417-85eba9c48371: Using base image:../images/checks/QBVoucher/Background-blue.jpg
+2020-04-16 14:58:55.2824 INFO 24018a50-0640-41f9-b417-85eba9c48371: Graphics object created from image
+2020-04-16 14:58:55.3097 INFO 24018a50-0640-41f9-b417-85eba9c48371: Started saving graphic object
+2020-04-16 14:58:55.3171 INFO 24018a50-0640-41f9-b417-85eba9c48371: Bitmap saved to memorystream
+2020-04-16 14:58:55.3280 INFO 24018a50-0640-41f9-b417-85eba9c48371: Buffer size: 33557
+2020-04-16 14:59:00.1004 INFO 24018a50-0640-41f9-b417-85eba9c48371: Loading image with URL FullCheckImageBuilder.aspx?ProductKey=20&AccountNumber=1000837737
+2020-04-16 14:59:00.1455 INFO 24018a50-0640-41f9-b417-85eba9c48371: Loading FullCheckImageBuilder.aspx
+2020-04-16 14:59:00.2685 INFO 24018a50-0640-41f9-b417-85eba9c48371: Using base image:../images/checks/ADPManualPayroll/507-BL.jpg
+2020-04-16 14:59:00.2685 INFO 24018a50-0640-41f9-b417-85eba9c48371: Graphics object created from image
+2020-04-16 14:59:00.2844 INFO 24018a50-0640-41f9-b417-85eba9c48371: Started saving graphic object
+2020-04-16 14:59:00.3092 INFO 24018a50-0640-41f9-b417-85eba9c48371: Bitmap saved to memorystream
+2020-04-16 14:59:00.3176 INFO 24018a50-0640-41f9-b417-85eba9c48371: Buffer size: 39004
+2020-04-16 14:59:03.7777 INFO 24018a50-0640-41f9-b417-85eba9c48371: Loading image with URL FullCheckImageBuilder.aspx?ProductKey=20&AccountNumber=1000837737
+2020-04-16 14:59:03.9238 INFO 24018a50-0640-41f9-b417-85eba9c48371: Using base image:../images/checks/ADPManualPayroll/507-BL.jpg
+2020-04-16 14:59:03.9391 INFO 24018a50-0640-41f9-b417-85eba9c48371: Graphics object created from image
+2020-04-16 14:59:03.9391 INFO 24018a50-0640-41f9-b417-85eba9c48371: Started saving graphic object
+2020-04-16 14:59:03.9575 INFO 24018a50-0640-41f9-b417-85eba9c48371: Saving preview image to: C:\advlaser\preview\053140111-1000837737.jpg
+2020-04-16 14:59:04.0294 INFO 24018a50-0640-41f9-b417-85eba9c48371: Loading FullCheckImageBuilder.aspx
+2020-04-16 14:59:04.1435 INFO 24018a50-0640-41f9-b417-85eba9c48371: Using base image:../images/checks/ADPManualPayroll/507-BL.jpg
+2020-04-16 14:59:04.1435 INFO 24018a50-0640-41f9-b417-85eba9c48371: Graphics object created from image
+2020-04-16 14:59:04.1634 INFO 24018a50-0640-41f9-b417-85eba9c48371: Started saving graphic object
+2020-04-16 14:59:04.1738 INFO 24018a50-0640-41f9-b417-85eba9c48371: Bitmap saved to memorystream
+2020-04-16 14:59:04.1916 INFO 24018a50-0640-41f9-b417-85eba9c48371: Buffer size: 39004
+2020-04-16 14:59:36.9912 INFO 24018a50-0640-41f9-b417-85eba9c48371: Loaded 'ConfirmOrder.aspx'
+2020-04-16 14:59:40.3041 INFO 24018a50-0640-41f9-b417-85eba9c48371: Loaded 'ConfirmOrder.aspx'
+2020-04-16 14:59:49.0114 INFO 24018a50-0640-41f9-b417-85eba9c48371: Order placed with InvoiceKey: 15126
+2020-04-16 14:59:49.7324 INFO 24018a50-0640-41f9-b417-85eba9c48371: Begin Admin Email
+2020-04-16 14:59:49.7433 INFO 24018a50-0640-41f9-b417-85eba9c48371: <b>Order #: </b>15126<br /><br /><b>IP Address: </b>::1<br /><b>Company Name: </b>Test Company Name<br /><b>Customer Name: </b>Steve Houghton<br /><b>EMail address: </b>Steve@gmail.com<br /><b>Phone: </b>770-555-5555<br /><br /><b>Billing Address</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Shipping Address:</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Order details</b><br />Item: CPCHK507BL - ADP Manual Payroll Check - 250 Preprinted Checks (Blue)<br />Account: ******7737<br />Price: $40.00<br />Item: Standard Self-Inking Deposit Stamp - Self-Inking Deposit Stamp<br />Account: ******7737<br />Price: $19.00<br /><br /><br /><b>Sub-Total: </b>$59.00<br /><b>Shipping method: </b>FedEx Ground Shipping<br /><b>Shipping amount: </b>$19.61<br /><b>Order total: </b>$78.61<br /><br /><b>Payment method:</b><br />Charges will be billed<br /><br />
+2020-04-16 14:59:49.7537 INFO 24018a50-0640-41f9-b417-85eba9c48371: End Admin Email
+2020-04-16 14:59:49.7641 INFO 24018a50-0640-41f9-b417-85eba9c48371: Begin Customer Confirmation Email
+2020-04-16 14:59:49.7641 INFO 24018a50-0640-41f9-b417-85eba9c48371: <b>Thanks for Ordering with Advantage Laser Products!</b><br/>We Appreciate Your Business<br/><br/>Please allow 24 hours to process your order!<br/>If you have any questions or to check the status of your order call 1-800-722-2804<br/><br/><b>Order #: </b>15126<br /><br /><b>Company Name: </b>Test Company Name<br /><b>Customer Name: </b>Steve Houghton<br /><b>EMail address: </b>Steve@gmail.com<br /><b>Phone: </b>770-555-5555<br /><br /><b>Billing Address</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Shipping Address:</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Order details</b><br />Item: CPCHK507BL - ADP Manual Payroll Check - 250 Preprinted Checks (Blue)<br />Account: ******7737<br />Price: $40.00<br />Item: Standard Self-Inking Deposit Stamp - Self-Inking Deposit Stamp<br />Account: ******7737<br />Price: $19.00<br /><br /><br /><b>Sub-Total: </b>$59.00<br /><b>Shipping method: </b>FedEx Ground Shipping<br /><b>Shipping amount: </b>$19.61<br /><b>Order total: </b>$78.61<br /><br /><b>Payment method:</b><br />Charges will be billed<br /><br />
+2020-04-16 14:59:49.7849 INFO 24018a50-0640-41f9-b417-85eba9c48371: Begin Customer Confirmation Email
+2020-04-20 14:21:04.8432 INFO addb6a5e-fe69-41e4-8b32-db298029d6fb: Session ended

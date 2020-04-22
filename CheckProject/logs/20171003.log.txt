@@ -1,0 +1,1 @@
+2017-10-20 15:59:06.8674 INFO 5a592e17-77af-405b-bd07-6bf0713574c4: Session started

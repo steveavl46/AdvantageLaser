@@ -1,0 +1,298 @@
+2020-04-15 08:09:51.6491 INFO d75a14a7-9cd1-4fc8-8be2-1bfc956fe5ab: Session ended
+2020-04-15 08:11:07.0690 INFO 18079cca-684e-4cd8-837a-9e271c8abe88: Session started
+2020-04-15 08:11:07.1189 INFO 18079cca-684e-4cd8-837a-9e271c8abe88: Loaded 'SelectProduct.aspx'
+2020-04-15 08:11:37.3730 INFO 18079cca-684e-4cd8-837a-9e271c8abe88: Loading page 'ConfirmPreview'
+2020-04-15 08:11:37.5201 INFO 18079cca-684e-4cd8-837a-9e271c8abe88: Loading image with URL ImageBuilder.aspx?Line1=steve&Line2=&Line3=&Line4=&Line5=&bankname=gfsdfgsdfgsdfsdf&accountnumber=33333333&routingnumber=261071315&bankcsz=&bankphone=&bankfraction=&producttypekey=1
+2020-04-15 08:11:42.4239 INFO 18079cca-684e-4cd8-837a-9e271c8abe88: Loading page 'ConfirmPreview'
+2020-04-15 08:11:42.5884 INFO 18079cca-684e-4cd8-837a-9e271c8abe88: called btnContinue_OnClick 
+2020-04-15 08:11:57.1704 INFO 18079cca-684e-4cd8-837a-9e271c8abe88: Loaded 'ConfirmOrder.aspx'
+2020-04-15 08:12:11.8044 INFO 18079cca-684e-4cd8-837a-9e271c8abe88: Loaded 'ConfirmOrder.aspx'
+2020-04-15 08:13:28.1277 INFO 18079cca-684e-4cd8-837a-9e271c8abe88: Begin Admin Email
+2020-04-15 08:13:28.1277 INFO 18079cca-684e-4cd8-837a-9e271c8abe88: <b>Order #: </b>0<br /><br /><b>IP Address: </b>::1<br /><b>Company Name: </b>Test Company Name<br /><b>Customer Name: </b>Steve Houghton<br /><b>EMail address: </b>Steve@gmail.com<br /><b>Phone: </b>770-555-5555<br /><br /><b>Billing Address</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Shipping Address:</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Order details</b><br />Item: 250 Deposit Slips - QuickBooks Printable Deposit Slip - 250 Deposit Slips<br />Account: ******3333<br />Price: $25.00<br /><br /><br /><b>Sub-Total: </b>$25.00<br /><b>Shipping method: </b>FedEx Ground Shipping<br /><b>Shipping amount: </b>$0.00<br /><b>Order total: </b>$25.00<br /><br /><b>Payment method:</b><br />Charges will be billed<br /><br />
+2020-04-15 08:13:28.1435 INFO 18079cca-684e-4cd8-837a-9e271c8abe88: End Admin Email
+2020-04-15 08:13:28.1435 INFO 18079cca-684e-4cd8-837a-9e271c8abe88: Begin Customer Confirmation Email
+2020-04-15 08:13:28.1435 INFO 18079cca-684e-4cd8-837a-9e271c8abe88: <b>Thanks for Ordering with Advantage Laser Products!</b><br/>We Appreciate Your Business<br/><br/>Please allow 24 hours to process your order!<br/>If you have any questions or to check the status of your order call 1-800-722-2804<br/><br/><b>Order #: </b>0<br /><br /><b>Company Name: </b>Test Company Name<br /><b>Customer Name: </b>Steve Houghton<br /><b>EMail address: </b>Steve@gmail.com<br /><b>Phone: </b>770-555-5555<br /><br /><b>Billing Address</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Shipping Address:</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Order details</b><br />Item: 250 Deposit Slips - QuickBooks Printable Deposit Slip - 250 Deposit Slips<br />Account: ******3333<br />Price: $25.00<br /><br /><br /><b>Sub-Total: </b>$25.00<br /><b>Shipping method: </b>FedEx Ground Shipping<br /><b>Shipping amount: </b>$0.00<br /><b>Order total: </b>$25.00<br /><br /><b>Payment method:</b><br />Charges will be billed<br /><br />
+2020-04-15 08:13:28.1569 INFO 18079cca-684e-4cd8-837a-9e271c8abe88: Begin Customer Confirmation Email
+2020-04-15 08:13:30.9649 ERROR 18079cca-684e-4cd8-837a-9e271c8abe88: Error in: http://localhost:64322/OrderProcessing/ThankYou.aspx?InvoiceKey=0
+Error Message:Object reference not set to an instance of an object.
+Stack Trace:   at CheckProject.ThankYou.Page_Load(Object sender, EventArgs e) in C:\advlaser\WebCheck_4_0_1_0\AdvantageLaser\CheckProject\OrderProcessing\ThankYou.aspx.cs:line 22
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at CheckProject.WebUtils.BasePage.OnLoad(EventArgs e) in C:\advlaser\WebCheck_4_0_1_0\AdvantageLaser\CheckProject\webutils\BasePage.cs:line 79
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) Object reference not set to an instance of an object.
+2020-04-15 08:24:09.1589 INFO 18079cca-684e-4cd8-837a-9e271c8abe88: Session ended
+2020-04-15 08:26:59.5810 INFO bf06b049-b397-48a5-983d-836be7d6cd73: Session started
+2020-04-15 08:26:59.6272 INFO bf06b049-b397-48a5-983d-836be7d6cd73: Loaded 'SelectProduct.aspx'
+2020-04-15 08:27:33.3268 INFO bf06b049-b397-48a5-983d-836be7d6cd73: Loading page 'ConfirmPreview'
+2020-04-15 08:27:33.4689 INFO bf06b049-b397-48a5-983d-836be7d6cd73: Loading image with URL ImageBuilder.aspx?Line1=steve&Line2=&Line3=&Line4=&Line5=&bankname=gfsdfgsdfgsdfsdf&accountnumber=33333333&routingnumber=261071315&bankcsz=&bankphone=&bankfraction=&producttypekey=1
+2020-04-15 08:27:37.0526 INFO bf06b049-b397-48a5-983d-836be7d6cd73: Loading page 'ConfirmPreview'
+2020-04-15 08:27:37.1521 INFO bf06b049-b397-48a5-983d-836be7d6cd73: called btnContinue_OnClick 
+2020-04-15 08:27:48.9390 INFO bf06b049-b397-48a5-983d-836be7d6cd73: Loaded 'ConfirmOrder.aspx'
+2020-04-15 08:27:52.0905 INFO bf06b049-b397-48a5-983d-836be7d6cd73: Loaded 'ConfirmOrder.aspx'
+2020-04-15 08:33:02.6148 INFO bf06b049-b397-48a5-983d-836be7d6cd73: Order placed with InvoiceKey: 15117
+2020-04-15 08:33:03.9084 INFO bf06b049-b397-48a5-983d-836be7d6cd73: Begin Admin Email
+2020-04-15 08:33:03.9084 INFO bf06b049-b397-48a5-983d-836be7d6cd73: <b>Order #: </b>15117<br /><br /><b>IP Address: </b>::1<br /><b>Company Name: </b>Test Company Name<br /><b>Customer Name: </b>Steve Houghton<br /><b>EMail address: </b>Steve@gmail.com<br /><b>Phone: </b>770-555-5555<br /><br /><b>Billing Address</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Shipping Address:</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Order details</b><br />Item: 250 Deposit Slips - QuickBooks Printable Deposit Slip - 250 Deposit Slips<br />Account: ******3333<br />Price: $25.00<br /><br /><br /><b>Sub-Total: </b>$25.00<br /><b>Shipping method: </b>FedEx Ground Shipping<br /><b>Shipping amount: </b>$14.61<br /><b>Order total: </b>$39.61<br /><br /><b>Payment method:</b><br />Charges will be billed<br /><br />
+2020-04-15 08:33:03.9084 INFO bf06b049-b397-48a5-983d-836be7d6cd73: End Admin Email
+2020-04-15 08:33:03.9238 INFO bf06b049-b397-48a5-983d-836be7d6cd73: Begin Customer Confirmation Email
+2020-04-15 08:33:03.9238 INFO bf06b049-b397-48a5-983d-836be7d6cd73: <b>Thanks for Ordering with Advantage Laser Products!</b><br/>We Appreciate Your Business<br/><br/>Please allow 24 hours to process your order!<br/>If you have any questions or to check the status of your order call 1-800-722-2804<br/><br/><b>Order #: </b>15117<br /><br /><b>Company Name: </b>Test Company Name<br /><b>Customer Name: </b>Steve Houghton<br /><b>EMail address: </b>Steve@gmail.com<br /><b>Phone: </b>770-555-5555<br /><br /><b>Billing Address</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Shipping Address:</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Order details</b><br />Item: 250 Deposit Slips - QuickBooks Printable Deposit Slip - 250 Deposit Slips<br />Account: ******3333<br />Price: $25.00<br /><br /><br /><b>Sub-Total: </b>$25.00<br /><b>Shipping method: </b>FedEx Ground Shipping<br /><b>Shipping amount: </b>$14.61<br /><b>Order total: </b>$39.61<br /><br /><b>Payment method:</b><br />Charges will be billed<br /><br />
+2020-04-15 08:33:03.9238 INFO bf06b049-b397-48a5-983d-836be7d6cd73: Begin Customer Confirmation Email
+2020-04-17 08:06:16.0209 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Loaded 'SelectProduct.aspx'
+2020-04-17 08:06:34.4438 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Loading page 'ConfirmPreview'
+2020-04-17 08:06:34.6214 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Loading image with URL ImageBuilder.aspx?Line1=steve&Line2=&Line3=&Line4=&Line5=&bankname=gfsdfgsdfgsdfsdf&accountnumber=33333333&routingnumber=261071315&bankcsz=&bankphone=&bankfraction=&producttypekey=1
+2020-04-17 08:06:38.3548 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Loading page 'ConfirmPreview'
+2020-04-17 08:06:38.4804 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: called btnContinue_OnClick 
+2020-04-17 08:06:55.3154 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Loaded 'ConfirmOrder.aspx'
+2020-04-17 08:06:58.6122 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Loaded 'ConfirmOrder.aspx'
+2020-04-17 08:06:59.8587 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Order placed with InvoiceKey: 15136
+2020-04-17 08:07:00.4612 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Begin Admin Email
+2020-04-17 08:07:00.4717 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: <b>Order #: </b>15136<br /><br /><b>IP Address: </b>::1<br /><b>Company Name: </b>Test Company Name<br /><b>Customer Name: </b>Steve Houghton<br /><b>EMail address: </b>Steve@gmail.com<br /><b>Phone: </b>770-555-5555<br /><br /><b>Billing Address</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Shipping Address:</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Order details</b><br />Item: 250 Deposit Slips - QuickBooks Printable Deposit Slip - 250 Deposit Slips<br />Account: ******3333<br />Price: $25.00<br /><br /><br /><b>Sub-Total: </b>$25.00<br /><b>Shipping method: </b>FedEx Ground Shipping<br /><b>Shipping amount: </b>$14.61<br /><b>Order total: </b>$39.61<br /><br /><b>Payment method:</b><br />Account ******3333 will be debited<br /><br />
+2020-04-17 08:07:00.4717 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: End Admin Email
+2020-04-17 08:07:00.4915 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Begin Customer Confirmation Email
+2020-04-17 08:07:00.5014 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: <b>Thanks for Ordering with Advantage Laser Products!</b><br/>We Appreciate Your Business<br/><br/>Please allow 24 hours to process your order!<br/>If you have any questions or to check the status of your order call 1-800-722-2804<br/><br/><b>Order #: </b>15136<br /><br /><b>Company Name: </b>Test Company Name<br /><b>Customer Name: </b>Steve Houghton<br /><b>EMail address: </b>Steve@gmail.com<br /><b>Phone: </b>770-555-5555<br /><br /><b>Billing Address</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Shipping Address:</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Order details</b><br />Item: 250 Deposit Slips - QuickBooks Printable Deposit Slip - 250 Deposit Slips<br />Account: ******3333<br />Price: $25.00<br /><br /><br /><b>Sub-Total: </b>$25.00<br /><b>Shipping method: </b>FedEx Ground Shipping<br /><b>Shipping amount: </b>$14.61<br /><b>Order total: </b>$39.61<br /><br /><b>Payment method:</b><br />Account ******3333 will be debited<br /><br />
+2020-04-17 08:07:00.5014 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Begin Customer Confirmation Email
+2020-04-17 08:36:48.2052 INFO ca093b72-abd9-46e1-a3e1-610e359ad85d: Session ended
+2020-04-17 08:43:14.3265 INFO a00f485c-709f-4ddc-9d60-60063228e3ae: Session started
+2020-04-17 08:43:14.3265 INFO a00f485c-709f-4ddc-9d60-60063228e3ae: Loaded 'SelectProduct.aspx'
+2020-04-17 08:43:37.1816 INFO a00f485c-709f-4ddc-9d60-60063228e3ae: Loading page 'ConfirmPreview'
+2020-04-17 08:43:37.3494 INFO a00f485c-709f-4ddc-9d60-60063228e3ae: Loading image with URL ImageBuilder.aspx?Line1=3010+Highland+Dr+SE&Line2=&Line3=&Line4=&Line5=&bankname=gfsdfgsdfgsdfsdf&accountnumber=33333333&routingnumber=261071315&bankcsz=&bankphone=&bankfraction=&producttypekey=1
+2020-04-17 08:43:42.9227 INFO a00f485c-709f-4ddc-9d60-60063228e3ae: Loading page 'ConfirmPreview'
+2020-04-17 08:43:43.0352 INFO a00f485c-709f-4ddc-9d60-60063228e3ae: called btnContinue_OnClick 
+2020-04-17 08:44:49.0343 INFO a00f485c-709f-4ddc-9d60-60063228e3ae: Loaded 'ConfirmOrder.aspx'
+2020-04-17 08:45:28.4888 INFO a00f485c-709f-4ddc-9d60-60063228e3ae: Loaded 'ConfirmOrder.aspx'
+2020-04-17 08:49:27.6303 INFO a00f485c-709f-4ddc-9d60-60063228e3ae: Session ended
+2020-04-17 08:50:33.8112 INFO be368d25-a4c7-4daa-bc5a-1bf9ab3aa897: Session started
+2020-04-17 08:50:33.9208 INFO be368d25-a4c7-4daa-bc5a-1bf9ab3aa897: Loaded 'SelectProduct.aspx'
+2020-04-17 08:50:57.1768 INFO be368d25-a4c7-4daa-bc5a-1bf9ab3aa897: Loading page 'ConfirmPreview'
+2020-04-17 08:50:57.3561 INFO be368d25-a4c7-4daa-bc5a-1bf9ab3aa897: Loading image with URL ImageBuilder.aspx?Line1=steve&Line2=&Line3=&Line4=&Line5=&bankname=gfsdfgsdfgsdfsdf&accountnumber=33333333&routingnumber=261071315&bankcsz=&bankphone=&bankfraction=&producttypekey=1
+2020-04-17 08:51:00.9788 INFO be368d25-a4c7-4daa-bc5a-1bf9ab3aa897: Loading page 'ConfirmPreview'
+2020-04-17 08:51:01.0857 INFO be368d25-a4c7-4daa-bc5a-1bf9ab3aa897: called btnContinue_OnClick 
+2020-04-17 08:51:29.0766 INFO be368d25-a4c7-4daa-bc5a-1bf9ab3aa897: Loaded 'ConfirmOrder.aspx'
+2020-04-17 08:52:35.5357 INFO be368d25-a4c7-4daa-bc5a-1bf9ab3aa897: Loaded 'ConfirmOrder.aspx'
+2020-04-17 08:52:40.4772 INFO be368d25-a4c7-4daa-bc5a-1bf9ab3aa897: Order placed with InvoiceKey: 15137
+2020-04-17 08:52:41.1110 INFO be368d25-a4c7-4daa-bc5a-1bf9ab3aa897: Begin Admin Email
+2020-04-17 08:52:41.1110 INFO be368d25-a4c7-4daa-bc5a-1bf9ab3aa897: <b>Order #: </b>15137<br /><br /><b>IP Address: </b>::1<br /><b>Company Name: </b>Test Company Name<br /><b>Customer Name: </b>Steve Houghton<br /><b>EMail address: </b>Steve@gmail.com<br /><b>Phone: </b>770-555-5555<br /><br /><b>Billing Address</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Shipping Address:</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Order details</b><br />Item: 250 Deposit Slips - QuickBooks Printable Deposit Slip - 250 Deposit Slips<br />Account: ******3333<br />Price: $25.00<br /><br /><br /><b>Sub-Total: </b>$25.00<br /><b>Shipping method: </b>FedEx Ground Shipping<br /><b>Shipping amount: </b>$14.61<br /><b>Order total: </b>$39.61<br /><br /><b>Payment method:</b><br />Account ******3333 will be debited<br /><br />
+2020-04-17 08:52:41.1427 INFO be368d25-a4c7-4daa-bc5a-1bf9ab3aa897: End Admin Email
+2020-04-17 08:52:41.1427 INFO be368d25-a4c7-4daa-bc5a-1bf9ab3aa897: Begin Customer Confirmation Email
+2020-04-17 08:52:41.1636 INFO be368d25-a4c7-4daa-bc5a-1bf9ab3aa897: <b>Thanks for Ordering with Advantage Laser Products!</b><br/>We Appreciate Your Business<br/><br/>Please allow 24 hours to process your order!<br/>If you have any questions or to check the status of your order call 1-800-722-2804<br/><br/><b>Order #: </b>15137<br /><br /><b>Company Name: </b>Test Company Name<br /><b>Customer Name: </b>Steve Houghton<br /><b>EMail address: </b>Steve@gmail.com<br /><b>Phone: </b>770-555-5555<br /><br /><b>Billing Address</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Shipping Address:</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Order details</b><br />Item: 250 Deposit Slips - QuickBooks Printable Deposit Slip - 250 Deposit Slips<br />Account: ******3333<br />Price: $25.00<br /><br /><br /><b>Sub-Total: </b>$25.00<br /><b>Shipping method: </b>FedEx Ground Shipping<br /><b>Shipping amount: </b>$14.61<br /><b>Order total: </b>$39.61<br /><br /><b>Payment method:</b><br />Account ******3333 will be debited<br /><br />
+2020-04-17 08:52:41.1740 INFO be368d25-a4c7-4daa-bc5a-1bf9ab3aa897: Begin Customer Confirmation Email
+2020-04-17 20:19:37.9506 INFO de3d7317-30a4-47e8-9845-48cdd8f54ffd: Session started
+2020-04-17 20:19:38.0857 INFO de3d7317-30a4-47e8-9845-48cdd8f54ffd: Loaded 'SelectProduct.aspx'
+2020-04-17 20:23:02.8589 ERROR de3d7317-30a4-47e8-9845-48cdd8f54ffd: Error in: http://localhost:64322/OrderDepositSlip/DepositSlipInfo.aspx?ProductTypeKey=1a
+Error Message:Input string was not in a correct format.
+Stack Trace:   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at CheckProject.OrderDepositSlip.QBDepositSlipInfo.Page_Load(Object sender, EventArgs e) in C:\advlaser\WebCheck_5_0_0_0\AdvantageLaser\CheckProject\OrderDepositSlip\DepositSlipInfo.aspx.cs:line 38
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at CheckProject.WebUtils.BasePage.OnLoad(EventArgs e) in C:\advlaser\WebCheck_5_0_0_0\AdvantageLaser\CheckProject\webutils\BasePage.cs:line 79
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) Input string was not in a correct format.
+2020-04-17 20:40:17.6776 INFO de3d7317-30a4-47e8-9845-48cdd8f54ffd: Session ended
+2020-04-17 20:45:04.8526 INFO e10a96a1-30b9-4073-bdfc-f4ce5a082f6b: Session started
+2020-04-17 20:45:04.9136 INFO e10a96a1-30b9-4073-bdfc-f4ce5a082f6b: Loaded 'SelectProduct.aspx'
+2020-04-17 20:45:28.4387 ERROR e10a96a1-30b9-4073-bdfc-f4ce5a082f6b: Error in: http://localhost:64322/OrderDepositSlip/DepositSlipInfo.aspx?ProductTypeKey=1a
+Error Message:Input string was not in a correct format.
+Stack Trace:   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at CheckProject.OrderDepositSlip.QBDepositSlipInfo.Page_Load(Object sender, EventArgs e) in C:\advlaser\WebCheck_5_0_0_0\AdvantageLaser\CheckProject\OrderDepositSlip\DepositSlipInfo.aspx.cs:line 38
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at CheckProject.WebUtils.BasePage.OnLoad(EventArgs e) in C:\advlaser\WebCheck_5_0_0_0\AdvantageLaser\CheckProject\webutils\BasePage.cs:line 79
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) Input string was not in a correct format.
+2020-04-17 20:53:03.7114 ERROR e10a96a1-30b9-4073-bdfc-f4ce5a082f6b: Error in: http://localhost:64322/OrderDepositSlip/DepositSlipInfo.aspx?ProductTypeKey=1a
+Error Message:Input string was not in a correct format.
+Stack Trace:   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at CheckProject.OrderDepositSlip.QBDepositSlipInfo.Page_Load(Object sender, EventArgs e) in C:\advlaser\WebCheck_5_0_0_0\AdvantageLaser\CheckProject\OrderDepositSlip\DepositSlipInfo.aspx.cs:line 38
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at CheckProject.WebUtils.BasePage.OnLoad(EventArgs e) in C:\advlaser\WebCheck_5_0_0_0\AdvantageLaser\CheckProject\webutils\BasePage.cs:line 79
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) Input string was not in a correct format.
+2020-04-18 20:08:46.8662 INFO 82191e78-be0a-416a-b7c0-c32e10daf2c6: Session started
+2020-04-18 20:08:46.9377 INFO 82191e78-be0a-416a-b7c0-c32e10daf2c6: Loaded 'SelectProduct.aspx'
+2020-04-18 20:09:02.1334 INFO 82191e78-be0a-416a-b7c0-c32e10daf2c6: Ignored error in RemoveUnapprovedChecksFromInvoice
+2020-04-18 20:09:26.6845 ERROR 82191e78-be0a-416a-b7c0-c32e10daf2c6: Error in: http://localhost:64322/OrderStart/SelectProduct.aspx
+Error Message:Object reference not set to an instance of an object.
+Stack Trace:   at CheckProject.Error.Page_Load(Object sender, EventArgs e) in C:\advlaser\WebCheck_5_0_0_0\AdvantageLaser\CheckProject\Error.aspx.cs:line 20
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at CheckProject.WebUtils.BasePage.OnLoad(EventArgs e) in C:\advlaser\WebCheck_5_0_0_0\AdvantageLaser\CheckProject\webutils\BasePage.cs:line 79
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) Object reference not set to an instance of an object.
+2020-04-18 20:10:49.8569 INFO 0268932d-4635-4b9b-98d3-77a87054e5cf: Session started
+2020-04-18 20:10:49.8648 INFO 0268932d-4635-4b9b-98d3-77a87054e5cf: Loaded 'SelectProduct.aspx'
+2020-04-18 20:16:48.3970 INFO 82191e78-be0a-416a-b7c0-c32e10daf2c6: Session ended
+2020-04-18 20:16:48.4064 INFO 0268932d-4635-4b9b-98d3-77a87054e5cf: Session ended
+2020-04-18 20:17:02.7924 INFO bbad2021-7703-457e-87fe-6cec2978aa76: Session started
+2020-04-18 20:17:02.8599 INFO bbad2021-7703-457e-87fe-6cec2978aa76: Loaded 'SelectProduct.aspx'
+2020-04-18 20:17:35.9624 INFO bbad2021-7703-457e-87fe-6cec2978aa76: Session ended
+2020-04-18 20:17:42.6022 INFO abce84a4-6bde-4735-9c52-3825ceed2537: Session started
+2020-04-18 20:17:42.7098 INFO abce84a4-6bde-4735-9c52-3825ceed2537: Loaded 'SelectProduct.aspx'
+2020-04-18 20:19:17.9581 INFO abce84a4-6bde-4735-9c52-3825ceed2537: Session ended
+2020-04-18 20:19:23.9468 INFO 11793451-08cd-48f7-a507-5acfdb370fea: Session started
+2020-04-18 20:19:24.0554 INFO 11793451-08cd-48f7-a507-5acfdb370fea: Loaded 'SelectProduct.aspx'
+2020-04-18 20:19:41.4430 INFO b5b6e415-1e1a-4e89-99d1-7c5c5bcc8a0f: Session started
+2020-04-18 20:19:41.6037 INFO b5b6e415-1e1a-4e89-99d1-7c5c5bcc8a0f: Loaded 'SelectProduct.aspx'
+2020-04-18 20:20:58.8217 INFO b5b6e415-1e1a-4e89-99d1-7c5c5bcc8a0f: Session ended
+2020-04-18 20:21:05.0406 INFO ad9cf068-d0ff-4020-85f5-03d82d205db3: Session started
+2020-04-18 20:21:05.1641 INFO ad9cf068-d0ff-4020-85f5-03d82d205db3: Loaded 'SelectProduct.aspx'
+2020-04-18 20:21:46.4683 INFO ad9cf068-d0ff-4020-85f5-03d82d205db3: Session ended
+2020-04-18 20:21:52.4943 INFO 00d6a9f3-3dfd-4fd0-8c80-b81d5a9bab68: Session started
+2020-04-18 20:21:52.6034 INFO 00d6a9f3-3dfd-4fd0-8c80-b81d5a9bab68: Loaded 'SelectProduct.aspx'
+2020-04-18 20:35:18.1648 INFO 45019f7c-bc18-449f-8fa2-d9155c58d9dd: Session started
+2020-04-18 20:35:20.6824 INFO 45019f7c-bc18-449f-8fa2-d9155c58d9dd: Loaded 'SelectProduct.aspx'
+2020-04-18 20:42:20.8286 INFO 00d6a9f3-3dfd-4fd0-8c80-b81d5a9bab68: Session ended
+2020-04-18 20:55:41.1115 INFO 45019f7c-bc18-449f-8fa2-d9155c58d9dd: Session ended
+2020-04-19 08:00:09.5321 INFO 1f03240c-62de-418a-be86-4d26f018353b: Session ended
+2020-04-19 08:00:13.5839 INFO 7c47624a-07a6-48b7-9178-3b4916a53d44: Session started
+2020-04-19 08:03:40.3706 INFO 7c47624a-07a6-48b7-9178-3b4916a53d44: Session ended
+2020-04-19 08:03:44.4674 INFO db2bfaba-bdbd-4437-85e0-9ceb279af4be: Session started
+2020-04-19 08:12:26.7433 INFO ce6bd4b4-ce54-4d69-afd8-a3a485977f74: Session started
+2020-04-19 08:12:33.4345 INFO ce6bd4b4-ce54-4d69-afd8-a3a485977f74: Loaded 'SelectProduct.aspx'
+2020-04-19 08:20:42.4811 INFO db2bfaba-bdbd-4437-85e0-9ceb279af4be: Session ended
+2020-04-19 08:20:42.4891 INFO ce6bd4b4-ce54-4d69-afd8-a3a485977f74: Session ended
+2020-04-19 08:22:01.2494 INFO 59342e82-13d6-4c46-b490-c814aaab586b: Session started
+2020-04-19 08:22:16.3911 INFO 59342e82-13d6-4c46-b490-c814aaab586b: Loaded 'SelectProduct.aspx'
+2020-04-19 08:22:16.3911 INFO 59342e82-13d6-4c46-b490-c814aaab586b: Ignored error in RemoveUnapprovedChecksFromInvoice
+2020-04-19 08:22:16.8260 ERROR 59342e82-13d6-4c46-b490-c814aaab586b: Error in: http://localhost:64322/OrderStart/SelectProduct.aspx
+Error Message:Object reference not set to an instance of an object.
+Stack Trace:   at CheckProject.Error.Page_Load(Object sender, EventArgs e) in C:\advlaser\WebCheck_5_0_0_0\AdvantageLaser\CheckProject\Error.aspx.cs:line 20
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at CheckProject.WebUtils.BasePage.OnLoad(EventArgs e) in C:\advlaser\WebCheck_5_0_0_0\AdvantageLaser\CheckProject\webutils\BasePage.cs:line 81
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) Object reference not set to an instance of an object.
+2020-04-19 08:27:06.3284 INFO 8908bdaa-54d0-4ff1-86d6-e2a6640031bb: Session started
+2020-04-19 08:27:10.0100 INFO 8908bdaa-54d0-4ff1-86d6-e2a6640031bb: Loaded 'SelectProduct.aspx'
+2020-04-19 08:27:34.8535 ERROR 8908bdaa-54d0-4ff1-86d6-e2a6640031bb: Suspected sql injection detected
+2020-04-19 08:29:50.2780 INFO 59342e82-13d6-4c46-b490-c814aaab586b: Session ended
+2020-04-19 08:29:50.2884 INFO 8908bdaa-54d0-4ff1-86d6-e2a6640031bb: Session ended
+2020-04-19 08:32:14.2463 INFO 0fd36480-8334-4174-989e-fe6ade00235d: Session started
+2020-04-19 08:32:14.4449 INFO 0fd36480-8334-4174-989e-fe6ade00235d: Loaded 'SelectProduct.aspx'
+2020-04-19 08:32:27.1872 ERROR 0fd36480-8334-4174-989e-fe6ade00235d: Suspected sql injection detected
+2020-04-19 08:32:50.3066 INFO 7f5fcda6-102d-43a2-b3cb-7578628e7b35: Session started
+2020-04-20 20:37:57.4595 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Session started
+2020-04-20 20:37:57.9063 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Loaded 'SelectProduct.aspx'
+2020-04-20 20:38:07.9814 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Loading page 'ConfirmPreview'
+2020-04-20 20:38:08.2356 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Loading image with URL CheckImageBuilder.aspx?ProductKey=20&AccountNumber=1000837737
+2020-04-20 20:38:08.3306 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Loading CheckImageBuilder.aspx
+2020-04-20 20:38:08.4396 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Using base image:../images/checks/QBVoucher/Background-blue.jpg
+2020-04-20 20:38:08.4396 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Graphics object created from image
+2020-04-20 20:38:08.4814 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Started saving graphic object
+2020-04-20 20:38:08.4914 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Bitmap saved to memorystream
+2020-04-20 20:38:08.5098 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Buffer size: 33557
+2020-04-20 20:38:18.3183 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Loading page 'ConfirmPreview'
+2020-04-20 20:38:18.4666 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Loading image with URL CheckImageBuilder.aspx?ProductKey=20&AccountNumber=1000837737
+2020-04-20 20:38:18.5543 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Loaded 'SelectProduct.aspx'
+2020-04-20 20:38:18.7115 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Ignored error in RemoveUnapprovedChecksFromInvoice
+2020-04-20 20:38:24.1606 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Loading page 'ConfirmPreview'
+2020-04-20 20:38:24.3904 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Loading image with URL CheckImageBuilder.aspx?ProductKey=32&AccountNumber=1000837737
+2020-04-20 20:38:24.4652 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Loading CheckImageBuilder.aspx
+2020-04-20 20:38:24.5800 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Using base image:../images/checks/QBStandard/Background-blue-burgundy.jpg
+2020-04-20 20:38:24.5800 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Graphics object created from image
+2020-04-20 20:38:24.6238 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Started saving graphic object
+2020-04-20 20:38:24.6328 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Bitmap saved to memorystream
+2020-04-20 20:38:24.6458 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Buffer size: 53159
+2020-04-20 20:39:01.0841 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: logo saved to: C:\advlaser\logo\053140111-1000837737-87f5cf8a-95f8-4ac9-91b7-6510f0ecd3a2.jpg
+2020-04-20 20:39:01.0961 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: logo saved to: 053140111-1000837737-87f5cf8a-95f8-4ac9-91b7-6510f0ecd3a2.jpg
+2020-04-20 20:39:03.6717 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Loading page 'ConfirmPreview'
+2020-04-20 20:39:03.9109 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Loading image with URL CheckImageBuilder.aspx?ProductKey=32&AccountNumber=1000837737
+2020-04-20 20:39:04.0106 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Loading CheckImageBuilder.aspx
+2020-04-20 20:39:04.1243 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Using base image:../images/checks/QBStandard/Background-blue-burgundy.jpg
+2020-04-20 20:39:04.1363 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Graphics object created from image
+2020-04-20 20:39:04.1452 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Adding logo to image
+2020-04-20 20:39:04.1582 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Starting 'getLogo()'
+2020-04-20 20:39:04.1582 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Looking for logo: 053140111-1000837737-87f5cf8a-95f8-4ac9-91b7-6510f0ecd3a2.jpg
+2020-04-20 20:39:04.1762 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Found logo file 053140111-1000837737-87f5cf8a-95f8-4ac9-91b7-6510f0ecd3a2.jpg
+2020-04-20 20:39:04.1891 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Returning logo bitmap
+2020-04-20 20:39:04.1891 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Started saving graphic object
+2020-04-20 20:39:04.2101 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Bitmap saved to memorystream
+2020-04-20 20:39:04.2300 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Buffer size: 53976
+2020-04-20 20:39:08.5620 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Loading image with URL FullCheckImageBuilder.aspx?ProductKey=32&AccountNumber=1000837737
+2020-04-20 20:39:08.6625 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Loading FullCheckImageBuilder.aspx
+2020-04-20 20:39:08.8302 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Using base image:../images/checks/QBStandard/QB-Standard-Blue-Purple.jpg
+2020-04-20 20:39:08.8511 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Graphics object created from image
+2020-04-20 20:39:08.8770 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Adding logo to image
+2020-04-20 20:39:08.9079 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Starting 'getLogo()'
+2020-04-20 20:39:08.9278 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Looking for logo: 053140111-1000837737-87f5cf8a-95f8-4ac9-91b7-6510f0ecd3a2.jpg
+2020-04-20 20:39:08.9468 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Found logo file 053140111-1000837737-87f5cf8a-95f8-4ac9-91b7-6510f0ecd3a2.jpg
+2020-04-20 20:39:08.9707 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Returning logo bitmap
+2020-04-20 20:39:08.9911 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Starting 'getLogo()'
+2020-04-20 20:39:09.0100 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Looking for logo: 053140111-1000837737-87f5cf8a-95f8-4ac9-91b7-6510f0ecd3a2.jpg
+2020-04-20 20:39:09.0335 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Found logo file 053140111-1000837737-87f5cf8a-95f8-4ac9-91b7-6510f0ecd3a2.jpg
+2020-04-20 20:39:09.0335 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Returning logo bitmap
+2020-04-20 20:39:09.0555 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Starting 'getLogo()'
+2020-04-20 20:39:09.0664 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Looking for logo: 053140111-1000837737-87f5cf8a-95f8-4ac9-91b7-6510f0ecd3a2.jpg
+2020-04-20 20:39:09.0664 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Found logo file 053140111-1000837737-87f5cf8a-95f8-4ac9-91b7-6510f0ecd3a2.jpg
+2020-04-20 20:39:09.0894 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Returning logo bitmap
+2020-04-20 20:39:09.1004 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Started saving graphic object
+2020-04-20 20:39:09.1495 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Bitmap saved to memorystream
+2020-04-20 20:39:09.1655 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Buffer size: 135450
+2020-04-20 20:39:13.3945 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Loading image with URL FullCheckImageBuilder.aspx?ProductKey=32&AccountNumber=1000837737
+2020-04-20 20:39:13.5381 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Using base image:../images/checks/QBStandard/QB-Standard-Blue-Purple.jpg
+2020-04-20 20:39:13.5381 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Graphics object created from image
+2020-04-20 20:39:13.5591 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Adding logo to image
+2020-04-20 20:39:13.5731 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Starting 'getLogo()'
+2020-04-20 20:39:13.5820 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Looking for logo: 053140111-1000837737-87f5cf8a-95f8-4ac9-91b7-6510f0ecd3a2.jpg
+2020-04-20 20:39:13.5820 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Found logo file 053140111-1000837737-87f5cf8a-95f8-4ac9-91b7-6510f0ecd3a2.jpg
+2020-04-20 20:39:13.6060 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Returning logo bitmap
+2020-04-20 20:39:13.6159 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Starting 'getLogo()'
+2020-04-20 20:39:13.6269 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Looking for logo: 053140111-1000837737-87f5cf8a-95f8-4ac9-91b7-6510f0ecd3a2.jpg
+2020-04-20 20:39:13.6269 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Found logo file 053140111-1000837737-87f5cf8a-95f8-4ac9-91b7-6510f0ecd3a2.jpg
+2020-04-20 20:39:13.6508 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Returning logo bitmap
+2020-04-20 20:39:13.6611 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Starting 'getLogo()'
+2020-04-20 20:39:13.6611 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Looking for logo: 053140111-1000837737-87f5cf8a-95f8-4ac9-91b7-6510f0ecd3a2.jpg
+2020-04-20 20:39:13.6818 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Found logo file 053140111-1000837737-87f5cf8a-95f8-4ac9-91b7-6510f0ecd3a2.jpg
+2020-04-20 20:39:13.6958 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Returning logo bitmap
+2020-04-20 20:39:13.7067 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Started saving graphic object
+2020-04-20 20:39:13.7217 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Saving preview image to: C:\advlaser\preview\053140111-1000837737.jpg
+2020-04-20 20:39:13.8679 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Loading FullCheckImageBuilder.aspx
+2020-04-20 20:39:13.9681 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Using base image:../images/checks/QBStandard/QB-Standard-Blue-Purple.jpg
+2020-04-20 20:39:13.9769 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Graphics object created from image
+2020-04-20 20:39:13.9879 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Adding logo to image
+2020-04-20 20:39:13.9879 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Starting 'getLogo()'
+2020-04-20 20:39:14.0108 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Looking for logo: 053140111-1000837737-87f5cf8a-95f8-4ac9-91b7-6510f0ecd3a2.jpg
+2020-04-20 20:39:14.0229 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Found logo file 053140111-1000837737-87f5cf8a-95f8-4ac9-91b7-6510f0ecd3a2.jpg
+2020-04-20 20:39:14.0368 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Returning logo bitmap
+2020-04-20 20:39:14.0368 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Starting 'getLogo()'
+2020-04-20 20:39:14.0585 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Looking for logo: 053140111-1000837737-87f5cf8a-95f8-4ac9-91b7-6510f0ecd3a2.jpg
+2020-04-20 20:39:14.0697 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Found logo file 053140111-1000837737-87f5cf8a-95f8-4ac9-91b7-6510f0ecd3a2.jpg
+2020-04-20 20:39:14.0837 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Returning logo bitmap
+2020-04-20 20:39:14.0837 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Starting 'getLogo()'
+2020-04-20 20:39:14.1066 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Looking for logo: 053140111-1000837737-87f5cf8a-95f8-4ac9-91b7-6510f0ecd3a2.jpg
+2020-04-20 20:39:14.1177 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Found logo file 053140111-1000837737-87f5cf8a-95f8-4ac9-91b7-6510f0ecd3a2.jpg
+2020-04-20 20:39:14.1325 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Returning logo bitmap
+2020-04-20 20:39:14.1435 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Started saving graphic object
+2020-04-20 20:39:14.1704 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Bitmap saved to memorystream
+2020-04-20 20:39:14.1814 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Buffer size: 135450
+2020-04-20 20:39:14.4718 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Loading page 'ConfirmPreview'
+2020-04-20 20:39:14.7130 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Loading image with URL CheckImageBuilder.aspx?ProductKey=32&AccountNumber=1000837737
+2020-04-20 20:39:14.8247 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Loading CheckImageBuilder.aspx
+2020-04-20 20:39:14.9438 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Using base image:../images/checks/QBStandard/Background-blue-burgundy.jpg
+2020-04-20 20:39:14.9557 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Graphics object created from image
+2020-04-20 20:39:14.9557 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Adding logo to image
+2020-04-20 20:39:14.9786 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Starting 'getLogo()'
+2020-04-20 20:39:14.9906 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Looking for logo: 053140111-1000837737-87f5cf8a-95f8-4ac9-91b7-6510f0ecd3a2.jpg
+2020-04-20 20:39:15.0026 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Found logo file 053140111-1000837737-87f5cf8a-95f8-4ac9-91b7-6510f0ecd3a2.jpg
+2020-04-20 20:39:15.0026 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Returning logo bitmap
+2020-04-20 20:39:15.0175 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Started saving graphic object
+2020-04-20 20:39:15.0175 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Bitmap saved to memorystream
+2020-04-20 20:39:15.0356 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Buffer size: 53976
+2020-04-20 20:39:20.3899 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Loading page 'ConfirmPreview'
+2020-04-20 20:39:20.5419 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Loading image with URL CheckImageBuilder.aspx?ProductKey=32&AccountNumber=1000837737
+2020-04-20 20:39:20.5578 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: called btnContinue_OnClick 
+2020-04-20 20:39:35.2469 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Loaded 'ConfirmOrder.aspx'
+2020-04-20 20:39:37.7746 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Loaded 'ConfirmOrder.aspx'
+2020-04-20 20:40:03.0613 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Order placed with InvoiceKey: 15152
+2020-04-20 20:40:03.7634 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Begin Admin Email
+2020-04-20 20:40:03.7821 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: <b>Order #: </b>15152<br /><br /><b>IP Address: </b>::1<br /><b>Company Name: </b>Test Company Name<br /><b>Customer Name: </b>Steve Houghton<br /><b>EMail address: </b>Steve@gmail.com<br /><b>Phone: </b>770-555-5555<br /><br /><b>Billing Address</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Shipping Address:</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Order details</b><br />Item: CPCHK616BP - QuickBooks Standard Check - 250 Preprinted Checks (Blue Burgundy)<br />Account: ******7737<br />Price: $27.50<br /><br /><br /><b>Sub-Total: </b>$27.50<br /><b>Shipping method: </b>FedEx Ground Shipping<br /><b>Shipping amount: </b>$14.61<br /><b>Order total: </b>$42.11<br /><br /><b>Payment method:</b><br />Charges will be billed<br /><br />
+2020-04-20 20:40:03.8011 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: End Admin Email
+2020-04-20 20:40:03.8201 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Begin Customer Confirmation Email
+2020-04-20 20:40:03.8310 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: <b>Thanks for Ordering with Advantage Laser Products!</b><br/>We Appreciate Your Business<br/><br/>Please allow 24 hours to process your order!<br/>If you have any questions or to check the status of your order call 1-800-722-2804<br/><br/><b>Order #: </b>15152<br /><br /><b>Company Name: </b>Test Company Name<br /><b>Customer Name: </b>Steve Houghton<br /><b>EMail address: </b>Steve@gmail.com<br /><b>Phone: </b>770-555-5555<br /><br /><b>Billing Address</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Shipping Address:</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Order details</b><br />Item: CPCHK616BP - QuickBooks Standard Check - 250 Preprinted Checks (Blue Burgundy)<br />Account: ******7737<br />Price: $27.50<br /><br /><br /><b>Sub-Total: </b>$27.50<br /><b>Shipping method: </b>FedEx Ground Shipping<br /><b>Shipping amount: </b>$14.61<br /><b>Order total: </b>$42.11<br /><br /><b>Payment method:</b><br />Charges will be billed<br /><br />
+2020-04-20 20:40:03.8310 INFO f2f2a256-ca62-4db9-9527-64494fc29ff5: Begin Customer Confirmation Email

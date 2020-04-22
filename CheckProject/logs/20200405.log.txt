@@ -1,0 +1,26 @@
+2020-04-16 17:49:16.2263 INFO c0344c55-ca1b-4c4f-b75f-2867aecee699: Session started
+2020-04-16 17:49:16.3423 INFO c0344c55-ca1b-4c4f-b75f-2867aecee699: Loaded 'SelectProduct.aspx'
+2020-04-16 17:49:31.4561 INFO c0344c55-ca1b-4c4f-b75f-2867aecee699: Ignored error in RemoveUnapprovedChecksFromInvoice
+2020-04-16 17:49:32.2413 ERROR c0344c55-ca1b-4c4f-b75f-2867aecee699: Error in: http://localhost:64322/OrderStart/SelectProduct.aspx
+Error Message:Object reference not set to an instance of an object.
+Stack Trace:   at CheckProject.Error.Page_Load(Object sender, EventArgs e) in C:\advlaser\WebCheck_4_0_1_0\AdvantageLaser\CheckProject\Error.aspx.cs:line 20
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at CheckProject.WebUtils.BasePage.OnLoad(EventArgs e) in C:\advlaser\WebCheck_4_0_1_0\AdvantageLaser\CheckProject\webutils\BasePage.cs:line 79
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) Object reference not set to an instance of an object.
+2020-04-16 17:50:21.0060 INFO dd0eef8f-1901-414a-b913-0c22d396beea: Session started
+2020-04-16 17:50:21.0189 INFO dd0eef8f-1901-414a-b913-0c22d396beea: Loaded 'SelectProduct.aspx'
+2020-04-16 17:50:55.6293 INFO dd0eef8f-1901-414a-b913-0c22d396beea: Loading page 'ConfirmPreview'
+2020-04-16 17:50:55.8300 INFO dd0eef8f-1901-414a-b913-0c22d396beea: Loading image with URL ImageBuilder.aspx?Line1=steve&Line2=&Line3=&Line4=&Line5=&bankname=gfsdfgsdfgsdfsdf&accountnumber=54564564&routingnumber=261071315&bankcsz=&bankphone=&bankfraction=&producttypekey=1
+2020-04-16 17:50:59.4668 INFO dd0eef8f-1901-414a-b913-0c22d396beea: Loading page 'ConfirmPreview'
+2020-04-16 17:50:59.5857 INFO dd0eef8f-1901-414a-b913-0c22d396beea: called btnContinue_OnClick 
+2020-04-16 17:51:16.6865 INFO dd0eef8f-1901-414a-b913-0c22d396beea: Loaded 'ConfirmOrder.aspx'
+2020-04-16 17:51:23.6280 INFO dd0eef8f-1901-414a-b913-0c22d396beea: Loaded 'ConfirmOrder.aspx'
+2020-04-16 17:51:30.2881 INFO dd0eef8f-1901-414a-b913-0c22d396beea: Order placed with InvoiceKey: 15127
+2020-04-16 17:52:11.4713 INFO dd0eef8f-1901-414a-b913-0c22d396beea: Begin Admin Email
+2020-04-16 17:52:11.4713 INFO dd0eef8f-1901-414a-b913-0c22d396beea: <b>Order #: </b>15127<br /><br /><b>IP Address: </b>::1<br /><b>Company Name: </b>Test Company Name<br /><b>Customer Name: </b>Steve Houghton<br /><b>EMail address: </b>Steve@gmail.com<br /><b>Phone: </b>770-555-5555<br /><br /><b>Billing Address</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Shipping Address:</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Order details</b><br />Item: 250 Deposit Slips - QuickBooks Printable Deposit Slip - 250 Deposit Slips<br />Account: ******4564<br />Price: $25.00<br /><br /><br /><b>Sub-Total: </b>$25.00<br /><b>Shipping method: </b>FedEx Ground Shipping<br /><b>Shipping amount: </b>$14.61<br /><b>Order total: </b>$39.61<br /><br /><b>Payment method:</b><br />Charges will be billed<br /><br />
+2020-04-16 17:52:11.4873 INFO dd0eef8f-1901-414a-b913-0c22d396beea: End Admin Email
+2020-04-16 17:52:11.4873 INFO dd0eef8f-1901-414a-b913-0c22d396beea: Begin Customer Confirmation Email
+2020-04-16 17:52:11.5058 INFO dd0eef8f-1901-414a-b913-0c22d396beea: <b>Thanks for Ordering with Advantage Laser Products!</b><br/>We Appreciate Your Business<br/><br/>Please allow 24 hours to process your order!<br/>If you have any questions or to check the status of your order call 1-800-722-2804<br/><br/><b>Order #: </b>15127<br /><br /><b>Company Name: </b>Test Company Name<br /><b>Customer Name: </b>Steve Houghton<br /><b>EMail address: </b>Steve@gmail.com<br /><b>Phone: </b>770-555-5555<br /><br /><b>Billing Address</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Shipping Address:</b><br />3010 Highland Drive<br />Box 5<br />Smyrna, CA 30080<br /><br /><b>Order details</b><br />Item: 250 Deposit Slips - QuickBooks Printable Deposit Slip - 250 Deposit Slips<br />Account: ******4564<br />Price: $25.00<br /><br /><br /><b>Sub-Total: </b>$25.00<br /><b>Shipping method: </b>FedEx Ground Shipping<br /><b>Shipping amount: </b>$14.61<br /><b>Order total: </b>$39.61<br /><br /><b>Payment method:</b><br />Charges will be billed<br /><br />
+2020-04-16 17:52:11.5150 INFO dd0eef8f-1901-414a-b913-0c22d396beea: Begin Customer Confirmation Email

@@ -1,0 +1,25 @@
+2017-05-11 20:04:19.0976 INFO bdd27e0f-bd74-4d2e-854a-2f6580a102c1: Session started
+2017-05-11 20:04:20.1584 INFO bdd27e0f-bd74-4d2e-854a-2f6580a102c1: Loaded 'SelectProduct.aspx'
+2017-05-11 20:05:18.5241 INFO bdd27e0f-bd74-4d2e-854a-2f6580a102c1: Loading page 'ConfirmPreview'
+2017-05-11 20:05:18.5865 INFO bdd27e0f-bd74-4d2e-854a-2f6580a102c1: Loading image with URL ImageBuilder.aspx?Line1=dfsdsdf&Line2=&Line3=&Line4=&Line5=&bankname=gfhgfhfgh&accountnumber=555555&routingnumber=061000052&bankcsz=fghgfh&bankphone=fghgfh&bankfraction=
+2017-05-11 20:07:27.8468 INFO bdd27e0f-bd74-4d2e-854a-2f6580a102c1: Session ended
+2017-05-11 20:07:50.1190 INFO c2238f8d-a34e-4095-b717-eeee0920e406: Session started
+2017-05-11 20:07:50.1960 INFO c2238f8d-a34e-4095-b717-eeee0920e406: Loaded 'SelectProduct.aspx'
+2017-05-11 20:08:22.7609 INFO c2238f8d-a34e-4095-b717-eeee0920e406: Loading page 'ConfirmPreview'
+2017-05-11 20:08:22.7609 INFO c2238f8d-a34e-4095-b717-eeee0920e406: Loading image with URL ImageBuilder.aspx?Line1=dfdfgdfg&Line2=&Line3=&Line4=&Line5=&bankname=fghgfh&accountnumber=55555&routingnumber=061000052&bankcsz=fghgfhgfhfgh&bankphone=fhfghfghfgh&bankfraction=
+2017-05-11 20:08:40.2989 INFO c2238f8d-a34e-4095-b717-eeee0920e406: Session ended
+2017-05-11 20:08:45.9742 INFO 7d8585d1-c392-4a30-8329-dfaf5bca1181: Session started
+2017-05-11 20:08:46.0522 INFO 7d8585d1-c392-4a30-8329-dfaf5bca1181: Loaded 'SelectProduct.aspx'
+2017-05-11 20:09:14.7450 INFO 7d8585d1-c392-4a30-8329-dfaf5bca1181: Loading page 'ConfirmPreview'
+2017-05-11 20:09:14.7606 INFO 7d8585d1-c392-4a30-8329-dfaf5bca1181: Loading image with URL ImageBuilder.aspx?Line1=dfgdfgdfg&Line2=&Line3=&Line4=&Line5=&bankname=fghdfhdfhdfh&accountnumber=555555&routingnumber=061000052&bankcsz=dfghdfhdf&bankphone=hdfghdfhdh&bankfraction=
+2017-05-11 20:09:41.4740 INFO 7d8585d1-c392-4a30-8329-dfaf5bca1181: Session ended
+2017-05-11 20:10:00.1646 INFO 8c1188c6-49c0-4221-8627-e3cf1a3aa0d6: Session started
+2017-05-11 20:10:00.2582 INFO 8c1188c6-49c0-4221-8627-e3cf1a3aa0d6: Loaded 'SelectProduct.aspx'
+2017-05-11 20:10:22.1984 INFO 8c1188c6-49c0-4221-8627-e3cf1a3aa0d6: Loading page 'ConfirmPreview'
+2017-05-11 20:10:22.2140 INFO 8c1188c6-49c0-4221-8627-e3cf1a3aa0d6: Loading image with URL ImageBuilder.aspx?Line1=gfhgfdh&Line2=&Line3=&Line4=&Line5=&bankname=dfhdh&accountnumber=555555&routingnumber=061000052&bankcsz=dfhdghdghdfghdf&bankphone=hdfhdghdfh&bankfraction=
+2017-05-11 20:11:25.1187 INFO 8c1188c6-49c0-4221-8627-e3cf1a3aa0d6: Session ended
+2017-05-11 20:12:21.1827 INFO 9cf6dceb-456a-47ab-80be-590040305a61: Session started
+2017-05-11 20:12:21.2607 INFO 9cf6dceb-456a-47ab-80be-590040305a61: Loaded 'SelectProduct.aspx'
+2017-05-11 20:12:45.4279 INFO 9cf6dceb-456a-47ab-80be-590040305a61: Loading page 'ConfirmPreview'
+2017-05-11 20:12:45.4591 INFO 9cf6dceb-456a-47ab-80be-590040305a61: Loading image with URL ImageBuilder.aspx?Line1=tyrryttr&Line2=&Line3=&Line4=&Line5=&bankname=rtytr&accountnumber=555555&routingnumber=061000052&bankcsz=ytrytrytr&bankphone=erytryrtyrty&bankfraction=
+2017-05-11 20:12:58.3076 INFO 9cf6dceb-456a-47ab-80be-590040305a61: Session ended

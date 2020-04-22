@@ -1,0 +1,33 @@
+2017-10-20 16:20:50.5319 INFO 5a592e17-77af-405b-bd07-6bf0713574c4: Session ended
+2017-10-20 16:20:55.2521 INFO 870c2a4a-17ce-45e9-ba21-c11e8dbb7730: Session started
+2017-10-20 16:20:55.4181 INFO 870c2a4a-17ce-45e9-ba21-c11e8dbb7730: Loaded 'SelectProduct.aspx'
+2017-10-20 16:21:17.6894 INFO 870c2a4a-17ce-45e9-ba21-c11e8dbb7730: Loading page 'ConfirmPreview'
+2017-10-20 16:21:18.0374 INFO 870c2a4a-17ce-45e9-ba21-c11e8dbb7730: Loading image with URL CheckImageBuilder.aspx?ProductKey=38&AccountNumber=1000837737
+2017-10-20 16:21:18.2795 INFO 870c2a4a-17ce-45e9-ba21-c11e8dbb7730: Loading CheckImageBuilder.aspx
+2017-10-20 16:21:19.1425 INFO 870c2a4a-17ce-45e9-ba21-c11e8dbb7730: Using base image:../images/checks/EliteAccountsPayable/Background-blue.jpg
+2017-10-20 16:21:19.1425 INFO 870c2a4a-17ce-45e9-ba21-c11e8dbb7730: Graphics object created from image
+2017-10-20 16:21:19.2125 INFO 870c2a4a-17ce-45e9-ba21-c11e8dbb7730: Started saving graphic object
+2017-10-20 16:21:19.2355 INFO 870c2a4a-17ce-45e9-ba21-c11e8dbb7730: Bitmap saved to memorystream
+2017-10-20 16:21:19.2355 INFO 870c2a4a-17ce-45e9-ba21-c11e8dbb7730: Buffer size: 36623
+2017-10-20 16:21:44.3699 INFO 870c2a4a-17ce-45e9-ba21-c11e8dbb7730: logo saved to: \\shoughtonhome\weblogos\053140111-1000837737-9a8934ec-a0eb-407d-a98d-04fb5fbf166b.gif
+2017-10-20 16:21:44.4810 INFO 870c2a4a-17ce-45e9-ba21-c11e8dbb7730: logo saved to: 053140111-1000837737-9a8934ec-a0eb-407d-a98d-04fb5fbf166b.jpg
+2017-10-20 16:21:59.9668 INFO 870c2a4a-17ce-45e9-ba21-c11e8dbb7730: logo saved to: \\shoughtonhome\weblogos\053140111-1000837737-da7adcc2-9547-453c-8859-9d6f5096af12.jpg
+2017-10-20 16:21:59.9898 INFO 870c2a4a-17ce-45e9-ba21-c11e8dbb7730: logo saved to: 053140111-1000837737-da7adcc2-9547-453c-8859-9d6f5096af12.jpg
+2017-10-20 16:22:08.9113 INFO 870c2a4a-17ce-45e9-ba21-c11e8dbb7730: Loading page 'ConfirmPreview'
+2017-10-20 16:22:09.2274 INFO 870c2a4a-17ce-45e9-ba21-c11e8dbb7730: Loading image with URL CheckImageBuilder.aspx?ProductKey=38&AccountNumber=1000837737
+2017-10-20 16:22:09.3484 INFO 870c2a4a-17ce-45e9-ba21-c11e8dbb7730: Loading CheckImageBuilder.aspx
+2017-10-20 16:22:09.4084 INFO 870c2a4a-17ce-45e9-ba21-c11e8dbb7730: Using base image:../images/checks/EliteAccountsPayable/Background-blue.jpg
+2017-10-20 16:22:09.4664 INFO 870c2a4a-17ce-45e9-ba21-c11e8dbb7730: Graphics object created from image
+2017-10-20 16:22:09.4764 INFO 870c2a4a-17ce-45e9-ba21-c11e8dbb7730: Started saving graphic object
+2017-10-20 16:22:09.4944 INFO 870c2a4a-17ce-45e9-ba21-c11e8dbb7730: Bitmap saved to memorystream
+2017-10-20 16:22:09.4944 INFO 870c2a4a-17ce-45e9-ba21-c11e8dbb7730: Buffer size: 36623
+2017-10-20 16:25:34.5871 INFO 870c2a4a-17ce-45e9-ba21-c11e8dbb7730: Session ended
+2017-10-20 16:25:41.0535 INFO 08521925-3d3f-4723-8409-d517d5d6902e: Session started
+2017-10-20 16:38:56.0200 INFO bee255e4-e24f-4e46-a619-7bc1a1793abc: Session started
+2017-10-20 16:49:02.4966 INFO bee255e4-e24f-4e46-a619-7bc1a1793abc: Session ended
+2017-10-20 16:49:02.4966 INFO 08521925-3d3f-4723-8409-d517d5d6902e: Session ended
+2017-10-20 16:49:09.8131 INFO f925d342-b3f0-4bba-a3bf-e57abb967565: Session started
+2017-10-23 16:22:24.6294 INFO 21745bab-d6b6-4cda-8578-ced95760e5dc: Session started
+2017-10-23 16:33:04.6860 INFO 21745bab-d6b6-4cda-8578-ced95760e5dc: Session ended
+2017-10-23 16:33:13.7525 INFO ea7cd4f6-17fe-449c-a556-3b00210440ae: Session started
+2017-10-23 16:54:00.7438 INFO ea7cd4f6-17fe-449c-a556-3b00210440ae: Session ended

@@ -1,0 +1,46 @@
+2017-10-20 18:00:22.5994 INFO dbcb4f70-2044-42a1-9c95-b6feeae9ed06: Session ended
+2017-10-20 18:30:28.0487 INFO 0eceece5-5e52-40ee-be1e-c4f7d59efcf7: Session started
+2017-10-20 18:33:24.0838 INFO 0eceece5-5e52-40ee-be1e-c4f7d59efcf7: Session ended
+2017-10-20 18:33:28.1680 INFO 989fe723-73c0-470f-bc1c-c0345ccd5d54: Session started
+2017-10-20 18:56:00.8024 INFO 989fe723-73c0-470f-bc1c-c0345ccd5d54: Session ended
+2017-10-21 06:06:42.5599 INFO c27e1096-910b-4457-b11f-3ed1847f0832: Session started
+2017-10-21 06:06:42.9187 INFO c27e1096-910b-4457-b11f-3ed1847f0832: artuploader page load
+2017-10-21 06:07:56.3878 INFO c27e1096-910b-4457-b11f-3ed1847f0832: artuploader page load
+2017-10-21 06:08:54.8691 INFO c27e1096-910b-4457-b11f-3ed1847f0832: artuploader page load
+2017-10-21 06:09:06.4592 INFO c27e1096-910b-4457-b11f-3ed1847f0832: artuploader page load
+2017-10-21 06:09:18.0980 INFO c27e1096-910b-4457-b11f-3ed1847f0832: artuploader page load
+2017-10-21 06:09:30.1786 INFO c27e1096-910b-4457-b11f-3ed1847f0832: artuploader page load
+2017-10-21 06:10:07.1601 INFO c27e1096-910b-4457-b11f-3ed1847f0832: artuploader page load
+2017-10-21 06:10:37.1309 INFO c27e1096-910b-4457-b11f-3ed1847f0832: artuploader page load
+2017-10-21 06:11:12.9123 INFO c27e1096-910b-4457-b11f-3ed1847f0832: artuploader page load
+2017-10-21 06:11:24.3082 INFO c27e1096-910b-4457-b11f-3ed1847f0832: artuploader page load
+2017-10-21 06:11:36.5438 INFO c27e1096-910b-4457-b11f-3ed1847f0832: artuploader page load
+2017-10-21 06:12:53.3583 INFO c27e1096-910b-4457-b11f-3ed1847f0832: artuploader page load
+2017-10-21 06:13:36.3079 INFO c27e1096-910b-4457-b11f-3ed1847f0832: artuploader page load
+2017-10-21 06:15:34.6358 INFO c27e1096-910b-4457-b11f-3ed1847f0832: artuploader page load
+2017-10-21 06:17:13.2326 INFO c27e1096-910b-4457-b11f-3ed1847f0832: artuploader page load
+2017-10-21 06:18:27.0636 INFO c27e1096-910b-4457-b11f-3ed1847f0832: Session ended
+2017-10-21 06:18:30.4682 INFO d7177653-2ad8-46ce-a79a-8ef3dfebd8f5: Session started
+2017-10-21 06:18:30.5150 INFO d7177653-2ad8-46ce-a79a-8ef3dfebd8f5: artuploader page load
+2017-10-21 06:19:01.1683 INFO d7177653-2ad8-46ce-a79a-8ef3dfebd8f5: artuploader page load
+2017-10-21 06:19:14.1362 INFO d7177653-2ad8-46ce-a79a-8ef3dfebd8f5: artuploader page load
+2017-10-21 06:19:23.1548 INFO d7177653-2ad8-46ce-a79a-8ef3dfebd8f5: artuploader page load
+2017-10-21 06:19:45.9027 INFO d7177653-2ad8-46ce-a79a-8ef3dfebd8f5: artuploader page load
+2017-10-21 06:20:29.5319 INFO d7177653-2ad8-46ce-a79a-8ef3dfebd8f5: artuploader page load
+2017-10-21 06:22:10.7560 INFO d7177653-2ad8-46ce-a79a-8ef3dfebd8f5: artuploader page load
+2017-10-21 06:22:24.3365 INFO d7177653-2ad8-46ce-a79a-8ef3dfebd8f5: artuploader page load
+2017-10-21 06:35:53.8726 INFO d7177653-2ad8-46ce-a79a-8ef3dfebd8f5: artuploader page load
+2017-10-21 06:36:19.8771 INFO d7177653-2ad8-46ce-a79a-8ef3dfebd8f5: artuploader page load
+2017-10-21 06:37:51.4441 INFO d7177653-2ad8-46ce-a79a-8ef3dfebd8f5: artuploader page load
+2017-10-21 06:38:11.0502 INFO d7177653-2ad8-46ce-a79a-8ef3dfebd8f5: artuploader page load
+2017-10-21 06:38:11.0658 INFO d7177653-2ad8-46ce-a79a-8ef3dfebd8f5: 
+2017-10-21 06:38:47.4733 INFO d7177653-2ad8-46ce-a79a-8ef3dfebd8f5: artuploader page load
+2017-10-21 06:38:47.4889 INFO d7177653-2ad8-46ce-a79a-8ef3dfebd8f5: 
+2017-10-21 06:42:39.5388 INFO d7177653-2ad8-46ce-a79a-8ef3dfebd8f5: Session ended
+2017-10-21 06:46:36.9139 INFO ec0ba86a-6350-47c4-84cd-04bbce725aa5: Session started
+2017-10-21 06:50:45.4522 INFO ec0ba86a-6350-47c4-84cd-04bbce725aa5: Session ended
+2017-10-21 06:50:51.3492 INFO a539999f-50ae-4d8b-8cab-0c83f42c0c76: Session started
+2017-10-21 06:54:34.9218 INFO a539999f-50ae-4d8b-8cab-0c83f42c0c76: Session ended
+2017-10-21 06:54:40.8036 INFO fb3b5889-5f2a-4e9c-bdf3-2e6a2ebf12da: Session started
+2017-10-22 06:04:35.2949 INFO 844d294a-a803-41da-8ff7-187bc641e8ae: Session started
+2017-10-22 06:47:02.9486 INFO 844d294a-a803-41da-8ff7-187bc641e8ae: Session ended

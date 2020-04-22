@@ -1,0 +1,26 @@
+2018-08-01 20:58:21.8282 INFO c67fe50c-5ef2-498b-8370-6361f0b7dda3: Session started
+2018-08-01 20:59:04.6467 INFO c67fe50c-5ef2-498b-8370-6361f0b7dda3: Session ended
+2018-08-01 20:59:10.2441 INFO 104e8f32-c46f-4db1-aad8-3152b00cd1aa: Session started
+2018-08-01 20:59:10.3221 INFO 104e8f32-c46f-4db1-aad8-3152b00cd1aa: Loaded 'SelectProduct.aspx'
+2018-08-01 20:59:21.6285 INFO 104e8f32-c46f-4db1-aad8-3152b00cd1aa: Ignored error in RemoveUnapprovedChecksFromInvoice
+2018-08-01 20:59:44.3756 ERROR 104e8f32-c46f-4db1-aad8-3152b00cd1aa: Error in: http://localhost:64322/OrderStart/SelectProduct.aspx
+Error Message:Cannot open database "CheckProject_Test" requested by the login. The login failed.
+Login failed for user 'SHOUGHTONHOME\steveh'.
+Stack Trace:   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at AdvLaser.AdvLaserDataAccess.ProductTypeDataAccess.GetProductTypeList(String aSQL) in c:\AdvantageLaser\AdvantageLaserData\Data\BusObjects\DataAccess\ProductTypeDataAccess.cs:line 116
+   at CheckProject.OrderStart.SelectProduct.Page_Load(Object sender, EventArgs e) in c:\AdvantageLaser\CheckProject\OrderStart\SelectProduct.aspx.cs:line 27
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at CheckProject.WebUtils.BasePage.OnLoad(EventArgs e) in c:\AdvantageLaser\CheckProject\webutils\BasePage.cs:line 79
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) Cannot open database "CheckProject_Test" requested by the login. The login failed.
+Login failed for user 'SHOUGHTONHOME\steveh'.
+2018-08-01 20:59:46.6708 INFO 104e8f32-c46f-4db1-aad8-3152b00cd1aa: Loaded 'SelectProduct.aspx'
+2018-08-01 20:59:54.8327 INFO 104e8f32-c46f-4db1-aad8-3152b00cd1aa: Loaded 'ConfirmOrder.aspx'
