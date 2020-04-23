@@ -193,9 +193,10 @@
 {
     background-color:#7392C3;
     font-family:Arial;
-    font-size:11;
     font-weight:bold;
+    vertical-align: middle;
     height:22px;
+    line-height: 22px;
 }
 .header2
 {
@@ -253,7 +254,6 @@
    font-size:12px;
    height:20px;
    background-color:#ffffff;
-   border-style:solid;
    border-color:#7392c3;
    border-width:1px;
    text-decoration:none;
